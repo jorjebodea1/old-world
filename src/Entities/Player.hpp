@@ -2,11 +2,11 @@
 #define Player_hpp
 
 #include "Entity.hpp"
-#include "Model3DGLB.hpp"
+#include "Models/Model3DGLB.hpp"
 #include "GLFW/glfw3.h"
-#include "Keyboard.hpp";
+#include "InputHandling/Keyboard.hpp";
 #include "Tile.hpp"
-#include "Collision.hpp"
+#include "CollisionSystem/Collision.hpp"
 namespace gps {
 	class Player
 	{

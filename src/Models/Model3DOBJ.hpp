@@ -1,10 +1,10 @@
 #ifndef Model3D_hpp
 #define Model3D_hpp
 
-#include "Mesh.hpp"
+#include "Meshes/Mesh.hpp"
 
-#include "tiny_obj_loader.h"
-#include "stb_image.h"
+#include "Utilities/tiny_obj_loader.h"
+#include "Utilities/stb_image.h"
 
 #include <iostream>
 #include <string>

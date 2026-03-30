@@ -9,10 +9,10 @@
 
 #include <glm/glm.hpp>
 
-#include "Shader.hpp"
-#include "Transform.hpp"
+#include "Utilities/Shader.hpp"
+#include "Utilities/Transform.hpp"
 #include "glm/gtx/euler_angles.hpp"
-#include "Mesh.hpp"
+#include "Meshes/Mesh.hpp"
 namespace gps {
 	class AABB
 	{

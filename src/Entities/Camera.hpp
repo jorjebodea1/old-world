@@ -4,7 +4,7 @@
 #include <glm/glm.hpp>
 #include <glm/gtx/transform.hpp>
 #include "Player.hpp"
-#include "Mouse.hpp"
+#include "InputHandling/Mouse.hpp"
 
 #include <string>
 

@@ -1,6 +1,6 @@
 #pragma once
 #include "Mesh.hpp"
-#include "cgltf.h"
+#include "Utilities/cgltf.h"
 namespace gps {
 	struct BoneData {
 		glm::ivec4 joints;

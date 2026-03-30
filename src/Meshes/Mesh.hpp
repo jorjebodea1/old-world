@@ -10,7 +10,7 @@
 
 #include <glm/glm.hpp>
 
-#include "Shader.hpp"
+#include "Utilities/Shader.hpp"
 #include <string>
 #include <vector>
 struct cgltf_material;

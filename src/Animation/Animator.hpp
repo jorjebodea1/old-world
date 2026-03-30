@@ -1,6 +1,6 @@
 #pragma once
 
-#include "cgltf.h";
+#include "../Utilities/cgltf.h";
 #include <iostream>
 #include <glm/glm.hpp>
 #include <glm/gtx/quaternion.hpp>

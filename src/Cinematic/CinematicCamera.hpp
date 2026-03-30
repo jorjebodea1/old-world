@@ -1,10 +1,10 @@
 #pragma once
-#include "cgltf.h";
+#include "Utilities/cgltf.h";
 #include <glm/glm.hpp>
 #include <glm/gtx/quaternion.hpp>
 #include <glm/gtx/matrix_decompose.hpp>
 #include <glm/gtc/type_ptr.hpp>
-#include "AnimationClip.hpp"
+#include "Animation/AnimationClip.hpp"
 #include <unordered_map>
 namespace gps {
 	class CinematicCamera {

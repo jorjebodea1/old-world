@@ -1,8 +1,8 @@
 #pragma once
-#include "Model3DGLB.hpp"
-#include "Transform.hpp"
-#include "Animator.hpp"
-#include "AABB.hpp"
+#include "Models/Model3DGLB.hpp"
+#include "Utilities/Transform.hpp"
+#include "Animation/Animator.hpp"
+#include "Entities/AABB.hpp"
 namespace gps {
 	class Entity
 	{

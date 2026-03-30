@@ -1,9 +1,9 @@
 #pragma once
 
-#include "Entity.hpp"
-#include "StaticEntity.hpp"
-#include "Tile.hpp"
-#include "WorldLoader.hpp"
+#include "Entities/Entity.hpp"
+#include "Entities/StaticEntity.hpp"
+#include "Entities/Tile.hpp"
+#include "Utilities/WorldLoader.hpp"
 #include "glm/gtx/matrix_decompose.hpp"
 namespace gps {
 	class Collision {

@@ -1,8 +1,8 @@
 #pragma once
 
-#include "SkinnedMesh.hpp"
+#include "Meshes/SkinnedMesh.hpp"
 
-#include "stb_image.h"
+#include "Utilities/stb_image.h"
 
 #include <iostream>
 #include <string>

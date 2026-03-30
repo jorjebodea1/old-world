@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\InputHandling">
+      <UniqueIdentifier>{098e0977-a9f6-448c-81dc-11084980b065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Entities">
+      <UniqueIdentifier>{97eac781-a916-4637-ac7a-0315da0e2f97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utilities">
+      <UniqueIdentifier>{62ec6bbb-36fb-4c64-af6e-25d719ef28d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Models">
+      <UniqueIdentifier>{f5557057-a367-4486-b584-bdc545a93658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Meshes">
+      <UniqueIdentifier>{4e0cba81-ddb2-4086-bd8b-b5cb00abec7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\InputHandling">
+      <UniqueIdentifier>{2686c7e0-ac78-4197-a2dc-5ba4e011e456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entities">
+      <UniqueIdentifier>{8b941842-659f-43a5-a882-9968fe268635}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Models">
+      <UniqueIdentifier>{3b007890-ac58-453a-a1c3-267cadc03e8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Meshes">
+      <UniqueIdentifier>{1408a42e-ec8b-40e3-b7da-a6b5b787c2f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utilities">
+      <UniqueIdentifier>{998631f7-a13f-4b81-b726-ab4f75681556}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Animation">
+      <UniqueIdentifier>{0d926670-4934-43c0-8fdf-e3b174148c7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Animation">
+      <UniqueIdentifier>{0184d9db-aa16-4480-bdf7-dad11aa4f3fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\CollisionSystem">
+      <UniqueIdentifier>{e68125df-e080-478a-af4e-867e07e92065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CollisionSystem">
+      <UniqueIdentifier>{4e5b57f3-b0b6-4c93-aac9-a1a07700b3dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chat">
+      <UniqueIdentifier>{2a1b0fdb-f381-4b1e-8380-e7c6550d8509}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cinematic">
+      <UniqueIdentifier>{fe5474a8-d9f0-4724-8c76-9e02296cbd02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shadow">
+      <UniqueIdentifier>{525b7a5f-2718-4f5d-9a75-059432deea4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Skybox">
+      <UniqueIdentifier>{e870449b-efeb-415b-a230-dd75444a8532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chat">
+      <UniqueIdentifier>{84fe4330-c92c-46ae-85b0-b2302a2a1092}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cinematic">
+      <UniqueIdentifier>{54d8d889-a934-45df-8bc3-39c526a203e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shadow">
+      <UniqueIdentifier>{ae1fd0a4-e89e-4496-8ba1-b3220085d287}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Skybox">
+      <UniqueIdentifier>{bdf6e53a-4100-4920-ae59-1aaf2696c2e8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Animation\AnimationChannel.cpp">
+      <Filter>Source Files\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Animation\AnimationClip.cpp">
+      <Filter>Source Files\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Animation\Animator.cpp">
+      <Filter>Source Files\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CollisionSystem\BVH.cpp">
+      <Filter>Source Files\CollisionSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CollisionSystem\Collision.cpp">
+      <Filter>Source Files\CollisionSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entities\AABB.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entities\Camera.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entities\Entity.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entities\Player.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entities\StaticEntity.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entities\Tile.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\InputHandling\Keyboard.cpp">
+      <Filter>Source Files\InputHandling</Filter>
+    </ClCompile>
+    <ClCompile Include="src\InputHandling\Mouse.cpp">
+      <Filter>Source Files\InputHandling</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Meshes\Mesh.cpp">
+      <Filter>Source Files\Meshes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Meshes\SkinnedMesh.cpp">
+      <Filter>Source Files\Meshes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Models\Model3DGLB.cpp">
+      <Filter>Source Files\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Models\Model3DOBJ.cpp">
+      <Filter>Source Files\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\Shader.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\stb_image.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\tiny_obj_loader.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\WorldLoader.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Chat\Chat.cpp">
+      <Filter>Source Files\Chat</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Cinematic\CinematicCamera.cpp">
+      <Filter>Source Files\Cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Skybox\SkyBox.cpp">
+      <Filter>Source Files\Skybox</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Shadow\Shadow.cpp">
+      <Filter>Source Files\Shadow</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Animation\AnimationChannel.hpp">
+      <Filter>Header Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Animation\AnimationClip.hpp">
+      <Filter>Header Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Animation\Animator.hpp">
+      <Filter>Header Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CollisionSystem\BVH.hpp">
+      <Filter>Header Files\CollisionSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CollisionSystem\Collision.hpp">
+      <Filter>Header Files\CollisionSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entities\AABB.hpp">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entities\Camera.hpp">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entities\Entity.hpp">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entities\Player.hpp">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entities\StaticEntity.hpp">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entities\Tile.hpp">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\InputHandling\Keyboard.hpp">
+      <Filter>Header Files\InputHandling</Filter>
+    </ClInclude>
+    <ClInclude Include="src\InputHandling\Mouse.hpp">
+      <Filter>Header Files\InputHandling</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Meshes\Mesh.hpp">
+      <Filter>Header Files\Meshes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Meshes\SkinnedMesh.hpp">
+      <Filter>Header Files\Meshes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Models\Model3DGLB.hpp">
+      <Filter>Header Files\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Models\Model3DOBJ.hpp">
+      <Filter>Header Files\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\cgltf.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\Shader.hpp">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\stb_image.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\stb_image_writer.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\tiny_obj_loader.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\Transform.hpp">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\WorldLoader.hpp">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Chat\Chat.hpp">
+      <Filter>Header Files\Chat</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Cinematic\CinematicCamera.hpp">
+      <Filter>Header Files\Cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Shadow\Shadow.hpp">
+      <Filter>Header Files\Shadow</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Skybox\SkyBox.hpp">
+      <Filter>Header Files\Skybox</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shaders\depthMapShader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\depthMapShader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\screenQuad.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\screenQuad.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\shaderStart.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\shaderStart.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\skyboxShader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\skyboxShader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\worldShader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\shaders\worldShader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

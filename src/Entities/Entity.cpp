@@ -1,6 +1,6 @@
 #include "Entity.hpp"
 #define CGLTF_IMPLEMENTATION
-#include "cgltf.h"
+#include "Utilities/cgltf.h"
 namespace gps {
 	Entity::Entity(Transform entityTransform, AABB entityAABB){
 		this->entityTransform = std::move(entityTransform);

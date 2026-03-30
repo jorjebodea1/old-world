@@ -1,9 +1,9 @@
 #pragma once
 
-#include "Model3DOBJ.hpp"
-#include "AABB.hpp"
-#include "Transform.hpp"
-#include "BVH.hpp"
+#include "Models/Model3DOBJ.hpp"
+#include "Entities/AABB.hpp"
+#include "Utilities/Transform.hpp"
+#include "CollisionSystem/BVH.hpp"
 
 namespace gps {
 	class StaticEntity

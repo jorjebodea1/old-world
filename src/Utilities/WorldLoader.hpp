@@ -4,9 +4,9 @@
 #include <fstream>
 #include <sstream>
 #include <unordered_map>
-#include "Model3DOBJ.hpp"
-#include "StaticEntity.hpp"
-#include "Tile.hpp"
+#include "Models/Model3DOBJ.hpp"
+#include "Entities/StaticEntity.hpp"
+#include "Entities/Tile.hpp"
 #include <filesystem>
 #include <glm/gtc/quaternion.hpp>
 #include <glm/gtx/euler_angles.hpp>
@@ -14,7 +14,7 @@
 #include "rapidjson/document.h"
 #include "rapidjson/filereadstream.h"
 #include "Transform.hpp"
-#include "SkyBox.hpp"
+#include "Skybox/SkyBox.hpp"
 namespace gps {
 	class WorldLoader
 	{

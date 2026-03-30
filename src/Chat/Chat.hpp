@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Keyboard.hpp"
+#include "InputHandling/Keyboard.hpp"
 #include <iostream>
 
 namespace gps {

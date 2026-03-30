@@ -19,72 +19,74 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AABB.cpp" />
-    <ClCompile Include="AnimationChannel.cpp" />
-    <ClCompile Include="AnimationClip.cpp" />
-    <ClCompile Include="Animator.cpp" />
-    <ClCompile Include="BVH.cpp" />
-    <ClCompile Include="Camera.cpp" />
-    <ClCompile Include="Chat.cpp" />
-    <ClCompile Include="CinematicCamera.cpp" />
-    <ClCompile Include="Collision.cpp" />
-    <ClCompile Include="Entity.cpp" />
-    <ClCompile Include="Shadow.cpp" />
-    <ClCompile Include="SkyBox.cpp" />
-    <ClCompile Include="Tile.cpp" />
-    <ClCompile Include="WorldLoader.cpp" />
-    <ClCompile Include="Keyboard.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="Mesh.cpp" />
-    <ClCompile Include="Model3DGLB.cpp" />
-    <ClCompile Include="Model3DOBJ.cpp" />
-    <ClCompile Include="Mouse.cpp" />
-    <ClCompile Include="Player.cpp" />
-    <ClCompile Include="Shader.cpp" />
-    <ClCompile Include="SkinnedMesh.cpp" />
-    <ClCompile Include="StaticEntity.cpp" />
-    <ClCompile Include="stb_image.cpp" />
-    <ClCompile Include="tiny_obj_loader.cpp" />
+    <ClCompile Include="src\Animation\AnimationChannel.cpp" />
+    <ClCompile Include="src\Animation\AnimationClip.cpp" />
+    <ClCompile Include="src\Animation\Animator.cpp" />
+    <ClCompile Include="src\Chat\Chat.cpp" />
+    <ClCompile Include="src\Cinematic\CinematicCamera.cpp" />
+    <ClCompile Include="src\CollisionSystem\BVH.cpp" />
+    <ClCompile Include="src\CollisionSystem\Collision.cpp" />
+    <ClCompile Include="src\Entities\AABB.cpp" />
+    <ClCompile Include="src\Entities\Camera.cpp" />
+    <ClCompile Include="src\Entities\Entity.cpp" />
+    <ClCompile Include="src\Entities\Player.cpp" />
+    <ClCompile Include="src\Entities\StaticEntity.cpp" />
+    <ClCompile Include="src\Entities\Tile.cpp" />
+    <ClCompile Include="src\InputHandling\Keyboard.cpp" />
+    <ClCompile Include="src\InputHandling\Mouse.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Meshes\Mesh.cpp" />
+    <ClCompile Include="src\Meshes\SkinnedMesh.cpp" />
+    <ClCompile Include="src\Models\Model3DGLB.cpp" />
+    <ClCompile Include="src\Models\Model3DOBJ.cpp" />
+    <ClCompile Include="src\Shadow\Shadow.cpp" />
+    <ClCompile Include="src\Skybox\SkyBox.cpp" />
+    <ClCompile Include="src\Utilities\Shader.cpp" />
+    <ClCompile Include="src\Utilities\stb_image.cpp" />
+    <ClCompile Include="src\Utilities\tiny_obj_loader.cpp" />
+    <ClCompile Include="src\Utilities\WorldLoader.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AABB.hpp" />
-    <ClInclude Include="AnimationClip.hpp" />
-    <ClInclude Include="AnimationChannel.hpp" />
-    <ClInclude Include="Animator.hpp" />
-    <ClInclude Include="BVH.hpp" />
-    <ClInclude Include="Camera.hpp" />
-    <ClInclude Include="cgltf.h" />
-    <ClInclude Include="Chat.hpp" />
-    <ClInclude Include="CinematicCamera.hpp" />
-    <ClInclude Include="Collision.hpp" />
-    <ClInclude Include="Entity.hpp" />
-    <ClInclude Include="Shadow.hpp" />
-    <ClInclude Include="SkyBox.hpp" />
-    <ClInclude Include="Tile.hpp" />
-    <ClInclude Include="WorldLoader.hpp" />
-    <ClInclude Include="Keyboard.hpp" />
-    <ClInclude Include="Mesh.hpp" />
-    <ClInclude Include="Model3DGLB.hpp" />
-    <ClInclude Include="Model3DOBJ.hpp" />
-    <ClInclude Include="Mouse.hpp" />
-    <ClInclude Include="Player.hpp" />
-    <ClInclude Include="Shader.hpp" />
-    <ClInclude Include="SkinnedMesh.hpp" />
-    <ClInclude Include="StaticEntity.hpp" />
-    <ClInclude Include="stb_image.h" />
-    <ClInclude Include="stb_image_writer.h" />
-    <ClInclude Include="tiny_obj_loader.h" />
-    <ClInclude Include="Transform.hpp" />
+    <ClInclude Include="src\Animation\AnimationChannel.hpp" />
+    <ClInclude Include="src\Animation\AnimationClip.hpp" />
+    <ClInclude Include="src\Animation\Animator.hpp" />
+    <ClInclude Include="src\Chat\Chat.hpp" />
+    <ClInclude Include="src\Cinematic\CinematicCamera.hpp" />
+    <ClInclude Include="src\CollisionSystem\BVH.hpp" />
+    <ClInclude Include="src\CollisionSystem\Collision.hpp" />
+    <ClInclude Include="src\Entities\AABB.hpp" />
+    <ClInclude Include="src\Entities\Camera.hpp" />
+    <ClInclude Include="src\Entities\Entity.hpp" />
+    <ClInclude Include="src\Entities\Player.hpp" />
+    <ClInclude Include="src\Entities\StaticEntity.hpp" />
+    <ClInclude Include="src\Entities\Tile.hpp" />
+    <ClInclude Include="src\InputHandling\Keyboard.hpp" />
+    <ClInclude Include="src\InputHandling\Mouse.hpp" />
+    <ClInclude Include="src\Meshes\Mesh.hpp" />
+    <ClInclude Include="src\Meshes\SkinnedMesh.hpp" />
+    <ClInclude Include="src\Models\Model3DGLB.hpp" />
+    <ClInclude Include="src\Models\Model3DOBJ.hpp" />
+    <ClInclude Include="src\Shadow\Shadow.hpp" />
+    <ClInclude Include="src\Skybox\SkyBox.hpp" />
+    <ClInclude Include="src\Utilities\cgltf.h" />
+    <ClInclude Include="src\Utilities\Shader.hpp" />
+    <ClInclude Include="src\Utilities\stb_image.h" />
+    <ClInclude Include="src\Utilities\stb_image_writer.h" />
+    <ClInclude Include="src\Utilities\tiny_obj_loader.h" />
+    <ClInclude Include="src\Utilities\Transform.hpp" />
+    <ClInclude Include="src\Utilities\WorldLoader.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="shaders\depthMapShader.frag" />
-    <None Include="shaders\depthMapShader.vert" />
-    <None Include="shaders\shaderStart.frag" />
-    <None Include="shaders\shaderStart.vert" />
-    <None Include="shaders\skyboxShader.frag" />
-    <None Include="shaders\skyboxShader.vert" />
-    <None Include="shaders\worldShader.frag" />
-    <None Include="shaders\worldShader.vert" />
+    <None Include="Resources\shaders\depthMapShader.frag" />
+    <None Include="Resources\shaders\depthMapShader.vert" />
+    <None Include="Resources\shaders\screenQuad.frag" />
+    <None Include="Resources\shaders\screenQuad.vert" />
+    <None Include="Resources\shaders\shaderStart.frag" />
+    <None Include="Resources\shaders\shaderStart.vert" />
+    <None Include="Resources\shaders\skyboxShader.frag" />
+    <None Include="Resources\shaders\skyboxShader.vert" />
+    <None Include="Resources\shaders\worldShader.frag" />
+    <None Include="Resources\shaders\worldShader.vert" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -92,6 +94,7 @@
     <ProjectGuid>{862f3d19-2f47-45e1-af37-c5ebc7250785}</ProjectGuid>
     <RootNamespace>lab6</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>OldWorld</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -195,7 +198,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\Visual Studio\OpenGL_dev_libs\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Visual Studio\OpenGL_dev_libs\include;$(ProjectDir)src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>

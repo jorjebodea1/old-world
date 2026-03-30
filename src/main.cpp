@@ -7,7 +7,7 @@
 //
 
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "stb_image_writer.h"
+#include "Utilities/stb_image_writer.h"
 
 #if defined (__APPLE__)
 	#define GLFW_INCLUDE_GLCOREARB
@@ -31,21 +31,21 @@
 
 #include <string>
 #include <algorithm>
-#include "Shader.hpp"
-#include "Camera.hpp"
-#include "Model3DOBJ.hpp"
-#include "Model3DGLB.hpp"
-#include "Keyboard.hpp"
-#include "Mouse.hpp"
-#include "WorldLoader.hpp"
+#include "Utilities/Shader.hpp"
+#include "Entities/Camera.hpp"
+#include "Models/Model3DOBJ.hpp"
+#include "Models/Model3DGLB.hpp"
+#include "InputHandling/Keyboard.hpp"
+#include "InputHandling/Mouse.hpp"
+#include "Utilities/WorldLoader.hpp"
 #include <filesystem>
-#include "Transform.hpp"
-#include "Collision.hpp"
-#include "StaticEntity.hpp"
-#include "SkyBox.hpp"
-#include "Shadow.hpp"
-#include "CinematicCamera.hpp"
-#include "Chat.hpp"
+#include "Utilities/Transform.hpp"
+#include "CollisionSystem/Collision.hpp"
+#include "Entities/StaticEntity.hpp"
+#include "Skybox/SkyBox.hpp"
+#include "Shadow/Shadow.hpp"
+#include "Cinematic/CinematicCamera.hpp"
+#include "Chat/Chat.hpp"
 
 int glWindowWidth = 1920;
 int glWindowHeight = 1080;
