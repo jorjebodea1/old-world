@@ -1,0 +1,3 @@
+newmtl mat_pa_ritual_stone_01_tex
+illum 1
+map_Kd pa_ritual_stone_01_tex.png

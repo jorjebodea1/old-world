@@ -1,0 +1,203 @@
+{
+	"fileType": "m2",
+	"fileDataID": 532503,
+	"fileName": "world/expansion04/doodads/pandaren/still/pa_still_01.m2",
+	"internalName": "PA_Still_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/keg/pa_keg_b_02.blp",
+			"fileNameExternal": "..\\keg\\pa_keg_b_02.png",
+			"mtlName": "mat_pa_keg_b_02",
+			"flags": 0,
+			"fileDataID": 531035
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/still/pa_still_01.blp",
+			"fileNameExternal": "pa_still_01.png",
+			"mtlName": "mat_pa_still_01",
+			"flags": 0,
+			"fileDataID": 532502
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/orbreflectbright.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\orbreflectbright.png",
+			"mtlName": "mat_orbreflectbright",
+			"flags": 0,
+			"fileDataID": 147183
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.0004303455352783,
+			-3.205315113067627,
+			-0.525071918964386
+		],
+		"max": [
+			1.9842071533203125,
+			3.0406196117401123,
+			8.48754596710205
+		]
+	},
+	"boundingSphereRadius": 5.21115779876709,
+	"collisionBox": {
+		"min": [
+			-1.97685968875885,
+			-2.618108034133911,
+			-1.0603103637695312
+		],
+		"max": [
+			2.0496957302093506,
+			2.6554489135742188,
+			7.56974983215332
+		]
+	},
+	"collisionSphereRadius": 5.17537260055542,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 284,
+				"triangleStart": 0,
+				"triangleCount": 801,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.7254350781440735,
+					-2.0089735984802246,
+					2.4715394973754883
+				],
+				"sortCenterPosition": [
+					0.6307513117790222,
+					-2.036886215209961,
+					2.520353317260742
+				],
+				"sortRadius": 1.499220609664917
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 284,
+				"vertexCount": 2195,
+				"triangleStart": 801,
+				"triangleCount": 6957,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.22682996094226837,
+					0.05455038696527481,
+					4.251622676849365
+				],
+				"sortCenterPosition": [
+					-0.014323592185974121,
+					-0.06646549701690674,
+					3.9812369346618652
+				],
+				"sortRadius": 5.203079700469971
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/still/pa_still_0100.skin",
+		"fileDataID": 532504
+	}
+}

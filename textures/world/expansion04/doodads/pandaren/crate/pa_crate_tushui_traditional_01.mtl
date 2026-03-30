@@ -1,0 +1,6 @@
+newmtl mat_pa_crate_tushui_traditional
+illum 1
+map_Kd pa_crate_tushui_traditional.png
+newmtl mat_armorreflect4
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\shield\armorreflect4.png

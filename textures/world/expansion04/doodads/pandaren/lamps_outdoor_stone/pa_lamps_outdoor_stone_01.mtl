@@ -1,0 +1,9 @@
+newmtl mat_pa_fence_post_03
+illum 1
+map_Kd pa_fence_post_03.png
+newmtl mat_worgen_flame_01
+illum 1
+map_Kd worgen_flame_01.png
+newmtl mat_worgen_glow_01
+illum 1
+map_Kd worgen_glow_01.png

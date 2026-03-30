@@ -1,0 +1,268 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528649,
+	"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_kit_01.m2",
+	"internalName": "PA_Alchemy_Kit_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/alchemy/pa_alchemygear.blp",
+			"fileNameExternal": "pa_alchemygear.png",
+			"mtlName": "mat_pa_alchemygear",
+			"flags": 0,
+			"fileDataID": 528618
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/head/smoothreflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\head\\smoothreflect.png",
+			"mtlName": "mat_smoothreflect",
+			"flags": 0,
+			"fileDataID": 142579
+		},
+		{
+			"fileNameInternal": "world/expansion01/doodads/zulaman/doors/t_vfx_fire03_a.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion01\\doodads\\zulaman\\doors\\t_vfx_fire03_a.png",
+			"mtlName": "mat_t_vfx_fire03_a",
+			"flags": 0,
+			"fileDataID": 194041
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/generic/elementiumore/rainbowenviro_bright.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion03\\doodads\\generic\\elementiumore\\rainbowenviro_bright.png",
+			"mtlName": "mat_rainbowenviro_bright",
+			"flags": 0,
+			"fileDataID": 371795
+		},
+		{
+			"fileNameInternal": "spells/t_vfx_smoke_creepy.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\spells\\t_vfx_smoke_creepy.png",
+			"mtlName": "mat_t_vfx_smoke_creepy",
+			"flags": 0,
+			"fileDataID": 167084
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/armorreflect_hard.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\armorreflect_hard.png",
+			"mtlName": "mat_armorreflect_hard",
+			"flags": 0,
+			"fileDataID": 144333
+		},
+		{
+			"fileNameInternal": "spells/spittle2.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\spells\\spittle2.png",
+			"mtlName": "mat_spittle2",
+			"flags": 0,
+			"fileDataID": 241043
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		0,
+		3,
+		0,
+		5
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.5059916973114014,
+			-0.824649453163147,
+			-0.06417274475097656
+		],
+		"max": [
+			0.5260611772537231,
+			0.824649453163147,
+			1.9715955257415771
+		]
+	},
+	"boundingSphereRadius": 1.3699887990951538,
+	"collisionBox": {
+		"min": [
+			-0.5000532865524292,
+			-0.8337382078170776,
+			0
+		],
+		"max": [
+			0.41003066301345825,
+			0.8247846961021423,
+			1.372430443763733
+		]
+	},
+	"collisionSphereRadius": 1.1686012744903564,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 711,
+				"triangleStart": 0,
+				"triangleCount": 1899,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.015944218263030052,
+					0.07181672006845474,
+					0.4676942825317383
+				],
+				"sortCenterPosition": [
+					0.015944218263030052,
+					0.07181672006845474,
+					0.4676942825317383
+				],
+				"sortRadius": 1.1787559986114502
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 711,
+				"vertexCount": 70,
+				"triangleStart": 1899,
+				"triangleCount": 240,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.014152823947370052,
+					-0.10452350974082947,
+					0.4158988296985626
+				],
+				"sortCenterPosition": [
+					-0.015079081058502197,
+					-0.19515220820903778,
+					0.35814255475997925
+				],
+				"sortRadius": 0.5736113786697388
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 781,
+				"vertexCount": 154,
+				"triangleStart": 2139,
+				"triangleCount": 672,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.05829162895679474,
+					-0.017903415486216545,
+					0.6241392493247986
+				],
+				"sortCenterPosition": [
+					-0.05011066794395447,
+					-0.20202136039733887,
+					0.6367468237876892
+				],
+				"sortRadius": 0.6331850290298462
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 4,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 4,
+				"shaderID": 30,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 3,
+				"shaderID": 28,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_kit_0100.skin",
+		"fileDataID": 528650
+	}
+}

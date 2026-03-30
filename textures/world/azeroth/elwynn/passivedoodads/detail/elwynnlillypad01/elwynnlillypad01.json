@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 189759,
+	"fileName": "world/azeroth/elwynn/passivedoodads/detail/elwynnlillypad01/elwynnlillypad01.m2",
+	"internalName": "ElwynnLillyPad01",
+	"textures": [
+		{
+			"fileNameInternal": "world/azeroth/duskwood/passivedoodads/detail/duskwoodthornbush02/lillypad01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\duskwood\\passivedoodads\\detail\\duskwoodthornbush02\\lillypad01.png",
+			"mtlName": "mat_lillypad01",
+			"flags": 0,
+			"fileDataID": 189439
+		},
+		{
+			"fileNameInternal": "world/azeroth/duskwood/passivedoodads/detail/duskwoodlillypad01/lillypad02.blp",
+			"fileNameExternal": "..\\..\\..\\..\\duskwood\\passivedoodads\\detail\\duskwoodlillypad01\\lillypad02.png",
+			"mtlName": "mat_lillypad02",
+			"flags": 0,
+			"fileDataID": 189431
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		1,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.77069091796875,
+			-0.740908682346344,
+			-1.9445767402648926
+		],
+		"max": [
+			0.7554202675819397,
+			0.7852025032043457,
+			0
+		]
+	},
+	"boundingSphereRadius": 1.4525331258773804,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 15,
+				"triangleStart": 0,
+				"triangleCount": 21,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.03317176178097725,
+					-0.024354325607419014,
+					-1.1667989492416382
+				],
+				"sortCenterPosition": [
+					0.03317176550626755,
+					-0.010342130437493324,
+					-0.9723544120788574
+				],
+				"sortRadius": 0.9743404984474182
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 15,
+				"vertexCount": 8,
+				"triangleStart": 21,
+				"triangleCount": 12,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.007635325193405151,
+					0.022146910429000854,
+					0
+				],
+				"sortCenterPosition": [
+					-0.007635325193405151,
+					0.022146910429000854,
+					0
+				],
+				"sortRadius": 1.0791234970092773
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/azeroth/elwynn/passivedoodads/detail/elwynnlillypad01/elwynnlillypad0100.skin",
+		"fileDataID": 494510
+	}
+}

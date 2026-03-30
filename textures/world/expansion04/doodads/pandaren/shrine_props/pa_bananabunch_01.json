@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 593220,
+	"fileName": "world/expansion04/doodads/pandaren/shrine_props/pa_bananabunch_01.m2",
+	"internalName": "PA_bananaBunch_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_props/shrine_props.blp",
+			"fileNameExternal": "shrine_props.png",
+			"mtlName": "mat_shrine_props",
+			"flags": 0,
+			"fileDataID": 528697
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.649095449669403e-7,
+			-0.21720844507217407,
+			-0.23591405153274536
+		],
+		"max": [
+			0.5233592391014099,
+			0.15527598559856415,
+			0.12815243005752563
+		]
+	},
+	"boundingSphereRadius": 0.3192112445831299,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 110,
+				"triangleStart": 0,
+				"triangleCount": 600,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.24142225086688995,
+					-0.008996644988656044,
+					-0.07935217022895813
+				],
+				"sortCenterPosition": [
+					0.2616795003414154,
+					-0.030966229736804962,
+					-0.05388081073760986
+				],
+				"sortRadius": 0.3192112445831299
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/shrine_props/pa_bananabunch_0100.skin",
+		"fileDataID": 593221
+	}
+}

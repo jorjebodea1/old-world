@@ -1,0 +1,3 @@
+newmtl mat_tu_redtree_trunk
+illum 1
+map_Kd ..\redtree\tu_redtree_trunk.png

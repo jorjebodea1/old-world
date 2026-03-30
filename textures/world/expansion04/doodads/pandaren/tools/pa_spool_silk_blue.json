@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 588293,
+	"fileName": "world/expansion04/doodads/pandaren/tools/pa_spool_silk_blue.m2",
+	"internalName": "PA_Spool_Silk_Blue",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/tools/pa_spool_silk_tex.blp",
+			"fileNameExternal": "pa_spool_silk_tex.png",
+			"mtlName": "mat_pa_spool_silk_tex",
+			"flags": 3,
+			"fileDataID": 588292
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.19865061342716217,
+			-0.20364049077033997,
+			-0.009650051593780518
+		],
+		"max": [
+			0.34530165791511536,
+			0.23882484436035156,
+			0.5262154340744019
+		]
+	},
+	"boundingSphereRadius": 0.3857615888118744,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 178,
+				"triangleStart": 0,
+				"triangleCount": 756,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.02504599466919899,
+					0.022162843495607376,
+					0.2215833067893982
+				],
+				"sortCenterPosition": [
+					0.07332552224397659,
+					0.0175921767950058,
+					0.25828269124031067
+				],
+				"sortRadius": 0.3857615888118744
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/tools/pa_spool_silk_blue00.skin",
+		"fileDataID": 588294
+	}
+}

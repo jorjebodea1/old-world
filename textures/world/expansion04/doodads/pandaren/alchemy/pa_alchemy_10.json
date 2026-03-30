@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528637,
+	"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_10.m2",
+	"internalName": "PA_Alchemy_10",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/alchemy/pa_alchemygear.blp",
+			"fileNameExternal": "pa_alchemygear.png",
+			"mtlName": "mat_pa_alchemygear",
+			"flags": 0,
+			"fileDataID": 528618
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/head/smoothreflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\head\\smoothreflect.png",
+			"mtlName": "mat_smoothreflect",
+			"flags": 0,
+			"fileDataID": 142579
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.25253427028656006,
+			-0.26028677821159363,
+			-0.01431836187839508
+		],
+		"max": [
+			0.2525344491004944,
+			0.2602865695953369,
+			0.47424930334091187
+		]
+	},
+	"boundingSphereRadius": 0.3458295464515686,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 174,
+				"triangleStart": 0,
+				"triangleCount": 570,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.022448718547821045,
+					-0.01804099790751934,
+					0.26796990633010864
+				],
+				"sortCenterPosition": [
+					8.940696716308594e-8,
+					-1.043081283569336e-7,
+					0.229965478181839
+				],
+				"sortRadius": 0.3458295464515686
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 4,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_1000.skin",
+		"fileDataID": 528638
+	}
+}

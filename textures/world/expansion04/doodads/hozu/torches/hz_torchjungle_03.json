@@ -1,0 +1,134 @@
+{
+	"fileType": "m2",
+	"fileDataID": 537778,
+	"fileName": "world/expansion04/doodads/hozu/torches/hz_torchjungle_03.m2",
+	"internalName": "HZ_TorchJungle_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/torches/hozu_torch.blp",
+			"fileNameExternal": "hozu_torch.png",
+			"mtlName": "mat_hozu_torch",
+			"flags": 0,
+			"fileDataID": 537773
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/torches/t_vfx_fire01_a.blp",
+			"fileNameExternal": "t_vfx_fire01_a.png",
+			"mtlName": "mat_t_vfx_fire01_a",
+			"flags": 0,
+			"fileDataID": 1043703
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3273200988769531,
+			-0.19923420250415802,
+			-0.061144936829805374
+		],
+		"max": [
+			0.3108835220336914,
+			0.1813001185655594,
+			1.7012414932250977
+		]
+	},
+	"boundingSphereRadius": 1.0070390701293945,
+	"collisionBox": {
+		"min": [
+			-0.09183190017938614,
+			-0.08786232769489288,
+			-0.05617009475827217
+		],
+		"max": [
+			0.054648056626319885,
+			0.056982483714818954,
+			1.032216191291809
+		]
+	},
+	"collisionSphereRadius": 0.5491276979446411,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 409,
+				"triangleStart": 0,
+				"triangleCount": 1428,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.012554613873362541,
+					-0.01616709865629673,
+					0.7413720488548279
+				],
+				"sortCenterPosition": [
+					0.005126960575580597,
+					-0.008967041969299316,
+					0.4867897033691406
+				],
+				"sortRadius": 0.5527445673942566
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 7,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/torches/hz_torchjungle_0300.skin",
+		"fileDataID": 537779
+	}
+}

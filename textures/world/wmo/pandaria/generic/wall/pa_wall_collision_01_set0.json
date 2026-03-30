@@ -1,0 +1,393 @@
+{
+	"fileType": "wmo",
+	"fileDataID": 571446,
+	"fileName": "world/wmo/pandaria/generic/wall/pa_wall_collision_01.wmo",
+	"version": 17,
+	"counts": {
+		"material": 1,
+		"group": 1,
+		"portal": 0,
+		"light": 0,
+		"model": 0,
+		"doodad": 0,
+		"set": 1,
+		"lod": 0
+	},
+	"portalVertices": [],
+	"portalInfo": [],
+	"portalMapObjectRef": [],
+	"ambientColor": 4278190080,
+	"areaTableID": 6656,
+	"boundingBox1": [
+		-9.988080024719238,
+		-13.028728485107422,
+		-14.537460327148438
+	],
+	"boundingBox2": [
+		20.686426162719727,
+		18.453062057495117,
+		17.583620071411133
+	],
+	"fog": [
+		{
+			"flags": 0,
+			"position": [
+				0,
+				0,
+				0
+			],
+			"radiusSmall": 0,
+			"radiusLarge": 0,
+			"fog": {
+				"end": 444.4444580078125,
+				"startScalar": 0.25,
+				"color": 4294967295
+			},
+			"underwaterFog": {
+				"end": 222.22222900390625,
+				"startScalar": -0.5,
+				"color": 4278190335
+			}
+		}
+	],
+	"flags": 5,
+	"groups": [
+		{
+			"groupName": "WallEdge01",
+			"enabled": true,
+			"version": 17,
+			"flags": 73,
+			"boundingBox1": [
+				-9.988080024719238,
+				-13.028728485107422,
+				-14.537460327148438
+			],
+			"boundingBox2": [
+				20.686426162719727,
+				18.453062057495117,
+				17.583620071411133
+			],
+			"numPortals": 0,
+			"numBatchesA": 0,
+			"numBatchesB": 0,
+			"numBatchesC": 1,
+			"liquidType": 0,
+			"groupID": 32374,
+			"materialInfo": [
+				{
+					"flags": 100,
+					"materialID": 0
+				},
+				{
+					"flags": 100,
+					"materialID": 0
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				},
+				{
+					"flags": 74,
+					"materialID": 255
+				}
+			],
+			"renderBatches": [
+				{
+					"possibleBox1": [
+						65530,
+						65533,
+						65521
+					],
+					"possibleBox2": [
+						65531,
+						65534,
+						65522
+					],
+					"firstFace": 0,
+					"numFaces": 6,
+					"firstVertex": 0,
+					"lastVertex": 3,
+					"flags": 0,
+					"materialID": 0
+				}
+			]
+		}
+	],
+	"groupNames": [
+		"WallEdge01"
+	],
+	"groupInfo": [
+		{
+			"flags": 72,
+			"boundingBox1": [
+				-9.988080024719238,
+				-13.028728485107422,
+				-14.537460327148438
+			],
+			"boundingBox2": [
+				20.686426162719727,
+				18.453062057495117,
+				17.583620071411133
+			],
+			"nameIndex": -1
+		}
+	],
+	"textures": [
+		{
+			"fileDataID": 524588,
+			"fileNameInternal": "dungeons/textures/pandaren/base_houses/pa_redpillar.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\dungeons\\textures\\pandaren\\base_houses\\pa_redpillar.png",
+			"mtlName": "mat_pa_redpillar"
+		}
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"shader": 0,
+			"blendMode": 0,
+			"texture1": 524588,
+			"color1": 4278190080,
+			"color1b": 0,
+			"texture2": 0,
+			"color2": 4287993237,
+			"groupType": 10,
+			"texture3": 0,
+			"color3": 0,
+			"flags3": 0,
+			"runtimeData": [
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"doodadSets": [
+		{
+			"name": "Set_$DefaultGlobal",
+			"firstInstanceIndex": 0,
+			"doodadCount": 0,
+			"unused": 0
+		}
+	],
+	"doodads": [],
+	"groupIDs": [
+		571447
+	]
+}

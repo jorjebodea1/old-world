@@ -1,0 +1,3 @@
+newmtl mat_tu_mountaintreewhite_canopy
+illum 1
+map_Kd tu_mountaintreewhite_canopy.png

@@ -1,0 +1,134 @@
+{
+	"fileType": "m2",
+	"fileDataID": 537782,
+	"fileName": "world/expansion04/doodads/hozu/torches/hz_torchmountain_02.m2",
+	"internalName": "HZ_TorchMountain_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/torches/hozu_torch.blp",
+			"fileNameExternal": "hozu_torch.png",
+			"mtlName": "mat_hozu_torch",
+			"flags": 0,
+			"fileDataID": 537773
+		},
+		{
+			"fileNameInternal": "spells/t_vfx_fire01_a.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\spells\\t_vfx_fire01_a.png",
+			"mtlName": "mat_t_vfx_fire01_a",
+			"flags": 0,
+			"fileDataID": 167021
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3592700958251953,
+			-0.25250712037086487,
+			-0.07048691809177399
+		],
+		"max": [
+			0.40089893341064453,
+			0.23385250568389893,
+			1.720573902130127
+		]
+	},
+	"boundingSphereRadius": 1.0752224922180176,
+	"collisionBox": {
+		"min": [
+			-0.08975019305944443,
+			-0.07383064925670624,
+			-0.06551232933998108
+		],
+		"max": [
+			0.0567297600209713,
+			0.0710141584277153,
+			1.0228739976882935
+		]
+	},
+	"collisionSphereRadius": 0.5491276979446411,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 193,
+				"triangleStart": 0,
+				"triangleCount": 780,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.012249595485627651,
+					-0.006403062026947737,
+					0.6231918931007385
+				],
+				"sortCenterPosition": [
+					-0.013340350240468979,
+					-0.0067724622786045074,
+					0.47744762897491455
+				],
+				"sortRadius": 0.5531399846076965
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 7,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/torches/hz_torchmountain_0200.skin",
+		"fileDataID": 537783
+	}
+}

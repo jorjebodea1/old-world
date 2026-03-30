@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 522493,
+	"fileName": "world/expansion04/doodads/turtlezone/rocks/tu_largerocks_02.m2",
+	"internalName": "TU_LargeRocks_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/rocks/tu_largerocks_01.blp",
+			"fileNameExternal": "tu_largerocks_01.png",
+			"mtlName": "mat_tu_largerocks_01",
+			"flags": 3,
+			"fileDataID": 522490
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.444068193435669,
+			-1.205242395401001,
+			0.10609430819749832
+		],
+		"max": [
+			1.7475247383117676,
+			1.5328518152236938,
+			6.583488941192627
+		]
+	},
+	"boundingSphereRadius": 3.601672410964966,
+	"collisionBox": {
+		"min": [
+			-1.444068193435669,
+			-1.195919394493103,
+			0.10609430819749832
+		],
+		"max": [
+			1.7475247383117676,
+			1.5209290981292725,
+			6.583488464355469
+		]
+	},
+	"collisionSphereRadius": 3.601672410964966,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 317,
+				"triangleStart": 0,
+				"triangleCount": 1848,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.09852433949708939,
+					0.08505669236183167,
+					2.5816705226898193
+				],
+				"sortCenterPosition": [
+					0.15172827243804932,
+					0.16380470991134644,
+					3.3447916507720947
+				],
+				"sortRadius": 3.601672410964966
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/rocks/tu_largerocks_0200.skin",
+		"fileDataID": 522494
+	}
+}

@@ -1,0 +1,159 @@
+{
+	"fileType": "m2",
+	"fileDataID": 412602,
+	"fileName": "world/environment/doodad/generaldoodads/steamclouds/generic_steam_cloud_thinner.m2",
+	"internalName": "Generic_Steam_Cloud_Thinner",
+	"textures": [
+		{
+			"fileNameInternal": "world/environment/doodad/generaldoodads/steamclouds/skywall_fog_clouds_01.blp",
+			"fileNameExternal": "skywall_fog_clouds_01.png",
+			"mtlName": "mat_skywall_fog_clouds_01",
+			"flags": 3,
+			"fileDataID": 1083118
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 336,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							1,
+							1,
+							1
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					8192
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-3.787099599838257,
+			-3.4246487617492676,
+			-3.216399669647217
+		],
+		"max": [
+			3.609424114227295,
+			4.206420421600342,
+			3.020282745361328
+		]
+	},
+	"boundingSphereRadius": 4.231453895568848,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1512,
+				"triangleStart": 0,
+				"triangleCount": 8820,
+				"boneCount": 21,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 6,
+				"centerPosition": [
+					0.09286326915025711,
+					0.16242629289627075,
+					0.25405099987983704
+				],
+				"sortCenterPosition": [
+					-0.10922002792358398,
+					0.39414501190185547,
+					-0.08373367786407471
+				],
+				"sortRadius": 3.993086576461792
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 32787,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/environment/doodad/generaldoodads/steamclouds/generic_steam_cloud_thinner00.skin",
+		"fileDataID": 495280
+	}
+}

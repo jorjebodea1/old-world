@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 519837,
+	"fileName": "world/expansion04/doodads/pandaren/stone_walls/pa_stone_walls_04.m2",
+	"internalName": "PA_Stone_Walls_04",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/arched_gateway/pa_stone_wall_01b.blp",
+			"fileNameExternal": "..\\arched_gateway\\pa_stone_wall_01b.png",
+			"mtlName": "mat_pa_stone_wall_01b",
+			"flags": 3,
+			"fileDataID": 537765
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.7037708759307861,
+			-12.316521644592285,
+			-2.228699207305908
+		],
+		"max": [
+			5.762837886810303,
+			12.269729614257812,
+			7.426249027252197
+		]
+	},
+	"boundingSphereRadius": 13.178753852844238,
+	"collisionBox": {
+		"min": [
+			-1.9481947422027588,
+			-12.79885196685791,
+			-2.3103489875793457
+		],
+		"max": [
+			6.140486240386963,
+			12.778382301330566,
+			7.457727909088135
+		]
+	},
+	"collisionSphereRadius": 13.270021438598633,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1012,
+				"triangleStart": 0,
+				"triangleCount": 3192,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					1.8693736791610718,
+					0.1485489308834076,
+					4.699897766113281
+				],
+				"sortCenterPosition": [
+					2.0295333862304688,
+					-0.023396015167236328,
+					2.5987749099731445
+				],
+				"sortRadius": 13.178753852844238
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/stone_walls/pa_stone_walls_0400.skin",
+		"fileDataID": 519838
+	}
+}

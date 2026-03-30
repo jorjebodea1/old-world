@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528748,
+	"fileName": "world/expansion04/doodads/pandaren/cookware/pa_bowl_01.m2",
+	"internalName": "PA_bowl_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_props/shrine_props.blp",
+			"fileNameExternal": "..\\shrine_props\\shrine_props.png",
+			"mtlName": "mat_shrine_props",
+			"flags": 0,
+			"fileDataID": 528697
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.23730117082595825,
+			-0.23730087280273438,
+			-2.6490994287087233e-8
+		],
+		"max": [
+			0.23730090260505676,
+			0.2373010814189911,
+			0.1346537172794342
+		]
+	},
+	"boundingSphereRadius": 0.24666716158390045,
+	"collisionBox": {
+		"min": [
+			-0.23875559866428375,
+			-0.23875559866428375,
+			0
+		],
+		"max": [
+			0.23875559866428375,
+			0.23875559866428375,
+			0.13743692636489868
+		]
+	},
+	"collisionSphereRadius": 0.24844813346862793,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 50,
+				"triangleStart": 0,
+				"triangleCount": 240,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-8.404254714378112e-8,
+					2.9802322831784522e-9,
+					0.08457910269498825
+				],
+				"sortCenterPosition": [
+					-8.404254714378112e-8,
+					2.9802322831784522e-9,
+					0.08457910269498825
+				],
+				"sortRadius": 0.2425267994403839
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/cookware/pa_bowl_0100.skin",
+		"fileDataID": 528749
+	}
+}

@@ -1,0 +1,9 @@
+newmtl mat_waterfall01
+illum 1
+map_Kd waterfall01.png
+newmtl mat_waterfalldropssmall
+illum 1
+map_Kd ..\..\..\stonetalon\passivedoodads\waterwheel\waterfalldropssmall.png
+newmtl mat_waterwake3
+illum 1
+map_Kd ..\..\..\..\..\spells\waterwake3.png

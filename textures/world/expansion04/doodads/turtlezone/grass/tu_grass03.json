@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 514771,
+	"fileName": "world/expansion04/doodads/turtlezone/grass/tu_grass03.m2",
+	"internalName": "TU_Grass03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/grass/tu_grass01.blp",
+			"fileNameExternal": "tu_grass01.png",
+			"mtlName": "mat_tu_grass01",
+			"flags": 3,
+			"fileDataID": 514766
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.663890838623047,
+			-2.986241102218628,
+			-1.695695161819458
+		],
+		"max": [
+			3.2090399265289307,
+			2.6809871196746826,
+			3.252314805984497
+		]
+	},
+	"boundingSphereRadius": 3.6212821006774902,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 135,
+				"triangleStart": 0,
+				"triangleCount": 360,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.5110803842544556,
+					-0.009071766398847103,
+					0.2894201874732971
+				],
+				"sortCenterPosition": [
+					0.2725745439529419,
+					-0.15262699127197266,
+					0.7783098220825195
+				],
+				"sortRadius": 3.6212821006774902
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/grass/tu_grass0300.skin",
+		"fileDataID": 514772
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528659,
+	"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_ladle.m2",
+	"internalName": "PA_Alchemy_Ladle",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/alchemy/pa_alchemygear.blp",
+			"fileNameExternal": "pa_alchemygear.png",
+			"mtlName": "mat_pa_alchemygear",
+			"flags": 0,
+			"fileDataID": 528618
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/head/smoothreflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\head\\smoothreflect.png",
+			"mtlName": "mat_smoothreflect",
+			"flags": 0,
+			"fileDataID": 142579
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.749016523361206,
+			-0.22907815873622894,
+			-0.006345060653984547
+		],
+		"max": [
+			0.7815643548965454,
+			0.21394819021224976,
+			0.23614902794361115
+		]
+	},
+	"boundingSphereRadius": 0.7675025463104248,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 146,
+				"triangleStart": 0,
+				"triangleCount": 540,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.16576579213142395,
+					0.006462498102337122,
+					0.0988139733672142
+				],
+				"sortCenterPosition": [
+					0.016273915767669678,
+					-0.0075649842619895935,
+					0.11490198224782944
+				],
+				"sortRadius": 0.7675025463104248
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 4,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_ladle00.skin",
+		"fileDataID": 528660
+	}
+}

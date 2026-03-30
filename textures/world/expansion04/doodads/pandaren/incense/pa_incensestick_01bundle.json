@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 522105,
+	"fileName": "world/expansion04/doodads/pandaren/incense/pa_incensestick_01bundle.m2",
+	"internalName": "PA_incenseStick_01bundle",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/incense/pa_incensesticks_01.blp",
+			"fileNameExternal": "pa_incensesticks_01.png",
+			"mtlName": "mat_pa_incensesticks_01",
+			"flags": 0,
+			"fileDataID": 522104
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.24283011257648468,
+			-0.2876732051372528,
+			-0.2552624046802521
+		],
+		"max": [
+			0.28005754947662354,
+			0.23521442711353302,
+			2.0689234733581543
+		]
+	},
+	"boundingSphereRadius": 1.1660830974578857,
+	"collisionBox": {
+		"min": [
+			-0.24343980848789215,
+			-0.28137144446372986,
+			-0.2578515410423279
+		],
+		"max": [
+			0.24343980848789215,
+			0.21939663589000702,
+			1.9383493661880493
+		]
+	},
+	"collisionSphereRadius": 1.1522932052612305,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 261,
+				"triangleStart": 0,
+				"triangleCount": 990,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.009321984834969044,
+					-0.02332638017833233,
+					0.745799720287323
+				],
+				"sortCenterPosition": [
+					0.018613718450069427,
+					-0.026229389011859894,
+					0.8298107981681824
+				],
+				"sortRadius": 1.0994173288345337
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/incense/pa_incensestick_01bundle00.skin",
+		"fileDataID": 522106
+	}
+}

@@ -1,0 +1,247 @@
+{
+	"fileType": "m2",
+	"fileDataID": 531174,
+	"fileName": "world/expansion04/doodads/pandaren/keg/pa_keg_deluxe_02u.m2",
+	"internalName": "PA_Keg_Deluxe_02U",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/keg/pa_keg_accessories_01.blp",
+			"fileNameExternal": "pa_keg_accessories_01.png",
+			"mtlName": "mat_pa_keg_accessories_01",
+			"flags": 3,
+			"fileDataID": 531041
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lantern_paper/pa_lantern_paper_round_red_fancy_01.blp",
+			"fileNameExternal": "..\\lantern_paper\\pa_lantern_paper_round_red_fancy_01.png",
+			"mtlName": "mat_pa_lantern_paper_round_red_fancy_01",
+			"flags": 0,
+			"fileDataID": 526370
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/keg/pa_keg_d_02u.blp",
+			"fileNameExternal": "pa_keg_d_02u.png",
+			"mtlName": "mat_pa_keg_d_02u",
+			"flags": 0,
+			"fileDataID": 531063
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.8186203837394714,
+			-0.8236091732978821,
+			0.0007669660844840109
+		],
+		"max": [
+			1.2626413106918335,
+			0.8254266381263733,
+			1.9032821655273438
+		]
+	},
+	"boundingSphereRadius": 1.3268240690231323,
+	"collisionBox": {
+		"min": [
+			-0.8176820874214172,
+			-0.8147938847541809,
+			0
+		],
+		"max": [
+			1.2397161722183228,
+			0.8197099566459656,
+			1.8249825239181519
+		]
+	},
+	"collisionSphereRadius": 1.3750863075256348,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 378,
+				"triangleStart": 0,
+				"triangleCount": 1392,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.597109854221344,
+					0.0012257227208465338,
+					1.2773712873458862
+				],
+				"sortCenterPosition": [
+					0.3832373321056366,
+					0.0033434778451919556,
+					1.2193597555160522
+				],
+				"sortRadius": 1.091332197189331
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 378,
+				"vertexCount": 194,
+				"triangleStart": 1392,
+				"triangleCount": 852,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					1.0539724826812744,
+					-0.002004660665988922,
+					0.4009426534175873
+				],
+				"sortCenterPosition": [
+					1.0645005702972412,
+					0.00780554860830307,
+					0.37369510531425476
+				],
+				"sortRadius": 0.36460956931114197
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 572,
+				"vertexCount": 314,
+				"triangleStart": 2244,
+				"triangleCount": 912,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.002062324434518814,
+					0.0009239541832357645,
+					0.9238770008087158
+				],
+				"sortCenterPosition": [
+					0.0022538602352142334,
+					0.0009087324142456055,
+					0.9217455387115479
+				],
+				"sortRadius": 1.1523394584655762
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/keg/pa_keg_deluxe_02u00.skin",
+		"fileDataID": 531175
+	}
+}

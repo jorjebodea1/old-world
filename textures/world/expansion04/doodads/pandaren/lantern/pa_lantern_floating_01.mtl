@@ -1,0 +1,12 @@
+newmtl mat_worgen_flame_01
+illum 1
+map_Kd worgen_flame_01.png
+newmtl mat_pa_lantern_paper_final_01
+illum 1
+map_Kd pa_lantern_paper_final_01.png
+newmtl mat_glowball02
+illum 1
+map_Kd glowball02.png
+newmtl mat_pa_lantern_paper_glow_tex_01
+illum 1
+map_Kd pa_lantern_paper_glow_tex_01.png

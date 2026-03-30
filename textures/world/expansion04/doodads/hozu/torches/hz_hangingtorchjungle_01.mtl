@@ -1,0 +1,9 @@
+newmtl mat_hozu_torch
+illum 1
+map_Kd hozu_torch.png
+newmtl mat_fire1
+illum 1
+map_Kd fire1.png
+newmtl mat_t_vfx_fire01_a
+illum 1
+map_Kd t_vfx_fire01_a.png

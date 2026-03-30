@@ -1,0 +1,6 @@
+newmtl mat_herbs
+illum 1
+map_Kd herbs.png
+newmtl mat_orbreflectdarkergrey
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\throne\orbreflectdarkergrey.png

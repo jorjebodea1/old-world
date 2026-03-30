@@ -1,0 +1,169 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528481,
+	"fileName": "world/expansion04/doodads/pandaren/ricesieve/pa_ricesieve_01.m2",
+	"internalName": "PA_RiceSieve_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/ricesieve/ricesieve.blp",
+			"fileNameExternal": "ricesieve.png",
+			"mtlName": "mat_ricesieve",
+			"flags": 0,
+			"fileDataID": 528480
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/orbreflectbright.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\orbreflectbright.png",
+			"mtlName": "mat_orbreflectbright",
+			"flags": 3,
+			"fileDataID": 147183
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.6784313917160034,
+							0.7450980544090271,
+							0.7843137979507446
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.6167701482772827,
+			-1.2262412309646606,
+			0.0007695299573242664
+		],
+		"max": [
+			0.5646342635154724,
+			0.047096773982048035,
+			0.4252704381942749
+		]
+	},
+	"boundingSphereRadius": 0.6675289869308472,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 302,
+				"triangleStart": 0,
+				"triangleCount": 1356,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.025403708219528198,
+					-0.5891441702842712,
+					0.24723629653453827
+				],
+				"sortCenterPosition": [
+					-0.025403708219528198,
+					-0.5891441702842712,
+					0.24723629653453827
+				],
+				"sortRadius": 0.6584694981575012
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 25,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/ricesieve/pa_ricesieve_0100.skin",
+		"fileDataID": 528482
+	}
+}

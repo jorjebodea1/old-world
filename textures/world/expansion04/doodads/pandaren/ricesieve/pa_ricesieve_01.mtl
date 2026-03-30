@@ -1,0 +1,6 @@
+newmtl mat_ricesieve
+illum 1
+map_Kd ricesieve.png
+newmtl mat_orbreflectbright
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\weapon\orbreflectbright.png

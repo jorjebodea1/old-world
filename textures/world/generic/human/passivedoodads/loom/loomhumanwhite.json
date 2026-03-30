@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 198338,
+	"fileName": "world/generic/human/passive doodads/loom/loomhumanwhite.m2",
+	"internalName": "LoomHumanWhite",
+	"textures": [
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/cloth/clothstuff.blp",
+			"fileNameExternal": "..\\cloth\\clothstuff.png",
+			"mtlName": "mat_clothstuff",
+			"flags": 0,
+			"fileDataID": 198132
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.49476495385169983,
+			-1.0451390743255615,
+			0.000542978523299098
+		],
+		"max": [
+			0.47394371032714844,
+			1.0706230401992798,
+			2.29315447807312
+		]
+	},
+	"boundingSphereRadius": 1.5256903171539307,
+	"collisionBox": {
+		"min": [
+			-0.5000087022781372,
+			-1.047725796699524,
+			-0.007637659553438425
+		],
+		"max": [
+			0.4702787399291992,
+			1.0763964653015137,
+			2.300657033920288
+		]
+	},
+	"collisionSphereRadius": 1.6417655944824219,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 268,
+				"triangleStart": 0,
+				"triangleCount": 600,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.033284615725278854,
+					0.008988257497549057,
+					0.861387312412262
+				],
+				"sortCenterPosition": [
+					-0.010410621762275696,
+					0.01274198293685913,
+					1.1468486785888672
+				],
+				"sortRadius": 1.5256901979446411
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/generic/human/passive doodads/loom/loomhumanwhite00.skin",
+		"fileDataID": 504492
+	}
+}

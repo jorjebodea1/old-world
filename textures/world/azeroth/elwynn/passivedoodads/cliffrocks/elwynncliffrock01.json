@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 189715,
+	"fileName": "world/azeroth/elwynn/passivedoodads/cliffrocks/elwynncliffrock01.m2",
+	"internalName": "ElwynnCliffRock01",
+	"textures": [
+		{
+			"fileNameInternal": "world/azeroth/elwynn/passivedoodads/cliffrocks/newwetrock02.blp",
+			"fileNameExternal": "newwetrock02.png",
+			"mtlName": "mat_newwetrock02",
+			"flags": 3,
+			"fileDataID": 189720
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-8.109945297241211,
+			-9.471626281738281,
+			-1.263413429260254
+		],
+		"max": [
+			7.755772113800049,
+			9.775643348693848,
+			12.308307647705078
+		]
+	},
+	"boundingSphereRadius": 12.092288970947266,
+	"collisionBox": {
+		"min": [
+			-8.109946250915527,
+			-9.471626281738281,
+			-1.263413429260254
+		],
+		"max": [
+			7.755772113800049,
+			9.775643348693848,
+			12.308305740356445
+		]
+	},
+	"collisionSphereRadius": 12.092288970947266,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 30,
+				"triangleStart": 0,
+				"triangleCount": 168,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.052377596497535706,
+					1.9509943723678589,
+					4.796694755554199
+				],
+				"sortCenterPosition": [
+					-0.17708659172058105,
+					0.1520085334777832,
+					5.522447109222412
+				],
+				"sortRadius": 12.092289924621582
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/azeroth/elwynn/passivedoodads/cliffrocks/elwynncliffrock0100.skin",
+		"fileDataID": 494481
+	}
+}

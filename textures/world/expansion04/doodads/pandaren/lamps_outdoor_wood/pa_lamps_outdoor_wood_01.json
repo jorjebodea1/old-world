@@ -1,0 +1,357 @@
+{
+	"fileType": "m2",
+	"fileDataID": 522488,
+	"fileName": "world/expansion04/doodads/pandaren/lamps_outdoor_wood/pa_lamps_outdoor_wood_01.m2",
+	"internalName": "PA_Lamps_Outdoor_Wood_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lamps_outdoor_wood/pa_bamboohouse_lamp_01.blp",
+			"fileNameExternal": "pa_bamboohouse_lamp_01.png",
+			"mtlName": "mat_pa_bamboohouse_lamp_01",
+			"flags": 0,
+			"fileDataID": 1043594
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lamps_outdoor_wood/pa_lamps_outdoor_wood_01.blp",
+			"fileNameExternal": "pa_lamps_outdoor_wood_01.png",
+			"mtlName": "mat_pa_lamps_outdoor_wood_01",
+			"flags": 3,
+			"fileDataID": 523266
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lamps_outdoor_wood/armorreflect4.blp",
+			"fileNameExternal": "armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 1043595
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lamps_outdoor_wood/worgen_glow_01.blp",
+			"fileNameExternal": "worgen_glow_01.png",
+			"mtlName": "mat_worgen_glow_01",
+			"flags": 0,
+			"fileDataID": 1043596
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lamps_outdoor_wood/worgen_flame_01.blp",
+			"fileNameExternal": "worgen_flame_01.png",
+			"mtlName": "mat_worgen_flame_01",
+			"flags": 3,
+			"fileDataID": 1043597
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		4,
+		3
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 1,
+			"timestamps": [
+				[
+					0,
+					400,
+					800,
+					1067,
+					1333,
+					1867,
+					2267,
+					2667,
+					2933,
+					3600,
+					5067,
+					5467
+				],
+				[
+					0,
+					400,
+					666,
+					933,
+					1466,
+					1866,
+					2266,
+					2533,
+					3200,
+					4666,
+					5066
+				]
+			],
+			"values": [
+				[
+					32767,
+					32767,
+					11468,
+					32767,
+					8192,
+					32767,
+					6553,
+					32767,
+					15073,
+					29490,
+					12451,
+					32767
+				],
+				[
+					32767,
+					3277,
+					32767,
+					13107,
+					32767,
+					9830,
+					32767,
+					15073,
+					29490,
+					8192,
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.2379437685012817,
+			-3.710909366607666,
+			-1.1898577213287354
+		],
+		"max": [
+			1.23800528049469,
+			1.2441644668579102,
+			6.80302619934082
+		]
+	},
+	"boundingSphereRadius": 4.704071044921875,
+	"collisionBox": {
+		"min": [
+			-1.150414228439331,
+			-3.7875192165374756,
+			-1.148267388343811
+		],
+		"max": [
+			1.1504143476486206,
+			1.1504143476486206,
+			6.821352481842041
+		]
+	},
+	"collisionSphereRadius": 4.687697410583496,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 245,
+				"triangleStart": 0,
+				"triangleCount": 930,
+				"boneCount": 8,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.006640960928052664,
+					-1.108233094215393,
+					3.2081971168518066
+				],
+				"sortCenterPosition": [
+					-0.0002670884132385254,
+					-1.157012939453125,
+					3.5450966358184814
+				],
+				"sortRadius": 3.4478912353515625
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 245,
+				"vertexCount": 583,
+				"triangleStart": 930,
+				"triangleCount": 1617,
+				"boneCount": 8,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-0.014911171048879623,
+					-2.2598183155059814,
+					3.232208013534546
+				],
+				"sortCenterPosition": [
+					0.00003075599670410156,
+					-1.2256206274032593,
+					2.806584358215332
+				],
+				"sortRadius": 4.698019027709961
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 828,
+				"vertexCount": 16,
+				"triangleStart": 2547,
+				"triangleCount": 36,
+				"boneCount": 8,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 4,
+				"centerPosition": [
+					-0.0016812202520668507,
+					-3.0064618587493896,
+					2.453115940093994
+				],
+				"sortCenterPosition": [
+					-0.001103971153497696,
+					-3.0032029151916504,
+					2.4748897552490234
+				],
+				"sortRadius": 0.10712051391601562
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 844,
+				"vertexCount": 70,
+				"triangleStart": 2583,
+				"triangleCount": 132,
+				"boneCount": 8,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-0.024033984169363976,
+					-3.019688844680786,
+					2.4105589389801025
+				],
+				"sortCenterPosition": [
+					-0.024042382836341858,
+					-3.0145437717437744,
+					2.4150986671447754
+				],
+				"sortRadius": 0.4734949469566345
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 0,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 5,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/lamps_outdoor_wood/pa_lamps_outdoor_wood_0100.skin",
+		"fileDataID": 522489
+	}
+}

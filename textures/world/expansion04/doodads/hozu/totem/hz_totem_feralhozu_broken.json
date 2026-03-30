@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 538703,
+	"fileName": "world/expansion04/doodads/hozu/totem/hz_totem_feralhozu_broken.m2",
+	"internalName": "HZ_Totem_FeralHozu_Broken",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/totem/hz_totem_feralhozu_broken.blp",
+			"fileNameExternal": "hz_totem_feralhozu_broken.png",
+			"mtlName": "mat_hz_totem_feralhozu_broken",
+			"flags": 0,
+			"fileDataID": 538702
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.1027441024780273,
+			-0.6118596196174622,
+			-0.0897488072514534
+		],
+		"max": [
+			0.9359511137008667,
+			0.7905022501945496,
+			2.701289415359497
+		]
+	},
+	"boundingSphereRadius": 1.5190314054489136,
+	"collisionBox": {
+		"min": [
+			-0.7039872407913208,
+			-0.6001699566841125,
+			-0.11267164349555969
+		],
+		"max": [
+			0.9461281895637512,
+			0.5956394076347351,
+			2.794565439224243
+		]
+	},
+	"collisionSphereRadius": 1.66417396068573,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1745,
+				"triangleStart": 0,
+				"triangleCount": 4866,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0059576029889285564,
+					0.07290565222501755,
+					1.2247172594070435
+				],
+				"sortCenterPosition": [
+					-0.0059576029889285564,
+					0.07290565222501755,
+					1.2247172594070435
+				],
+				"sortRadius": 1.479200005531311
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/totem/hz_totem_feralhozu_broken00.skin",
+		"fileDataID": 538704
+	}
+}

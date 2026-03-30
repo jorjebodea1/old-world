@@ -1,0 +1,364 @@
+{
+	"fileType": "m2",
+	"fileDataID": 537083,
+	"fileName": "world/expansion04/doodads/turtlezone/waterfalls/tu_waterfalls_customedge_02.m2",
+	"internalName": "TU_Waterfalls_CustomEdge_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/pandawater_06.blp",
+			"fileNameExternal": "pandawater_06.png",
+			"mtlName": "mat_pandawater_06",
+			"flags": 3,
+			"fileDataID": 517301
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/waterfall/pandawater_staticoverlay02.blp",
+			"fileNameExternal": "..\\..\\valleyoffourwinds\\waterfall\\pandawater_staticoverlay02.png",
+			"mtlName": "mat_pandawater_staticoverlay02",
+			"flags": 0,
+			"fileDataID": 536007
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/pandawater_falls_top_04static_green.blp",
+			"fileNameExternal": "pandawater_falls_top_04static_green.png",
+			"mtlName": "mat_pandawater_falls_top_04static_green",
+			"flags": 0,
+			"fileDataID": 537080
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		0,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					19660
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					26214
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						2867
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 1,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						3667
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 2,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						4000
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		0,
+		65535,
+		1,
+		65535,
+		2,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-46.665618896484375,
+			-18.395214080810547,
+			-24.089893341064453
+		],
+		"max": [
+			29.227508544921875,
+			33.52867126464844,
+			10.386802673339844
+		]
+	},
+	"boundingSphereRadius": 49.103179931640625,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 112,
+				"triangleStart": 0,
+				"triangleCount": 540,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-19.38226890563965,
+					21.729816436767578,
+					-2.138753652572632
+				],
+				"sortCenterPosition": [
+					-16.734050750732422,
+					18.2547664642334,
+					-5.099630832672119
+				],
+				"sortRadius": 34.145626068115234
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 112,
+				"vertexCount": 140,
+				"triangleStart": 540,
+				"triangleCount": 684,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-19.77416229248047,
+					-3.326526165008545,
+					-3.99535870552063
+				],
+				"sortCenterPosition": [
+					-15.286301612854004,
+					0.0696721076965332,
+					-6.968340873718262
+				],
+				"sortRadius": 37.21589279174805
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 252,
+				"vertexCount": 49,
+				"triangleStart": 1224,
+				"triangleCount": 216,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					7.2556538581848145,
+					6.838696002960205,
+					10.385398864746094
+				],
+				"sortCenterPosition": [
+					12.037445068359375,
+					7.566728591918945,
+					10.38361644744873
+				],
+				"sortRadius": 31.137128829956055
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 128,
+				"priority": 0,
+				"shaderID": 16404,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 128,
+				"priority": 0,
+				"shaderID": 16404,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 2
+			},
+			{
+				"flags": 128,
+				"priority": 2,
+				"shaderID": 16404,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 4
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/waterfalls/tu_waterfalls_customedge_0200.skin",
+		"fileDataID": 537084
+	}
+}

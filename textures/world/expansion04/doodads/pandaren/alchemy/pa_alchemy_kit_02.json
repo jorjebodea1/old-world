@@ -1,0 +1,191 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528651,
+	"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_kit_02.m2",
+	"internalName": "PA_Alchemy_Kit_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/alchemy/pa_alchemygear.blp",
+			"fileNameExternal": "pa_alchemygear.png",
+			"mtlName": "mat_pa_alchemygear",
+			"flags": 0,
+			"fileDataID": 528618
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/head/smoothreflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\head\\smoothreflect.png",
+			"mtlName": "mat_smoothreflect",
+			"flags": 0,
+			"fileDataID": 142579
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/armorreflect_hard.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\armorreflect_hard.png",
+			"mtlName": "mat_armorreflect_hard",
+			"flags": 0,
+			"fileDataID": 144333
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		0,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.45363330841064453,
+			-0.4449564516544342,
+			-0.00646047480404377
+		],
+		"max": [
+			0.4951383173465729,
+			0.40412479639053345,
+			1.5471111536026
+		]
+	},
+	"boundingSphereRadius": 0.9702485203742981,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 362,
+				"triangleStart": 0,
+				"triangleCount": 1023,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.157385915517807,
+					0.0864817425608635,
+					0.7994495034217834
+				],
+				"sortCenterPosition": [
+					0.01672130823135376,
+					-0.02576911449432373,
+					0.7733962535858154
+				],
+				"sortRadius": 0.9716698527336121
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 362,
+				"vertexCount": 97,
+				"triangleStart": 1023,
+				"triangleCount": 408,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.3556421399116516,
+					0.26670023798942566,
+					0.35004204511642456
+				],
+				"sortCenterPosition": [
+					0.35564225912094116,
+					0.26462894678115845,
+					0.28017687797546387
+				],
+				"sortRadius": 0.29936134815216064
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 4,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 3,
+				"shaderID": 28,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_kit_0200.skin",
+		"fileDataID": 528652
+	}
+}

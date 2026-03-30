@@ -1,0 +1,226 @@
+{
+	"fileType": "m2",
+	"fileDataID": 522109,
+	"fileName": "world/expansion04/doodads/pandaren/incense/pa_incensestick_01burn.m2",
+	"internalName": "PA_incenseStick_01burn",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/incense/pa_smokestrip_01.blp",
+			"fileNameExternal": "pa_smokestrip_01.png",
+			"mtlName": "mat_pa_smokestrip_01",
+			"flags": 3,
+			"fileDataID": 522107
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/incense/pa_incensesmoke_01g.blp",
+			"fileNameExternal": "pa_incensesmoke_01g.png",
+			"mtlName": "mat_pa_incensesmoke_01g",
+			"flags": 0,
+			"fileDataID": 522108
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/incense/pa_incensesticks_01.blp",
+			"fileNameExternal": "pa_incensesticks_01.png",
+			"mtlName": "mat_pa_incensesticks_01",
+			"flags": 0,
+			"fileDataID": 522104
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		2,
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						6667
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							1.9992600679397583,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		65535,
+		0,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.07137458771467209,
+			-0.21550489962100983,
+			-0.2593517005443573
+		],
+		"max": [
+			0.06331250816583633,
+			0.36946460604667664,
+			4.10053014755249
+		]
+	},
+	"boundingSphereRadius": 2.872096061706543,
+	"collisionBox": {
+		"min": [
+			-0.06371293216943741,
+			-0.06764599680900574,
+			-0.2695327401161194
+		],
+		"max": [
+			0.06371293216943741,
+			0.06764599680900574,
+			1.758889079093933
+		]
+	},
+	"collisionSphereRadius": 1.0184592008590698,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 57,
+				"triangleStart": 0,
+				"triangleCount": 234,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-0.005375697277486324,
+					-0.002719202544540167,
+					0.9379748106002808
+				],
+				"sortCenterPosition": [
+					-0.004031039774417877,
+					-0.0014449357986450195,
+					0.708636462688446
+				],
+				"sortRadius": 0.9687175154685974
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 57,
+				"vertexCount": 14,
+				"triangleStart": 234,
+				"triangleCount": 36,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					5.1065068673675104e-17,
+					0.045076124370098114,
+					2.5253090858459473
+				],
+				"sortCenterPosition": [
+					5.550744546211359e-17,
+					0.0769798532128334,
+					2.6990275382995605
+				],
+				"sortRadius": 1.4075591564178467
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 128,
+				"priority": 0,
+				"shaderID": 16401,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 1
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/incense/pa_incensestick_01burn00.skin",
+		"fileDataID": 522110
+	}
+}

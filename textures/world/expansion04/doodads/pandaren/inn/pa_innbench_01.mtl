@@ -1,0 +1,3 @@
+newmtl mat_pa_innbench_01
+illum 1
+map_Kd pa_innbench_01.png

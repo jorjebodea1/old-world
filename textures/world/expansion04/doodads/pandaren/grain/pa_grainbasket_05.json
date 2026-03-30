@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 533024,
+	"fileName": "world/expansion04/doodads/pandaren/grain/pa_grainbasket_05.m2",
+	"internalName": "PA_GrainBasket_05",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/grain/pa_brewinggrains_buckets_01.blp",
+			"fileNameExternal": "pa_brewinggrains_buckets_01.png",
+			"mtlName": "mat_pa_brewinggrains_buckets_01",
+			"flags": 0,
+			"fileDataID": 533014
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.2472388744354248,
+			-1.2578288316726685,
+			-0.00017581714200787246
+		],
+		"max": [
+			1.2478238344192505,
+			1.2372338771820068,
+			1.9987602233886719
+		]
+	},
+	"boundingSphereRadius": 1.440700888633728,
+	"collisionBox": {
+		"min": [
+			-1.1896473169326782,
+			-1.186516523361206,
+			0
+		],
+		"max": [
+			1.1922242641448975,
+			1.1953550577163696,
+			1.8916789293289185
+		]
+	},
+	"collisionSphereRadius": 1.520835518836975,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 122,
+				"triangleStart": 0,
+				"triangleCount": 504,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.006811849307268858,
+					-0.0057439133524894714,
+					1.2402018308639526
+				],
+				"sortCenterPosition": [
+					0.0002924799919128418,
+					-0.01029747724533081,
+					0.9992921948432922
+				],
+				"sortRadius": 1.440700888633728
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/grain/pa_grainbasket_0500.skin",
+		"fileDataID": 533025
+	}
+}

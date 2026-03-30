@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 523313,
+	"fileName": "world/expansion04/doodads/pandaren/banner/pa_banner_wood.m2",
+	"internalName": "PA_Banner_Wood",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/banner/pa_standard_blockwood_01.blp",
+			"fileNameExternal": "pa_standard_blockwood_01.png",
+			"mtlName": "mat_pa_standard_blockwood_01",
+			"flags": 3,
+			"fileDataID": 523312
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3255460858345032,
+			-0.8573271036148071,
+			0.001953336875885725
+		],
+		"max": [
+			0.3399733603000641,
+			0.855851948261261,
+			4.880337715148926
+		]
+	},
+	"boundingSphereRadius": 2.606555700302124,
+	"collisionBox": {
+		"min": [
+			-0.32601186633110046,
+			-0.8552669286727905,
+			0.0036887212190777063
+		],
+		"max": [
+			0.34310755133628845,
+			0.8559390306472778,
+			4.872531414031982
+		]
+	},
+	"collisionSphereRadius": 2.6019980907440186,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 171,
+				"triangleStart": 0,
+				"triangleCount": 420,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.025423649698495865,
+					-0.0026023592799901962,
+					3.5776963233947754
+				],
+				"sortCenterPosition": [
+					0.0072136372327804565,
+					-0.0007375776767730713,
+					2.441145420074463
+				],
+				"sortRadius": 2.606555700302124
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/banner/pa_banner_wood00.skin",
+		"fileDataID": 523314
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 516414,
+	"fileName": "world/nodxt/detail/tu_roc01.m2",
+	"internalName": "TU_Roc01",
+	"textures": [
+		{
+			"fileNameInternal": "world/nodxt/detail/tu_detaildoodads_01.blp",
+			"fileNameExternal": "..\\..\\..\\world\\nodxt\\detail\\tu_detaildoodads_01.png",
+			"mtlName": "mat_tu_detaildoodads_01",
+			"flags": 3,
+			"fileDataID": 516403
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.11981574445962906,
+			-0.12372539192438126,
+			-0.004641552455723286
+		],
+		"max": [
+			0.09139212220907211,
+			0.12507839500904083,
+			0.07730154693126678
+		]
+	},
+	"boundingSphereRadius": 0.1417349874973297,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 7,
+				"triangleStart": 0,
+				"triangleCount": 24,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0002364356623729691,
+					-0.003493561176583171,
+					0.02704254351556301
+				],
+				"sortCenterPosition": [
+					0.0002364356623729691,
+					-0.003493561176583171,
+					0.02704254351556301
+				],
+				"sortRadius": 0.1382475644350052
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/nodxt/detail/tu_roc0100.skin",
+		"fileDataID": 516415
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 523213,
+	"fileName": "world/expansion04/doodads/pandaren/sack/pa_sack_05.m2",
+	"internalName": "PA_Sack_05",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/sack/sacks_02.blp",
+			"fileNameExternal": "sacks_02.png",
+			"mtlName": "mat_sacks_02",
+			"flags": 0,
+			"fileDataID": 523210
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.3499490022659302,
+			-1.0934597253799438,
+			-0.007570257876068354
+		],
+		"max": [
+			0.7138073444366455,
+			0.87757807970047,
+			0.46780744194984436
+		]
+	},
+	"boundingSphereRadius": 1.0798850059509277,
+	"collisionBox": {
+		"min": [
+			-1.3728336095809937,
+			-1.1081578731536865,
+			0.04752839356660843
+		],
+		"max": [
+			0.7433421611785889,
+			0.9115261435508728,
+			0.42374101281166077
+		]
+	},
+	"collisionSphereRadius": 1.1119822263717651,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 107,
+				"triangleStart": 0,
+				"triangleCount": 309,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.071982741355896,
+					0.25163742899894714,
+					0.3090526759624481
+				],
+				"sortCenterPosition": [
+					-0.31807082891464233,
+					-0.10794082283973694,
+					0.23011858761310577
+				],
+				"sortRadius": 1.0798848867416382
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/sack/pa_sack_0500.skin",
+		"fileDataID": 523214
+	}
+}

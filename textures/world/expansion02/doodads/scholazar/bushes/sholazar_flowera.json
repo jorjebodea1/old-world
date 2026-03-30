@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 196278,
+	"fileName": "world/expansion02/doodads/scholazar/bushes/sholazar_flowera.m2",
+	"internalName": "Sholazar_FlowerA",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/scholazar/bushes/sb_plantsa.blp",
+			"fileNameExternal": "sb_plantsa.png",
+			"mtlName": "mat_sb_plantsa",
+			"flags": 3,
+			"fileDataID": 196268
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.573284924030304,
+			-0.5168203115463257,
+			-0.0954321101307869
+		],
+		"max": [
+			0.2860121428966522,
+			0.7479838132858276,
+			1.8075637817382812
+		]
+	},
+	"boundingSphereRadius": 0.9757062792778015,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 99,
+				"triangleStart": 0,
+				"triangleCount": 234,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.06417965888977051,
+					-0.03066517785191536,
+					0.8461634516716003
+				],
+				"sortCenterPosition": [
+					-0.14363639056682587,
+					0.11558175086975098,
+					0.8560658097267151
+				],
+				"sortRadius": 0.9757062792778015
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/scholazar/bushes/sholazar_flowera00.skin",
+		"fileDataID": 499613
+	}
+}

@@ -1,0 +1,6 @@
+newmtl mat_pa_silk_dye_red_tex
+illum 1
+map_Kd pa_silk_dye_red_tex.png
+newmtl mat_pa_spool_silk_tex_red
+illum 1
+map_Kd pa_spool_silk_tex_red.png

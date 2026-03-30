@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528411,
+	"fileName": "world/expansion04/doodads/pandaren/hangingcharm/pa_hangingcharm_long_01.m2",
+	"internalName": "PA_HangingCharm_Long_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/hangingcharm/pa_hangingcharms.blp",
+			"fileNameExternal": "pa_hangingcharms.png",
+			"mtlName": "mat_pa_hangingcharms",
+			"flags": 0,
+			"fileDataID": 528410
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/armorreflect_hard_add.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\armorreflect_hard_add.png",
+			"mtlName": "mat_armorreflect_hard_add",
+			"flags": 0,
+			"fileDataID": 144334
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.09156668186187744,
+			-0.22446484863758087,
+			-3.318434000015259
+		],
+		"max": [
+			0.0915667861700058,
+			0.22446484863758087,
+			0.08142958581447601
+		]
+	},
+	"boundingSphereRadius": 1.7023043632507324,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 339,
+				"triangleStart": 0,
+				"triangleCount": 978,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.01928982324898243,
+					0.00011300385813228786,
+					-2.268157958984375
+				],
+				"sortCenterPosition": [
+					5.21540641784668e-8,
+					0,
+					-1.6185022592544556
+				],
+				"sortRadius": 1.7023043632507324
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/hangingcharm/pa_hangingcharm_long_0100.skin",
+		"fileDataID": 528412
+	}
+}

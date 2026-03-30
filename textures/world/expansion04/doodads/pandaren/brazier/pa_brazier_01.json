@@ -1,0 +1,162 @@
+{
+	"fileType": "m2",
+	"fileDataID": 520142,
+	"fileName": "world/expansion04/doodads/pandaren/brazier/pa_brazier_01.m2",
+	"internalName": "PA_brazier_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/brazier/pa_brazier_01.blp",
+			"fileNameExternal": "pa_brazier_01.png",
+			"mtlName": "mat_pa_brazier_01",
+			"flags": 0,
+			"fileDataID": 520141
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		},
+		{
+			"fileNameInternal": "world/azeroth/zulgurub/passivedoodads/cauldrons/firespark.blp",
+			"fileNameExternal": "..\\..\\..\\..\\azeroth\\zulgurub\\passivedoodads\\cauldrons\\firespark.png",
+			"mtlName": "mat_firespark",
+			"flags": 0,
+			"fileDataID": 512216
+		},
+		{
+			"fileNameInternal": "world/generic/goblin/passivedoodads/kezan/items/tooncloud64b.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\goblin\\passivedoodads\\kezan\\items\\tooncloud64b.png",
+			"mtlName": "mat_tooncloud64b",
+			"flags": 0,
+			"fileDataID": 322283
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/campfire/pa_fire_01.blp",
+			"fileNameExternal": "..\\campfire\\pa_fire_01.png",
+			"mtlName": "mat_pa_fire_01",
+			"flags": 0,
+			"fileDataID": 537757
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.5642480850219727,
+			-1.4375745058059692,
+			0.0017103619175031781
+		],
+		"max": [
+			1.6327648162841797,
+			1.1393510103225708,
+			4.399411678314209
+		]
+	},
+	"boundingSphereRadius": 3.037895917892456,
+	"collisionBox": {
+		"min": [
+			-1.1668729782104492,
+			-1.1668729782104492,
+			0
+		],
+		"max": [
+			1.1668729782104492,
+			1.1668729782104492,
+			1.6066430807113647
+		]
+	},
+	"collisionSphereRadius": 1.4166573286056519,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 934,
+				"triangleStart": 0,
+				"triangleCount": 2982,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0008673559641465545,
+					0.001355044892989099,
+					0.5398538112640381
+				],
+				"sortCenterPosition": [
+					0,
+					0,
+					0.7891280651092529
+				],
+				"sortRadius": 1.1527122259140015
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/brazier/pa_brazier_0100.skin",
+		"fileDataID": 520143
+	}
+}

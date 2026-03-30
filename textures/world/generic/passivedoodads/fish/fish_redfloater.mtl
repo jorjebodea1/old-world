@@ -1,0 +1,6 @@
+newmtl mat_fish_goldcarp
+illum 1
+map_Kd fish_goldcarp.png
+newmtl mat_fish_ref_orange
+illum 1
+map_Kd fish_ref_orange.png

@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 342693,
+	"fileName": "world/kalimdor/hyjal/passivedoodads/lilypads/hyjal_lilypads02.m2",
+	"internalName": "Hyjal_Lilypads02",
+	"textures": [
+		{
+			"fileNameInternal": "world/kalimdor/hyjal/passivedoodads/lilypads/hyjal_lilypad_02.blp",
+			"fileNameExternal": "hyjal_lilypad_02.png",
+			"mtlName": "mat_hyjal_lilypad_02",
+			"flags": 3,
+			"fileDataID": 342691
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.4471944272518158,
+			-0.46980753540992737,
+			-0.6685984134674072
+		],
+		"max": [
+			0.44692549109458923,
+			0.5060713887214661,
+			0.2082953304052353
+		]
+	},
+	"boundingSphereRadius": 0.7419925332069397,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 164,
+				"triangleStart": 0,
+				"triangleCount": 516,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.006211166735738516,
+					0.015032581984996796,
+					0.0057693347334861755
+				],
+				"sortCenterPosition": [
+					0.006211166735738516,
+					0.015032581984996796,
+					0.0057693347334861755
+				],
+				"sortRadius": 0.6869274377822876
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/kalimdor/hyjal/passivedoodads/lilypads/hyjal_lilypads0200.skin",
+		"fileDataID": 507311
+	}
+}

@@ -1,0 +1,6 @@
+newmtl mat_pa_kite_tex_02_fixed
+illum 1
+map_Kd pa_kite_tex_02_fixed.png
+newmtl mat_pa_kite_tex_04
+illum 1
+map_Kd pa_kite_tex_04.png

@@ -1,0 +1,195 @@
+{
+	"fileType": "m2",
+	"fileDataID": 576300,
+	"fileName": "world/dungeon/easttemple/screen/pa_easttemple_screen_01.m2",
+	"internalName": "PA_EastTemple_Screen_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/dungeon/easttemple/screen/pa_easttemple_wood_screen_tex.blp",
+			"fileNameExternal": "pa_easttemple_wood_screen_tex.png",
+			"mtlName": "mat_pa_easttemple_wood_screen_tex",
+			"flags": 3,
+			"fileDataID": 576298
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/chromereflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\item\\objectcomponents\\weapon\\chromereflect.png",
+			"mtlName": "mat_chromereflect",
+			"flags": 0,
+			"fileDataID": 145297
+		},
+		{
+			"fileNameInternal": "world/dungeon/easttemple/screen/pa_easttemple_glass_glow.blp",
+			"fileNameExternal": "pa_easttemple_glass_glow.png",
+			"mtlName": "mat_pa_easttemple_glass_glow",
+			"flags": 0,
+			"fileDataID": 576299
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 4,
+			"blendingMode": 0
+		},
+		{
+			"flags": 21,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.7816596031188965,
+			-2.750013589859009,
+			-0.013938218355178833
+		],
+		"max": [
+			2.1648359298706055,
+			3.6185319423675537,
+			4.60603141784668
+		]
+	},
+	"boundingSphereRadius": 4.589534282684326,
+	"collisionBox": {
+		"min": [
+			-2.8667166233062744,
+			-2.8360912799835205,
+			-2.119276274470394e-7
+		],
+		"max": [
+			2.2147648334503174,
+			3.6617181301116943,
+			4.609492778778076
+		]
+	},
+	"collisionSphereRadius": 4.637463569641113,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 946,
+				"triangleStart": 0,
+				"triangleCount": 2904,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.12382126599550247,
+					0.1278151124715805,
+					2.3028814792633057
+				],
+				"sortCenterPosition": [
+					-0.3084118366241455,
+					0.43425917625427246,
+					2.296046495437622
+				],
+				"sortRadius": 4.589534282684326
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 946,
+				"vertexCount": 27,
+				"triangleStart": 2904,
+				"triangleCount": 72,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.11584213376045227,
+					0.142508864402771,
+					2.2938432693481445
+				],
+				"sortCenterPosition": [
+					-0.29445719718933105,
+					0.396334171295166,
+					2.2938427925109863
+				],
+				"sortRadius": 4.060675144195557
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32773,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/dungeon/easttemple/screen/pa_easttemple_screen_0100.skin",
+		"fileDataID": 576301
+	}
+}

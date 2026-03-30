@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 520144,
+	"fileName": "world/expansion04/doodads/pandaren/weapons/pa_weapon_01.m2",
+	"internalName": "PA_Weapon_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/weaponrack/pa_weaponrack_01.blp",
+			"fileNameExternal": "..\\weaponrack\\pa_weaponrack_01.png",
+			"mtlName": "mat_pa_weaponrack_01",
+			"flags": 0,
+			"fileDataID": 519912
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/armorreflect3.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\armorreflect3.png",
+			"mtlName": "mat_armorreflect3",
+			"flags": 0,
+			"fileDataID": 144328
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.27370089292526245,
+			-1.6476510763168335,
+			-0.17417186498641968
+		],
+		"max": [
+			0.22366496920585632,
+			1.612445592880249,
+			0.24786846339702606
+		]
+	},
+	"boundingSphereRadius": 1.6300499439239502,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 260,
+				"triangleStart": 0,
+				"triangleCount": 1212,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.029284643009305,
+					0.09096811711788177,
+					0.03801705688238144
+				],
+				"sortCenterPosition": [
+					-0.025017961859703064,
+					-0.017602741718292236,
+					0.03684829920530319
+				],
+				"sortRadius": 1.6300500631332397
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/weapons/pa_weapon_0100.skin",
+		"fileDataID": 520145
+	}
+}

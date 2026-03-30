@@ -1,0 +1,9 @@
+newmtl mat_pa_scroll_03
+illum 1
+map_Kd pa_scroll_03.png
+newmtl mat_armorreflectgold
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\armorreflectgold.png
+newmtl mat_pa_scroll_04
+illum 1
+map_Kd pa_scroll_04.png

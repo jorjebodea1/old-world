@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 529406,
+	"fileName": "world/expansion04/doodads/pandaren/arches/pa_arch_01.m2",
+	"internalName": "PA_Arch_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/arches/pa_arch_01.blp",
+			"fileNameExternal": "pa_arch_01.png",
+			"mtlName": "mat_pa_arch_01",
+			"flags": 0,
+			"fileDataID": 529405
+		},
+		{
+			"fileNameInternal": "creature/protodragon/orbreflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\creature\\protodragon\\orbreflect.png",
+			"mtlName": "mat_orbreflect",
+			"flags": 0,
+			"fileDataID": 234783
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.9269814491271973,
+			-7.047676086425781,
+			-0.9238680005073547
+		],
+		"max": [
+			1.9269812107086182,
+			7.0476765632629395,
+			11.325874328613281
+		]
+	},
+	"boundingSphereRadius": 8.906797409057617,
+	"collisionBox": {
+		"min": [
+			-1.9250293970108032,
+			-6.804112911224365,
+			-0.9314261674880981
+		],
+		"max": [
+			1.9765464067459106,
+			6.804112434387207,
+			11.33028793334961
+		]
+	},
+	"collisionSphereRadius": 8.869161605834961,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1472,
+				"triangleStart": 0,
+				"triangleCount": 3696,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.000763073330745101,
+					0.0073126801289618015,
+					6.5275983810424805
+				],
+				"sortCenterPosition": [
+					-1.1920928955078125e-7,
+					2.384185791015625e-7,
+					5.201003074645996
+				],
+				"sortRadius": 8.906797409057617
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/arches/pa_arch_0100.skin",
+		"fileDataID": 529407
+	}
+}

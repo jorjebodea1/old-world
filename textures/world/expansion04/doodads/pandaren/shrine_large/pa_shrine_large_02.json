@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 524571,
+	"fileName": "world/expansion04/doodads/pandaren/shrine_large/pa_shrine_large_02.m2",
+	"internalName": "PA_Shrine_Large_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_large/pa_shrine_large_02.blp",
+			"fileNameExternal": "pa_shrine_large_02.png",
+			"mtlName": "mat_pa_shrine_large_02",
+			"flags": 0,
+			"fileDataID": 524570
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7788087725639343,
+			-0.8624722361564636,
+			-0.08210468292236328
+		],
+		"max": [
+			0.8199211955070496,
+			0.8699172735214233,
+			1.7323713302612305
+		]
+	},
+	"boundingSphereRadius": 1.3835210800170898,
+	"collisionBox": {
+		"min": [
+			-0.7837643027305603,
+			-0.8465238213539124,
+			-0.09830006957054138
+		],
+		"max": [
+			0.7782314419746399,
+			0.863446056842804,
+			1.6491706371307373
+		]
+	},
+	"collisionSphereRadius": 1.450644850730896,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 449,
+				"triangleStart": 0,
+				"triangleCount": 1236,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.1051880344748497,
+					0.0034995004534721375,
+					0.753494143486023
+				],
+				"sortCenterPosition": [
+					0.020556211471557617,
+					0.0037225186824798584,
+					0.8251333236694336
+				],
+				"sortRadius": 1.3835210800170898
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/shrine_large/pa_shrine_large_0200.skin",
+		"fileDataID": 524572
+	}
+}

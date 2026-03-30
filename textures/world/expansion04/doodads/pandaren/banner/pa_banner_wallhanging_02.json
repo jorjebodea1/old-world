@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 523281,
+	"fileName": "world/expansion04/doodads/pandaren/banner/pa_banner_wallhanging_02.m2",
+	"internalName": "PA_Banner_WallHanging_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/banner/pa_banner_bannerbamboo_01.blp",
+			"fileNameExternal": "pa_banner_bannerbamboo_01.png",
+			"mtlName": "mat_pa_banner_bannerbamboo_01",
+			"flags": 3,
+			"fileDataID": 523278
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.21622908115386963,
+			-1.3352888822555542,
+			-0.3044654130935669
+		],
+		"max": [
+			1.4586095809936523,
+			1.3486582040786743,
+			9.412345886230469
+		]
+	},
+	"boundingSphereRadius": 4.9014081954956055,
+	"collisionBox": {
+		"min": [
+			0.21804513037204742,
+			-1.1244025230407715,
+			-0.31719696521759033
+		],
+		"max": [
+			1.4457588195800781,
+			1.1244025230407715,
+			9.313626289367676
+		]
+	},
+	"collisionSphereRadius": 4.9828996658325195,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 844,
+				"triangleStart": 0,
+				"triangleCount": 3156,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.7803196310997009,
+					-0.000030162704206304625,
+					5.418790817260742
+				],
+				"sortCenterPosition": [
+					0.6211902499198914,
+					0.006684660911560059,
+					4.553940296173096
+				],
+				"sortRadius": 4.9014081954956055
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/banner/pa_banner_wallhanging_0200.skin",
+		"fileDataID": 523282
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 533083,
+	"fileName": "world/expansion04/doodads/pandaren/grain/pa_grainsack_open_04.m2",
+	"internalName": "PA_GrainSack_Open_04",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/grain/pa_brewinggrains_01.blp",
+			"fileNameExternal": "pa_brewinggrains_01.png",
+			"mtlName": "mat_pa_brewinggrains_01",
+			"flags": 3,
+			"fileDataID": 533015
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/grain/pa_brewinggrains_sacks_01.blp",
+			"fileNameExternal": "pa_brewinggrains_sacks_01.png",
+			"mtlName": "mat_pa_brewinggrains_sacks_01",
+			"flags": 0,
+			"fileDataID": 533068
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.9106393456459045,
+			-1.1717759370803833,
+			-0.021054161712527275
+		],
+		"max": [
+			0.9080641269683838,
+			1.1281940937042236,
+			1.7552871704101562
+		]
+	},
+	"boundingSphereRadius": 1.3481333255767822,
+	"collisionBox": {
+		"min": [
+			-0.862202525138855,
+			-0.8562390804290771,
+			0
+		],
+		"max": [
+			0.857799768447876,
+			0.8637632131576538,
+			1.484683632850647
+		]
+	},
+	"collisionSphereRadius": 1.136078119277954,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 13,
+				"triangleStart": 0,
+				"triangleCount": 36,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0022473265416920185,
+					-0.0027989607769995928,
+					1.3258910179138184
+				],
+				"sortCenterPosition": [
+					-0.0022473265416920185,
+					-0.0027989607769995928,
+					1.3258910179138184
+				],
+				"sortRadius": 0.8434511423110962
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 13,
+				"vertexCount": 216,
+				"triangleStart": 36,
+				"triangleCount": 972,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0012875479878857732,
+					-0.007668584119528532,
+					0.9574220180511475
+				],
+				"sortCenterPosition": [
+					-0.0012875479878857732,
+					-0.007668584119528532,
+					0.9574220180511475
+				],
+				"sortRadius": 1.3166248798370361
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/grain/pa_grainsack_open_0400.skin",
+		"fileDataID": 533084
+	}
+}

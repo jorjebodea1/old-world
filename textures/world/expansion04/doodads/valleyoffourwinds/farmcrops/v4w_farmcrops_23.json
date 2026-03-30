@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 530717,
+	"fileName": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_farmcrops_23.m2",
+	"internalName": "V4W_FarmCrops_23",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_pumpkin01.blp",
+			"fileNameExternal": "v4w_pumpkin01.png",
+			"mtlName": "mat_v4w_pumpkin01",
+			"flags": 0,
+			"fileDataID": 530716
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3028360903263092,
+			-0.3548045754432678,
+			-0.1615937501192093
+		],
+		"max": [
+			0.35050201416015625,
+			0.3380495607852936,
+			0.7460830807685852
+		]
+	},
+	"boundingSphereRadius": 0.4907216727733612,
+	"collisionBox": {
+		"min": [
+			-0.3028360903263092,
+			-0.3548045754432678,
+			-0.1615937501192093
+		],
+		"max": [
+			0.35050201416015625,
+			0.3380495607852936,
+			0.7039581537246704
+		]
+	},
+	"collisionSphereRadius": 0.4728863537311554,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 77,
+				"triangleStart": 0,
+				"triangleCount": 288,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.05456141009926796,
+					-0.029558200389146805,
+					0.5354360342025757
+				],
+				"sortCenterPosition": [
+					0.023832961916923523,
+					-0.008377507328987122,
+					0.29224467277526855
+				],
+				"sortRadius": 0.4907216727733612
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_farmcrops_2300.skin",
+		"fileDataID": 530718
+	}
+}

@@ -1,0 +1,12 @@
+newmtl mat_pa_easttemple_scrolls_tex_01
+illum 1
+map_Kd pa_easttemple_scrolls_tex_01.png
+newmtl mat_pa_scroll_long_01
+illum 1
+map_Kd ..\..\..\..\dungeon\easttemple\scroll\pa_scroll_long_01.png
+newmtl mat_armorreflectgold
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\armorreflectgold.png
+newmtl mat_pa_scroll_long_02
+illum 1
+map_Kd ..\..\..\..\dungeon\easttemple\scroll\pa_scroll_long_02.png

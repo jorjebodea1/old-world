@@ -1,0 +1,167 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528526,
+	"fileName": "world/expansion04/doodads/pandaren/inn/pa_inntable_01.m2",
+	"internalName": "PA_innTable_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/inn/pa_inntable_01.blp",
+			"fileNameExternal": "pa_inntable_01.png",
+			"mtlName": "mat_pa_inntable_01",
+			"flags": 0,
+			"fileDataID": 528525
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.9881523847579956,
+			-0.9852251410484314,
+			-0.0006741388933733106
+		],
+		"max": [
+			0.9790310263633728,
+			0.9859922528266907,
+			1.3277099132537842
+		]
+	},
+	"boundingSphereRadius": 1.5422624349594116,
+	"collisionBox": {
+		"min": [
+			-0.9891958236694336,
+			-0.9891958236694336,
+			0
+		],
+		"max": [
+			0.9891958236694336,
+			0.9891958236694336,
+			1.32902193069458
+		]
+	},
+	"collisionSphereRadius": 1.548738718032837,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 140,
+				"triangleStart": 0,
+				"triangleCount": 252,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0000757804955355823,
+					-0.000019190993043594062,
+					0.7217358350753784
+				],
+				"sortCenterPosition": [
+					-0.0000757804955355823,
+					-0.000019190993043594062,
+					0.7217358350753784
+				],
+				"sortRadius": 1.5165592432022095
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 140,
+				"vertexCount": 32,
+				"triangleStart": 252,
+				"triangleCount": 48,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					2.9802322387695312e-8,
+					-7.450580596923828e-9,
+					1.023122787475586
+				],
+				"sortCenterPosition": [
+					0,
+					2.9802322387695312e-8,
+					1.0231226682662964
+				],
+				"sortRadius": 1.2474719285964966
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/inn/pa_inntable_0100.skin",
+		"fileDataID": 528527
+	}
+}

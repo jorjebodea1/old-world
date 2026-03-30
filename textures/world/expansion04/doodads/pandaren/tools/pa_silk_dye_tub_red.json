@@ -1,0 +1,178 @@
+{
+	"fileType": "m2",
+	"fileDataID": 588548,
+	"fileName": "world/expansion04/doodads/pandaren/tools/pa_silk_dye_tub_red.m2",
+	"internalName": "PA_Silk_Dye_Tub_Red",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/tools/pa_silk_dye_red_tex.blp",
+			"fileNameExternal": "pa_silk_dye_red_tex.png",
+			"mtlName": "mat_pa_silk_dye_red_tex",
+			"flags": 3,
+			"fileDataID": 588547
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/tools/pa_spool_silk_tex_red.blp",
+			"fileNameExternal": "pa_spool_silk_tex_red.png",
+			"mtlName": "mat_pa_spool_silk_tex_red",
+			"flags": 3,
+			"fileDataID": 589037
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 17,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		1,
+		0,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.2540985345840454,
+			-1.4394117593765259,
+			-0.06233790144324303
+		],
+		"max": [
+			1.034425973892212,
+			1.2432750463485718,
+			1.8640660047531128
+		]
+	},
+	"boundingSphereRadius": 1.9105294942855835,
+	"collisionBox": {
+		"min": [
+			-0.8943043947219849,
+			-1.1091830730438232,
+			-0.06233758479356766
+		],
+		"max": [
+			0.9014989137649536,
+			1.103869915008545,
+			1.1045900583267212
+		]
+	},
+	"collisionSphereRadius": 1.53982412815094,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 375,
+				"triangleStart": 0,
+				"triangleCount": 1422,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.19375573098659515,
+					-0.24888281524181366,
+					0.6776591539382935
+				],
+				"sortCenterPosition": [
+					-0.19375573098659515,
+					-0.24888281524181366,
+					0.6776591539382935
+				],
+				"sortRadius": 1.8919365406036377
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 375,
+				"vertexCount": 13,
+				"triangleStart": 1422,
+				"triangleCount": 36,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0035963011905550957,
+					-0.0026568265166133642,
+					0.8512144684791565
+				],
+				"sortCenterPosition": [
+					0.0035963011905550957,
+					-0.0026568265166133642,
+					0.8512144684791565
+				],
+				"sortRadius": 1.165346622467041
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 24,
+				"shaderID": 17,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/tools/pa_silk_dye_tub_red00.skin",
+		"fileDataID": 588549
+	}
+}

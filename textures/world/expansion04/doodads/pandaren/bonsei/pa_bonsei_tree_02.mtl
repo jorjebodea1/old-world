@@ -1,0 +1,9 @@
+newmtl mat_greentree
+illum 1
+map_Kd greentree.png
+newmtl mat_pa_gravestone_tree
+illum 1
+map_Kd ..\gravestone\pa_gravestone_tree.png
+newmtl mat_dirt
+illum 1
+map_Kd dirt.png

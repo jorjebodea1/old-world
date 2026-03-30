@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 516336,
+	"fileName": "world/nodxt/detail/tu_gra06.m2",
+	"internalName": "TU_Gra06",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/grass/tu_grass01.blp",
+			"fileNameExternal": "..\\..\\expansion04\\doodads\\turtlezone\\grass\\tu_grass01.png",
+			"mtlName": "mat_tu_grass01",
+			"flags": 3,
+			"fileDataID": 514766
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7699914574623108,
+			-0.6448865532875061,
+			-0.21469202637672424
+		],
+		"max": [
+			0.7780150175094604,
+			0.6443630456924438,
+			0.9685625433921814
+		]
+	},
+	"boundingSphereRadius": 1.0102732181549072,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 10,
+				"triangleStart": 0,
+				"triangleCount": 24,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.09208126366138458,
+					-0.08814436197280884,
+					0.3396510183811188
+				],
+				"sortCenterPosition": [
+					0.004011780023574829,
+					-0.00026175379753112793,
+					0.3769352436065674
+				],
+				"sortRadius": 1.0102732181549072
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/nodxt/detail/tu_gra0600.skin",
+		"fileDataID": 516337
+	}
+}

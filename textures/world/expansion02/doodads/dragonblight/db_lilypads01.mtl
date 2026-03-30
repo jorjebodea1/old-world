@@ -1,0 +1,6 @@
+newmtl mat_dblilypad01
+illum 1
+map_Kd dblilypad01.png
+newmtl mat_zangarlilypad01
+illum 1
+map_Kd ..\..\..\expansion01\doodads\zangar\lilypads\zangarlilypad01.png

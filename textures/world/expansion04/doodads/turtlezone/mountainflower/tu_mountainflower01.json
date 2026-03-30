@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 526046,
+	"fileName": "world/expansion04/doodads/turtlezone/mountainflower/tu_mountainflower01.m2",
+	"internalName": "TU_MountainFlower01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/mountainflower/tu_mountainflower_01.blp",
+			"fileNameExternal": "tu_mountainflower_01.png",
+			"mtlName": "mat_tu_mountainflower_01",
+			"flags": 3,
+			"fileDataID": 526045
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.3036067485809326,
+			-1.2175909280776978,
+			-0.6675986647605896
+		],
+		"max": [
+			2.556131601333618,
+			3.5597164630889893,
+			5.49985408782959
+		]
+	},
+	"boundingSphereRadius": 3.7870748043060303,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 57,
+				"triangleStart": 0,
+				"triangleCount": 126,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.23760725557804108,
+					1.0166139602661133,
+					1.9258077144622803
+				],
+				"sortCenterPosition": [
+					0.12626242637634277,
+					1.171062707901001,
+					2.4161276817321777
+				],
+				"sortRadius": 3.7870748043060303
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/mountainflower/tu_mountainflower0100.skin",
+		"fileDataID": 526047
+	}
+}

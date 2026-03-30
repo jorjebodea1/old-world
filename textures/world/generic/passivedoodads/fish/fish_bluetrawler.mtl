@@ -1,0 +1,6 @@
+newmtl mat_fish_bluetrawler
+illum 1
+map_Kd fish_bluetrawler.png
+newmtl mat_fish_ref_orange
+illum 1
+map_Kd fish_ref_orange.png

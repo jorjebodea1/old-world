@@ -1,0 +1,9 @@
+newmtl mat_pa_alchemygear
+illum 1
+map_Kd pa_alchemygear.png
+newmtl mat_smoothreflect
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\head\smoothreflect.png
+newmtl mat_armorreflect_hard
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\weapon\armorreflect_hard.png

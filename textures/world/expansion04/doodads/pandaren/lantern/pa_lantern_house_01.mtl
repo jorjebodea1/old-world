@@ -1,0 +1,9 @@
+newmtl mat_flamelick
+illum 1
+map_Kd flamelick.png
+newmtl mat_pa_lantern_house_final_01
+illum 1
+map_Kd pa_lantern_house_final_01.png
+newmtl mat_glow32
+illum 1
+map_Kd glow32.png

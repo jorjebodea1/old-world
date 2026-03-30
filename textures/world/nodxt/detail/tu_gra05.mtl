@@ -1,0 +1,3 @@
+newmtl mat_tu_grass01
+illum 1
+map_Kd ..\..\expansion04\doodads\turtlezone\grass\tu_grass01.png

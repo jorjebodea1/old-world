@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 243307,
+	"fileName": "world/expansion02/doodads/dalaran/tradeskill_tailoring_02.m2",
+	"internalName": "Tradeskill_Tailoring_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/dalaran/tailoring_01.blp",
+			"fileNameExternal": "tailoring_01.png",
+			"mtlName": "mat_tailoring_01",
+			"flags": 3,
+			"fileDataID": 243294
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.4517158567905426,
+			-0.7543412446975708,
+			0.0027081940788775682
+		],
+		"max": [
+			0.5836092233657837,
+			0.5664120316505432,
+			0.17043355107307434
+		]
+	},
+	"boundingSphereRadius": 0.8354411721229553,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 170,
+				"triangleStart": 0,
+				"triangleCount": 552,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.10628778487443924,
+					0.24895352125167847,
+					0.0672241747379303
+				],
+				"sortCenterPosition": [
+					0.06594668328762054,
+					-0.0939646065235138,
+					0.0865708738565445
+				],
+				"sortRadius": 0.8354411721229553
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/dalaran/tradeskill_tailoring_0200.skin",
+		"fileDataID": 497576
+	}
+}

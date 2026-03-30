@@ -1,0 +1,9 @@
+newmtl mat_lo_weaponrack_01
+illum 1
+map_Kd lo_weaponrack_01.png
+newmtl mat_lo_spear_02
+illum 1
+map_Kd lo_spear_02.png
+newmtl mat_lo_spear_01
+illum 1
+map_Kd lo_spear_01.png

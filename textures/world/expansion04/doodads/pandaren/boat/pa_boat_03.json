@@ -1,0 +1,169 @@
+{
+	"fileType": "m2",
+	"fileDataID": 524324,
+	"fileName": "world/expansion04/doodads/pandaren/boat/pa_boat_03.m2",
+	"internalName": "PA_Boat_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/boat/pa_boat.blp",
+			"fileNameExternal": "pa_boat.png",
+			"mtlName": "mat_pa_boat",
+			"flags": 0,
+			"fileDataID": 524321
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-4.703850746154785,
+			-1.8463245630264282,
+			-0.5037716627120972
+		],
+		"max": [
+			4.407200813293457,
+			1.7879976034164429,
+			3.3938004970550537
+		]
+	},
+	"boundingSphereRadius": 4.789534568786621,
+	"collisionBox": {
+		"min": [
+			-3.901172637939453,
+			-1.246111512184143,
+			-0.5037727355957031
+		],
+		"max": [
+			4.106040000915527,
+			1.2490288019180298,
+			3.419266939163208
+		]
+	},
+	"collisionSphereRadius": 4.134411811828613,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 932,
+				"triangleStart": 0,
+				"triangleCount": 3090,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.8741837739944458,
+					-0.17855799198150635,
+					1.155453085899353
+				],
+				"sortCenterPosition": [
+					-0.298905611038208,
+					-0.029163479804992676,
+					1.445014476776123
+				],
+				"sortRadius": 4.648838996887207
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 932,
+				"vertexCount": 4,
+				"triangleStart": 3090,
+				"triangleCount": 6,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					3.6618881225585938,
+					-0.5604352951049805,
+					2.3183836936950684
+				],
+				"sortCenterPosition": [
+					3.6618881225585938,
+					-0.5604352951049805,
+					2.3183836936950684
+				],
+				"sortRadius": 0.745311975479126
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 7,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/boat/pa_boat_0300.skin",
+		"fileDataID": 524325
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 519427,
+	"fileName": "world/expansion04/doodads/pandaren/stone_post/pa_stone_post_01.m2",
+	"internalName": "PA_Stone_Post_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/stone_post/pa_stone_post_01.blp",
+			"fileNameExternal": "pa_stone_post_01.png",
+			"mtlName": "mat_pa_stone_post_01",
+			"flags": 0,
+			"fileDataID": 537693
+		},
+		{
+			"fileNameInternal": "interface/characterframe/ui-party-background.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\interface\\characterframe\\ui-party-background.png",
+			"mtlName": "mat_ui-party-background",
+			"flags": 3,
+			"fileDataID": 130930
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-3.5986435413360596,
+			-1.6290743350982666,
+			-24.98706817626953
+		],
+		"max": [
+			3.598639726638794,
+			1.6290743350982666,
+			9.09177303314209
+		]
+	},
+	"boundingSphereRadius": 17.03959083557129,
+	"collisionBox": {
+		"min": [
+			-3.4462361335754395,
+			-1.7300608158111572,
+			-2.4195244312286377
+		],
+		"max": [
+			3.4462318420410156,
+			1.7300608158111572,
+			9.102109909057617
+		]
+	},
+	"collisionSphereRadius": 6.131068706512451,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 236,
+				"triangleStart": 0,
+				"triangleCount": 768,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.000001515877443125646,
+					9.092233632657098e-9,
+					4.73874044418335
+				],
+				"sortCenterPosition": [
+					-0.0000019073486328125,
+					0,
+					3.3887624740600586
+				],
+				"sortRadius": 6.076971530914307
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 236,
+				"vertexCount": 4,
+				"triangleStart": 768,
+				"triangleCount": 6,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.07071224600076675,
+					0.0016300281276926398,
+					-24.98706817626953
+				],
+				"sortCenterPosition": [
+					-0.07071225345134735,
+					0.0016300281276926398,
+					-24.98706817626953
+				],
+				"sortRadius": 0.005311526358127594
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/stone_post/pa_stone_post_0100.skin",
+		"fileDataID": 519428
+	}
+}

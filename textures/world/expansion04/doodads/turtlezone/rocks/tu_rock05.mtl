@@ -1,0 +1,3 @@
+newmtl mat_tu_rock01
+illum 1
+map_Kd tu_rock01.png

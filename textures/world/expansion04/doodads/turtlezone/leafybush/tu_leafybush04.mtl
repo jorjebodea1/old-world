@@ -1,0 +1,6 @@
+newmtl mat_tu_leafybush01
+illum 1
+map_Kd tu_leafybush01.png
+newmtl mat_tu_leafybush01_blue
+illum 1
+map_Kd tu_leafybush01_blue.png

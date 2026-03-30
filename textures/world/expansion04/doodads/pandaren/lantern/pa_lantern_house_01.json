@@ -1,0 +1,199 @@
+{
+	"fileType": "m2",
+	"fileDataID": 572045,
+	"fileName": "world/expansion04/doodads/pandaren/lantern/pa_lantern_house_01.m2",
+	"internalName": "PA_Lantern_House_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lantern/flamelick.blp",
+			"fileNameExternal": "flamelick.png",
+			"mtlName": "mat_flamelick",
+			"flags": 0,
+			"fileDataID": 1043602
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lantern/pa_lantern_house_final_01.blp",
+			"fileNameExternal": "pa_lantern_house_final_01.png",
+			"mtlName": "mat_pa_lantern_house_final_01",
+			"flags": 3,
+			"fileDataID": 593958
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lantern/glow32.blp",
+			"fileNameExternal": "glow32.png",
+			"mtlName": "mat_glow32",
+			"flags": 3,
+			"fileDataID": 1043603
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		1,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					19660
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.4789212644100189,
+			-0.9858455657958984,
+			-0.3404470980167389
+		],
+		"max": [
+			0.48323461413383484,
+			0.9805878400802612,
+			4.184376239776611
+		]
+	},
+	"boundingSphereRadius": 2.414411783218384,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1949,
+				"triangleStart": 0,
+				"triangleCount": 5325,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.004192618653178215,
+					0.004249746445566416,
+					0.8990718126296997
+				],
+				"sortCenterPosition": [
+					0.002156674861907959,
+					-0.0023808181285858154,
+					1.9219645261764526
+				],
+				"sortRadius": 2.2915258407592773
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 1949,
+				"vertexCount": 4,
+				"triangleStart": 5325,
+				"triangleCount": 6,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-0.0013334373943507671,
+					-0.0026288628578186035,
+					0.6297232508659363
+				],
+				"sortCenterPosition": [
+					-0.0013334369286894798,
+					-0.0026288628578186035,
+					0.6297232508659363
+				],
+				"sortRadius": 1.3417377471923828
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/lantern/pa_lantern_house_0100.skin",
+		"fileDataID": 572046
+	}
+}

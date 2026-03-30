@@ -1,0 +1,6 @@
+newmtl mat_tu_bamboob
+illum 1
+map_Kd ..\bamboo\tu_bamboob.png
+newmtl mat_bamboocluster02
+illum 1
+map_Kd ..\bamboo\bamboocluster02.png

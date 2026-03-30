@@ -1,0 +1,177 @@
+{
+	"fileType": "m2",
+	"fileDataID": 532099,
+	"fileName": "world/expansion04/doodads/pandaren/hangingfood/pa_garlic_single_01.m2",
+	"internalName": "PA_Garlic_Single_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/hangingfood/herbs.blp",
+			"fileNameExternal": "herbs.png",
+			"mtlName": "mat_herbs",
+			"flags": 1,
+			"fileDataID": 529164
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/throne/orbreflectdarkergrey.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\throne\\orbreflectdarkergrey.png",
+			"mtlName": "mat_orbreflectdarkergrey",
+			"flags": 0,
+			"fileDataID": 244192
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.1365337371826172,
+			-0.12658700346946716,
+			-0.010250463150441647
+		],
+		"max": [
+			0.14461961388587952,
+			0.17223310470581055,
+			0.2363114356994629
+		]
+	},
+	"boundingSphereRadius": 0.22110535204410553,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 61,
+				"triangleStart": 0,
+				"triangleCount": 240,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.01839587278664112,
+					-0.02766057848930359,
+					0.09069003164768219
+				],
+				"sortCenterPosition": [
+					-0.01839587278664112,
+					-0.02766057848930359,
+					0.09069003164768219
+				],
+				"sortRadius": 0.16942860186100006
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 61,
+				"vertexCount": 8,
+				"triangleStart": 240,
+				"triangleCount": 12,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.06634942442178726,
+					0.06566236913204193,
+					0.1713954359292984
+				],
+				"sortCenterPosition": [
+					0.06634941697120667,
+					0.06566236913204193,
+					0.1713954359292984
+				],
+				"sortRadius": 0.10830400884151459
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 15,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/hangingfood/pa_garlic_single_0100.skin",
+		"fileDataID": 532100
+	}
+}

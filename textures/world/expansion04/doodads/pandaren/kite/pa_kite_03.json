@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 524268,
+	"fileName": "world/expansion04/doodads/pandaren/kite/pa_kite_03.m2",
+	"internalName": "PA_Kite_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/kite/pa_kite_tex_02_fixed.blp",
+			"fileNameExternal": "pa_kite_tex_02_fixed.png",
+			"mtlName": "mat_pa_kite_tex_02_fixed",
+			"flags": 3,
+			"fileDataID": 654694
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/kite/pa_kite_tex_04.blp",
+			"fileNameExternal": "pa_kite_tex_04.png",
+			"mtlName": "mat_pa_kite_tex_04",
+			"flags": 0,
+			"fileDataID": 524267
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		},
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-8.463640213012695,
+			-2.4246363639831543,
+			-1.3524649143218994
+		],
+		"max": [
+			4.881449222564697,
+			35.95812225341797,
+			21.013227462768555
+		]
+	},
+	"boundingSphereRadius": 22.1488094329834,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 612,
+				"triangleStart": 0,
+				"triangleCount": 2145,
+				"boneCount": 49,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-0.06678439676761627,
+					16.704185485839844,
+					17.17444610595703
+				],
+				"sortCenterPosition": [
+					0.05795085430145264,
+					9.525333404541016,
+					9.623368263244629
+				],
+				"sortRadius": 16.084487915039062
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 612,
+				"vertexCount": 211,
+				"triangleStart": 2145,
+				"triangleCount": 408,
+				"boneCount": 49,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-0.05196554958820343,
+					25.388967514038086,
+					15.285231590270996
+				],
+				"sortCenterPosition": [
+					-0.0813254714012146,
+					25.105083465576172,
+					15.492898941040039
+				],
+				"sortRadius": 7.461636066436768
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/kite/pa_kite_0300.skin",
+		"fileDataID": 524269
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 531049,
+	"fileName": "world/expansion04/doodads/pandaren/keg/pa_keg_05.m2",
+	"internalName": "PA_Keg_05",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/keg/pa_keg_c_01u.blp",
+			"fileNameExternal": "pa_keg_c_01u.png",
+			"mtlName": "mat_pa_keg_c_01u",
+			"flags": 0,
+			"fileDataID": 531051
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.9008123874664307,
+			-0.8026133179664612,
+			0.004034572280943394
+		],
+		"max": [
+			0.9089245200157166,
+			0.8032391667366028,
+			1.6200309991836548
+		]
+	},
+	"boundingSphereRadius": 1.1066322326660156,
+	"collisionBox": {
+		"min": [
+			-0.9073460698127747,
+			-0.818020224571228,
+			-0.0020292599219828844
+		],
+		"max": [
+			0.8997281193733215,
+			0.8164837956428528,
+			1.632474660873413
+		]
+	},
+	"collisionSphereRadius": 1.2183103561401367,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 344,
+				"triangleStart": 0,
+				"triangleCount": 954,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.027748409658670425,
+					0.0024930336512625217,
+					0.8189665079116821
+				],
+				"sortCenterPosition": [
+					0.004056066274642944,
+					0.0003129243850708008,
+					0.8120327591896057
+				],
+				"sortRadius": 1.1066322326660156
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/keg/pa_keg_0500.skin",
+		"fileDataID": 531050
+	}
+}

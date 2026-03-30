@@ -1,0 +1,190 @@
+{
+	"fileType": "m2",
+	"fileDataID": 533040,
+	"fileName": "world/expansion04/doodads/pandaren/grain/pa_grainbucket_02.m2",
+	"internalName": "PA_GrainBucket_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/grain/pa_brewinggrains_01.blp",
+			"fileNameExternal": "pa_brewinggrains_01.png",
+			"mtlName": "mat_pa_brewinggrains_01",
+			"flags": 3,
+			"fileDataID": 533015
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/grain/pa_brewinggrains_buckets_01.blp",
+			"fileNameExternal": "pa_brewinggrains_buckets_01.png",
+			"mtlName": "mat_pa_brewinggrains_buckets_01",
+			"flags": 0,
+			"fileDataID": 533014
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.1844068765640259,
+			-1.333847999572754,
+			-0.018325135111808777
+		],
+		"max": [
+			1.1836649179458618,
+			1.3570630550384521,
+			1.9191426038742065
+		]
+	},
+	"boundingSphereRadius": 1.629891037940979,
+	"collisionBox": {
+		"min": [
+			-1.1252789497375488,
+			-1.1192779541015625,
+			0
+		],
+		"max": [
+			1.1409903764724731,
+			1.1469913721084595,
+			1.5288798809051514
+		]
+	},
+	"collisionSphereRadius": 1.3668805360794067,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 56,
+				"triangleStart": 0,
+				"triangleCount": 132,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.022338926792144775,
+					0.009509275667369366,
+					1.5285645723342896
+				],
+				"sortCenterPosition": [
+					0.007056772708892822,
+					0.017074286937713623,
+					1.544148325920105
+				],
+				"sortRadius": 0.7708250880241394
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 56,
+				"vertexCount": 475,
+				"triangleStart": 132,
+				"triangleCount": 1176,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0013807319337502122,
+					0.015829376876354218,
+					0.8277333378791809
+				],
+				"sortCenterPosition": [
+					-0.00037097930908203125,
+					0.011607527732849121,
+					0.9504087567329407
+				],
+				"sortRadius": 1.629891037940979
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/grain/pa_grainbucket_0200.skin",
+		"fileDataID": 533041
+	}
+}

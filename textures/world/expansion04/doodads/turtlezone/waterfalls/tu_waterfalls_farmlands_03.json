@@ -1,0 +1,208 @@
+{
+	"fileType": "m2",
+	"fileDataID": 531949,
+	"fileName": "world/expansion04/doodads/turtlezone/waterfalls/tu_waterfalls_farmlands_03.m2",
+	"internalName": "TU_Waterfalls_Farmlands_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/pandawater_06.blp",
+			"fileNameExternal": "pandawater_06.png",
+			"mtlName": "mat_pandawater_06",
+			"flags": 3,
+			"fileDataID": 517301
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/pandawater_color_07.blp",
+			"fileNameExternal": "pandawater_color_07.png",
+			"mtlName": "mat_pandawater_color_07",
+			"flags": 0,
+			"fileDataID": 517302
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.7411764860153198,
+							0.9098039865493774,
+							0.5372549295425415
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					26214
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						3300
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		0,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-56.18647766113281,
+			-43.43758010864258,
+			38.26149368286133
+		],
+		"max": [
+			40.42395782470703,
+			40.763641357421875,
+			81.12075805664062
+		]
+	},
+	"boundingSphereRadius": 67.5596694946289,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 196,
+				"triangleStart": 0,
+				"triangleCount": 936,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-24.921289443969727,
+					-0.3955306112766266,
+					62.5413932800293
+				],
+				"sortCenterPosition": [
+					-7.881259918212891,
+					-1.3369693756103516,
+					59.691123962402344
+				],
+				"sortRadius": 67.5596694946289
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 128,
+				"priority": 1,
+				"shaderID": 16404,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/waterfalls/tu_waterfalls_farmlands_0300.skin",
+		"fileDataID": 531950
+	}
+}

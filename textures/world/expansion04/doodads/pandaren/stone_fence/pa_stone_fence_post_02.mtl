@@ -1,0 +1,12 @@
+newmtl mat_pa_fence_post_02
+illum 1
+map_Kd pa_fence_post_02.png
+newmtl mat_worgen_flame_01
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\worgen\walls\worgen_flame_01.png
+newmtl mat_worgen_glow_01
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\worgen\walls\worgen_glow_01.png
+newmtl mat_worgen_glass_01
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\worgen\walls\worgen_glass_01.png

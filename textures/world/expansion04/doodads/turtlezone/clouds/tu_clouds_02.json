@@ -1,0 +1,173 @@
+{
+	"fileType": "m2",
+	"fileDataID": 517014,
+	"fileName": "world/expansion04/doodads/turtlezone/clouds/tu_clouds_02.m2",
+	"internalName": "TU_Clouds_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/clouds/tu_cloud_03.blp",
+			"fileNameExternal": "tu_cloud_03.png",
+			"mtlName": "mat_tu_cloud_03",
+			"flags": 3,
+			"fileDataID": 620848
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/valeofeternalblossoms/clouds/veb_cloud_static_01.blp",
+			"fileNameExternal": "..\\..\\valeofeternalblossoms\\clouds\\veb_cloud_static_01.png",
+			"mtlName": "mat_veb_cloud_static_01",
+			"flags": 0,
+			"fileDataID": 603845
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 337,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					9830
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						57967
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		0,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.0611644983291626,
+			-6.46742057800293,
+			-10.401028633117676
+		],
+		"max": [
+			-0.1272869110107422,
+			7.0240349769592285,
+			9.075032234191895
+		]
+	},
+	"boundingSphereRadius": 11.53528881072998,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 45,
+				"triangleStart": 0,
+				"triangleCount": 192,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.6301246285438538,
+					0.1982550323009491,
+					-1.6258488893508911
+				],
+				"sortCenterPosition": [
+					-0.5942257046699524,
+					0.2783071994781494,
+					-0.6629981994628906
+				],
+				"sortRadius": 11.53528881072998
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 128,
+				"priority": 0,
+				"shaderID": 32789,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/clouds/tu_clouds_0200.skin",
+		"fileDataID": 517015
+	}
+}

@@ -1,0 +1,256 @@
+{
+	"fileType": "m2",
+	"fileDataID": 620849,
+	"fileName": "world/expansion04/doodads/turtlezone/clouds/tu_clouds_04.m2",
+	"internalName": "TU_Clouds_04",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/clouds/tu_cloud_03.blp",
+			"fileNameExternal": "tu_cloud_03.png",
+			"mtlName": "mat_tu_cloud_03",
+			"flags": 3,
+			"fileDataID": 620848
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/valeofeternalblossoms/clouds/veb_cloud_static_01.blp",
+			"fileNameExternal": "..\\..\\valeofeternalblossoms\\clouds\\veb_cloud_static_01.png",
+			"mtlName": "mat_veb_cloud_static_01",
+			"flags": 0,
+			"fileDataID": 603845
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 337,
+			"blendingMode": 2
+		},
+		{
+			"flags": 337,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					9830
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						56800
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 1,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						57833
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		0,
+		65535,
+		1,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			0.29349052906036377,
+			-26.112150192260742,
+			-8.393635749816895
+		],
+		"max": [
+			2.5739998817443848,
+			7.283066749572754,
+			6.8309454917907715
+		]
+	},
+	"boundingSphereRadius": 17.054523468017578,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 45,
+				"triangleStart": 0,
+				"triangleCount": 192,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					1.069777488708496,
+					-11.06130599975586,
+					-0.5809922218322754
+				],
+				"sortCenterPosition": [
+					1.13447904586792,
+					-11.343643188476562,
+					-0.581561803817749
+				],
+				"sortRadius": 15.0537109375
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 45,
+				"vertexCount": 45,
+				"triangleStart": 192,
+				"triangleCount": 192,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					1.9643248319625854,
+					-4.048837661743164,
+					-0.7806709408760071
+				],
+				"sortCenterPosition": [
+					1.4679359197616577,
+					-4.269700527191162,
+					-0.7813451290130615
+				],
+				"sortRadius": 12.065964698791504
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 128,
+				"priority": 0,
+				"shaderID": 32789,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 128,
+				"priority": 1,
+				"shaderID": 32789,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 2
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/clouds/tu_clouds_0400.skin",
+		"fileDataID": 620850
+	}
+}

@@ -1,0 +1,291 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528629,
+	"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_06.m2",
+	"internalName": "PA_Alchemy_06",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/alchemy/pa_alchemygear.blp",
+			"fileNameExternal": "pa_alchemygear.png",
+			"mtlName": "mat_pa_alchemygear",
+			"flags": 0,
+			"fileDataID": 528618
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/head/smoothreflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\head\\smoothreflect.png",
+			"mtlName": "mat_smoothreflect",
+			"flags": 0,
+			"fileDataID": 142579
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/armorreflect_hard.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\armorreflect_hard.png",
+			"mtlName": "mat_armorreflect_hard",
+			"flags": 0,
+			"fileDataID": 144333
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/generic/elementiumore/rainbowenviro_bright.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion03\\doodads\\generic\\elementiumore\\rainbowenviro_bright.png",
+			"mtlName": "mat_rainbowenviro_bright",
+			"flags": 0,
+			"fileDataID": 371795
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		0,
+		2,
+		0,
+		3
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3684826195240021,
+			-0.3743593096733093,
+			0.0000010262207297273562
+		],
+		"max": [
+			0.5362564325332642,
+			0.3743601143360138,
+			0.8911322355270386
+		]
+	},
+	"boundingSphereRadius": 0.5872612595558167,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 106,
+				"triangleStart": 0,
+				"triangleCount": 474,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.17908398807048798,
+					-0.005591828376054764,
+					0.5569013953208923
+				],
+				"sortCenterPosition": [
+					0.09236922860145569,
+					-0.0014711320400238037,
+					0.5905527472496033
+				],
+				"sortRadius": 0.5225083231925964
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 106,
+				"vertexCount": 42,
+				"triangleStart": 474,
+				"triangleCount": 216,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.038191668689250946,
+					0.029202021658420563,
+					0.2804909348487854
+				],
+				"sortCenterPosition": [
+					0.01604735106229782,
+					0.0037157535552978516,
+					0.2798924148082733
+				],
+				"sortRadius": 0.3017667829990387
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 148,
+				"vertexCount": 41,
+				"triangleStart": 690,
+				"triangleCount": 168,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.005876302719116211,
+					5.887775955670804e-7,
+					0.22563089430332184
+				],
+				"sortCenterPosition": [
+					0.005876198410987854,
+					4.023313522338867e-7,
+					0.28529876470565796
+				],
+				"sortRadius": 0.43455326557159424
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 189,
+				"vertexCount": 27,
+				"triangleStart": 858,
+				"triangleCount": 96,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0063737863674759865,
+					0.00003875515903928317,
+					0.2237328141927719
+				],
+				"sortCenterPosition": [
+					0.0063737863674759865,
+					0.00003875515903928317,
+					0.2237328141927719
+				],
+				"sortRadius": 0.3403785824775696
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 4,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 1,
+				"shaderID": 32768,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 3,
+				"shaderID": 28,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 4,
+				"shaderID": 30,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 5,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/alchemy/pa_alchemy_0600.skin",
+		"fileDataID": 528630
+	}
+}

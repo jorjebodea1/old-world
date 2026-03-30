@@ -1,0 +1,3 @@
+newmtl mat_pa_crop_buckets_01
+illum 1
+map_Kd pa_crop_buckets_01.png

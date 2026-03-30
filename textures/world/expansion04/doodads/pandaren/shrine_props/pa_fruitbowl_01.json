@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528758,
+	"fileName": "world/expansion04/doodads/pandaren/shrine_props/pa_fruitbowl_01.m2",
+	"internalName": "PA_fruitBowl_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_props/shrine_props.blp",
+			"fileNameExternal": "shrine_props.png",
+			"mtlName": "mat_shrine_props",
+			"flags": 0,
+			"fileDataID": 528697
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.2372792512178421,
+			-0.23727947473526,
+			-2.6490949878166248e-8
+		],
+		"max": [
+			0.23727957904338837,
+			0.23727934062480927,
+			0.3195051848888397
+		]
+	},
+	"boundingSphereRadius": 0.2510238289833069,
+	"collisionBox": {
+		"min": [
+			-0.24104264378547668,
+			-0.2410426139831543,
+			0
+		],
+		"max": [
+			0.24104264378547668,
+			0.2410426139831543,
+			0.2393246293067932
+		]
+	},
+	"collisionSphereRadius": 0.2414715737104416,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 151,
+				"triangleStart": 0,
+				"triangleCount": 654,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.01042559091001749,
+					0.030499158427119255,
+					0.14112183451652527
+				],
+				"sortCenterPosition": [
+					1.6391277313232422e-7,
+					-6.705522537231445e-8,
+					0.15975257754325867
+				],
+				"sortRadius": 0.2510238289833069
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/shrine_props/pa_fruitbowl_0100.skin",
+		"fileDataID": 528759
+	}
+}

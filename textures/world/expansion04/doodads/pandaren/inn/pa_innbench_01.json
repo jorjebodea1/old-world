@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528523,
+	"fileName": "world/expansion04/doodads/pandaren/inn/pa_innbench_01.m2",
+	"internalName": "PA_innBench_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/inn/pa_innbench_01.blp",
+			"fileNameExternal": "pa_innbench_01.png",
+			"mtlName": "mat_pa_innbench_01",
+			"flags": 0,
+			"fileDataID": 528522
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3598840832710266,
+			-1.0582035779953003,
+			0
+		],
+		"max": [
+			0.3598836660385132,
+			1.0563209056854248,
+			0.6415169835090637
+		]
+	},
+	"boundingSphereRadius": 1.1452628374099731,
+	"collisionBox": {
+		"min": [
+			-0.3632937967777252,
+			-1.0478250980377197,
+			0
+		],
+		"max": [
+			0.3632937967777252,
+			1.0478250980377197,
+			0.6426769495010376
+		]
+	},
+	"collisionSphereRadius": 1.1376897096633911,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 370,
+				"triangleStart": 0,
+				"triangleCount": 888,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.005136500112712383,
+					-0.00012367770250421017,
+					0.3175466060638428
+				],
+				"sortCenterPosition": [
+					-0.005136500112712383,
+					-0.00012367770250421017,
+					0.3175466060638428
+				],
+				"sortRadius": 1.1446092128753662
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/inn/pa_innbench_0100.skin",
+		"fileDataID": 528524
+	}
+}

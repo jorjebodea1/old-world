@@ -1,0 +1,15 @@
+newmtl mat_pa_bamboohouse_lamp_01
+illum 1
+map_Kd ..\tablelamp\pa_bamboohouse_lamp_01.png
+newmtl mat_worgen_flame_01
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\worgen\walls\worgen_flame_01.png
+newmtl mat_pa_lamps_outdoor_wood_01
+illum 1
+map_Kd ..\lamps_outdoor_wood\pa_lamps_outdoor_wood_01.png
+newmtl mat_armorreflect4
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\shield\armorreflect4.png
+newmtl mat_worgen_glow_01
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\worgen\walls\worgen_glow_01.png

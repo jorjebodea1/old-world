@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 514951,
+	"fileName": "world/expansion04/doodads/turtlezone/mountaintree/tu_mountaintree08.m2",
+	"internalName": "TU_MountainTree08",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/mountaintree/tu_mountaintree_trunk.blp",
+			"fileNameExternal": "tu_mountaintree_trunk.png",
+			"mtlName": "mat_tu_mountaintree_trunk",
+			"flags": 3,
+			"fileDataID": 514494
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/mountaintree/tu_mountaintree_canopy.blp",
+			"fileNameExternal": "tu_mountaintree_canopy.png",
+			"mtlName": "mat_tu_mountaintree_canopy",
+			"flags": 3,
+			"fileDataID": 514495
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-13.360831260681152,
+			-16.940311431884766,
+			-4.010494709014893
+		],
+		"max": [
+			22.097492218017578,
+			18.253246307373047,
+			31.430063247680664
+		]
+	},
+	"boundingSphereRadius": 26.720726013183594,
+	"collisionBox": {
+		"min": [
+			-3.6592679023742676,
+			-7.475460529327393,
+			-4.010494709014893
+		],
+		"max": [
+			6.902842998504639,
+			5.741574764251709,
+			26.753620147705078
+		]
+	},
+	"collisionSphereRadius": 16.50630760192871,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 197,
+				"triangleStart": 0,
+				"triangleCount": 702,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					1.2420402765274048,
+					-0.12049121409654617,
+					15.128609657287598
+				],
+				"sortCenterPosition": [
+					1.6217875480651855,
+					-0.8669428825378418,
+					11.371562957763672
+				],
+				"sortRadius": 16.50630760192871
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 197,
+				"vertexCount": 810,
+				"triangleStart": 702,
+				"triangleCount": 1773,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					3.221494436264038,
+					0.5468658804893494,
+					26.065162658691406
+				],
+				"sortCenterPosition": [
+					3.221494436264038,
+					0.5468658804893494,
+					26.065162658691406
+				],
+				"sortRadius": 22.036983489990234
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/mountaintree/tu_mountaintree0800.skin",
+		"fileDataID": 514952
+	}
+}

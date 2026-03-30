@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 571932,
+	"fileName": "world/expansion04/doodads/pandaren/postwithropes/pa_postwithropes_01.m2",
+	"internalName": "PA_PostwithRopes_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/postwithropes/pa_postwithropes_01.blp",
+			"fileNameExternal": "pa_postwithropes_01.png",
+			"mtlName": "mat_pa_postwithropes_01",
+			"flags": 3,
+			"fileDataID": 571931
+		},
+		{
+			"fileNameInternal": "world/environment/doodad/pandaren/bridge/pa_footbridge_wood02.blp",
+			"fileNameExternal": "..\\..\\..\\..\\environment\\doodad\\pandaren\\bridge\\pa_footbridge_wood02.png",
+			"mtlName": "mat_pa_footbridge_wood02",
+			"flags": 3,
+			"fileDataID": 521167
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 1,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-16.542930603027344,
+			-30.039794921875,
+			-3.78796124458313
+		],
+		"max": [
+			16.9642276763916,
+			22.06092071533203,
+			24.796157836914062
+		]
+	},
+	"boundingSphereRadius": 32.7878303527832,
+	"collisionBox": {
+		"min": [
+			-15.107471466064453,
+			-30.18191909790039,
+			-3.8769285678863525
+		],
+		"max": [
+			15.135004997253418,
+			21.91745376586914,
+			24.86508560180664
+		]
+	},
+	"collisionSphereRadius": 32.86784744262695,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1943,
+				"triangleStart": 0,
+				"triangleCount": 7380,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.7729302048683167,
+					9.352811813354492,
+					20.832162857055664
+				],
+				"sortCenterPosition": [
+					0.2106485366821289,
+					-3.9894371032714844,
+					10.504097938537598
+				],
+				"sortRadius": 32.7878303527832
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 1943,
+				"vertexCount": 48,
+				"triangleStart": 7380,
+				"triangleCount": 60,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					7.018212795257568,
+					-29.09346580505371,
+					19.531126022338867
+				],
+				"sortCenterPosition": [
+					7.013850212097168,
+					-29.09182357788086,
+					19.478885650634766
+				],
+				"sortRadius": 0.6512001752853394
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/postwithropes/pa_postwithropes_0100.skin",
+		"fileDataID": 571933
+	}
+}

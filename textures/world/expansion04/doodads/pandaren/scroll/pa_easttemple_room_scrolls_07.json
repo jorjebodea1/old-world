@@ -1,0 +1,242 @@
+{
+	"fileType": "m2",
+	"fileDataID": 534536,
+	"fileName": "world/expansion04/doodads/pandaren/scroll/pa_easttemple_room_scrolls_07.m2",
+	"internalName": "PA_EastTemple_Room_Scrolls_07",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/scroll/pa_easttemple_scrolls_tex_01.blp",
+			"fileNameExternal": "pa_easttemple_scrolls_tex_01.png",
+			"mtlName": "mat_pa_easttemple_scrolls_tex_01",
+			"flags": 3,
+			"fileDataID": 533475
+		},
+		{
+			"fileNameInternal": "world/dungeon/easttemple/scroll/pa_scroll_long_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\dungeon\\easttemple\\scroll\\pa_scroll_long_01.png",
+			"mtlName": "mat_pa_scroll_long_01",
+			"flags": 0,
+			"fileDataID": 533008
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		},
+		{
+			"fileNameInternal": "world/dungeon/easttemple/scroll/pa_scroll_long_02.blp",
+			"fileNameExternal": "..\\..\\..\\..\\dungeon\\easttemple\\scroll\\pa_scroll_long_02.png",
+			"mtlName": "mat_pa_scroll_long_02",
+			"flags": 3,
+			"fileDataID": 533009
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-3.94551944732666,
+			-2.344468116760254,
+			-0.4658850133419037
+		],
+		"max": [
+			3.794623613357544,
+			3.771555185317993,
+			9.286458969116211
+		]
+	},
+	"boundingSphereRadius": 6.772378921508789,
+	"collisionBox": {
+		"min": [
+			-3.94551944732666,
+			-2.344468116760254,
+			-0.4658850133419037
+		],
+		"max": [
+			3.794623613357544,
+			3.771555185317993,
+			9.286458969116211
+		]
+	},
+	"collisionSphereRadius": 6.772378444671631,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 324,
+				"triangleStart": 0,
+				"triangleCount": 1176,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.2625104784965515,
+					0.2988569736480713,
+					4.8449296951293945
+				],
+				"sortCenterPosition": [
+					0.0008018016815185547,
+					0.6048275232315063,
+					4.410286903381348
+				],
+				"sortRadius": 6.404582977294922
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 324,
+				"vertexCount": 128,
+				"triangleStart": 1176,
+				"triangleCount": 456,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.839477002620697,
+					1.3243972063064575,
+					4.4102864265441895
+				],
+				"sortCenterPosition": [
+					-0.04753303527832031,
+					0.7135435342788696,
+					4.410287380218506
+				],
+				"sortRadius": 6.788066387176514
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 452,
+				"vertexCount": 108,
+				"triangleStart": 1632,
+				"triangleCount": 420,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.8511818051338196,
+					1.338834524154663,
+					4.391719818115234
+				],
+				"sortCenterPosition": [
+					-0.20883488655090332,
+					0.8514882326126099,
+					4.410286903381348
+				],
+				"sortRadius": 6.687134265899658
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/scroll/pa_easttemple_room_scrolls_0700.skin",
+		"fileDataID": 534537
+	}
+}

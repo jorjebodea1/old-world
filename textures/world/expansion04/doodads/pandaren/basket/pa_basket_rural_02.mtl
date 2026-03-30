@@ -1,0 +1,3 @@
+newmtl mat_pa_basket_rural
+illum 1
+map_Kd pa_basket_rural.png

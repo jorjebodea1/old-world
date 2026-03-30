@@ -1,0 +1,237 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521199,
+	"fileName": "world/expansion04/doodads/pandaren/scroll/pa_scroll_03.m2",
+	"internalName": "PA_Scroll_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/scroll/pa_scroll_01.blp",
+			"fileNameExternal": "pa_scroll_01.png",
+			"mtlName": "mat_pa_scroll_01",
+			"flags": 0,
+			"fileDataID": 521193
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/scroll/pa_scroll_02.blp",
+			"fileNameExternal": "pa_scroll_02.png",
+			"mtlName": "mat_pa_scroll_02",
+			"flags": 0,
+			"fileDataID": 521196
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							1,
+							1,
+							1
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0
+					],
+					[],
+					[
+						0,
+						300,
+						400
+					]
+				],
+				"values": [
+					[
+						0
+					],
+					[],
+					[
+						32767,
+						32767,
+						0
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3849031329154968,
+			-0.7549296617507935,
+			-0.9514561891555786
+		],
+		"max": [
+			0.16023625433444977,
+			0.754172682762146,
+			2.195219039916992
+		]
+	},
+	"boundingSphereRadius": 1.66119384765625,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 366,
+				"triangleStart": 0,
+				"triangleCount": 1428,
+				"boneCount": 6,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-0.03469940647482872,
+					-0.004851856268942356,
+					0.7100300788879395
+				],
+				"sortCenterPosition": [
+					-0.03469940647482872,
+					-0.004851856268942356,
+					0.7100300788879395
+				],
+				"sortRadius": 0.7651852369308472
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 366,
+				"vertexCount": 143,
+				"triangleStart": 1428,
+				"triangleCount": 318,
+				"boneCount": 6,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					-0.021223807707428932,
+					-0.0036957268603146076,
+					-0.34396982192993164
+				],
+				"sortCenterPosition": [
+					0.04439931362867355,
+					0.00517919659614563,
+					-0.22902607917785645
+				],
+				"sortRadius": 1.0081052780151367
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 0,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/scroll/pa_scroll_0300.skin",
+		"fileDataID": 521200
+	}
+}

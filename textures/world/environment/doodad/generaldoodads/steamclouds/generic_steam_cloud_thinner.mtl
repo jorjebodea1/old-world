@@ -1,0 +1,3 @@
+newmtl mat_skywall_fog_clouds_01
+illum 1
+map_Kd skywall_fog_clouds_01.png

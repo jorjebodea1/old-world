@@ -1,0 +1,9 @@
+newmtl mat_worgen_flame_01
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\worgen\walls\worgen_flame_01.png
+newmtl mat_worgen_glow_01
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\worgen\walls\worgen_glow_01.png
+newmtl mat_pa_water_lamppost_all
+illum 1
+map_Kd pa_water_lamppost_all.png

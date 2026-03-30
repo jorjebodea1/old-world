@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 571700,
+	"fileName": "world/expansion04/doodads/hozu/hz_cratebroken.m2",
+	"internalName": "HZ_CrateBroken",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/hz_foodcontainers.blp",
+			"fileNameExternal": "hz_foodcontainers.png",
+			"mtlName": "mat_hz_foodcontainers",
+			"flags": 0,
+			"fileDataID": 571697
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.43036288022994995,
+			-0.48438724875450134,
+			-0.01581711322069168
+		],
+		"max": [
+			0.5580216646194458,
+			0.550402820110321,
+			0.76240473985672
+		]
+	},
+	"boundingSphereRadius": 0.6302728652954102,
+	"collisionBox": {
+		"min": [
+			-0.41723790764808655,
+			-0.43760135769844055,
+			-1.5780035056423003e-9
+		],
+		"max": [
+			0.5336461663246155,
+			0.5706762075424194,
+			0.7813768982887268
+		]
+	},
+	"collisionSphereRadius": 0.6382890343666077,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 653,
+				"triangleStart": 0,
+				"triangleCount": 2352,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.06427102535963058,
+					0.030499620363116264,
+					0.3613259196281433
+				],
+				"sortCenterPosition": [
+					0.06427102535963058,
+					0.030499620363116264,
+					0.3613259196281433
+				],
+				"sortRadius": 0.6269952058792114
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/hz_cratebroken00.skin",
+		"fileDataID": 571701
+	}
+}

@@ -1,0 +1,332 @@
+{
+	"fileType": "m2",
+	"fileDataID": 309067,
+	"fileName": "world/expansion03/doodads/abyssalmaw/coral/abyssal_fish01.m2",
+	"internalName": "Abyssal_Fish01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion03/doodads/abyssalmaw/coral/abyssal_spotedfish_tex.blp",
+			"fileNameExternal": "abyssal_spotedfish_tex.png",
+			"mtlName": "mat_abyssal_spotedfish_tex",
+			"flags": 0,
+			"fileDataID": 309062
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/abyssalmaw/coral/abyssal_clownfish_tex.blp",
+			"fileNameExternal": "abyssal_clownfish_tex.png",
+			"mtlName": "mat_abyssal_clownfish_tex",
+			"flags": 0,
+			"fileDataID": 309063
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/abyssalmaw/coral/abyssal_bluegreen_tex.blp",
+			"fileNameExternal": "abyssal_bluegreen_tex.png",
+			"mtlName": "mat_abyssal_bluegreen_tex",
+			"flags": 0,
+			"fileDataID": 309064
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/abyssalmaw/coral/abyssal_bluefish_tex.blp",
+			"fileNameExternal": "abyssal_bluefish_tex.png",
+			"mtlName": "mat_abyssal_bluefish_tex",
+			"flags": 0,
+			"fileDataID": 309065
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/abyssalmaw/coral/abyssal_fairyfish_tex.blp",
+			"fileNameExternal": "abyssal_fairyfish_tex.png",
+			"mtlName": "mat_abyssal_fairyfish_tex",
+			"flags": 0,
+			"fileDataID": 309066
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 0
+		},
+		{
+			"flags": 4,
+			"blendingMode": 0
+		},
+		{
+			"flags": 4,
+			"blendingMode": 0
+		},
+		{
+			"flags": 4,
+			"blendingMode": 0
+		},
+		{
+			"flags": 4,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3,
+		4
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-4.673617362976074,
+			-3.2130966186523438,
+			-0.06381720304489136
+		],
+		"max": [
+			4.170224666595459,
+			3.8984007835388184,
+			1.2402504682540894
+		]
+	},
+	"boundingSphereRadius": 4.636022090911865,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 26,
+				"triangleStart": 0,
+				"triangleCount": 132,
+				"boneCount": 21,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 10,
+				"centerPosition": [
+					0.6094073057174683,
+					0.10574126988649368,
+					0.7417277693748474
+				],
+				"sortCenterPosition": [
+					0.6094073057174683,
+					0.10574126988649368,
+					0.7417277693748474
+				],
+				"sortRadius": 0.33187246322631836
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 26,
+				"vertexCount": 26,
+				"triangleStart": 132,
+				"triangleCount": 132,
+				"boneCount": 21,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 11,
+				"centerPosition": [
+					0.06885017454624176,
+					0.11160116642713547,
+					0.8701062798500061
+				],
+				"sortCenterPosition": [
+					0.06885017454624176,
+					0.11160116642713547,
+					0.8701062798500061
+				],
+				"sortRadius": 0.33854323625564575
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 52,
+				"vertexCount": 26,
+				"triangleStart": 264,
+				"triangleCount": 132,
+				"boneCount": 21,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 12,
+				"centerPosition": [
+					-0.1475248634815216,
+					0.1042313501238823,
+					0.7138780355453491
+				],
+				"sortCenterPosition": [
+					-0.18517546355724335,
+					0.12462568283081055,
+					0.7452861070632935
+				],
+				"sortRadius": 0.5035157799720764
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 78,
+				"vertexCount": 26,
+				"triangleStart": 396,
+				"triangleCount": 132,
+				"boneCount": 21,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 13,
+				"centerPosition": [
+					-0.400316447019577,
+					0.16235390305519104,
+					0.8663318157196045
+				],
+				"sortCenterPosition": [
+					-0.3957968056201935,
+					0.1683759093284607,
+					0.8641956448554993
+				],
+				"sortRadius": 0.3669278919696808
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 104,
+				"vertexCount": 26,
+				"triangleStart": 528,
+				"triangleCount": 132,
+				"boneCount": 21,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 14,
+				"centerPosition": [
+					-0.18394146859645844,
+					0.18898746371269226,
+					1.0225601196289062
+				],
+				"sortCenterPosition": [
+					-0.20415043830871582,
+					0.17429956793785095,
+					1.033346176147461
+				],
+				"sortRadius": 0.441791296005249
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 4,
+				"flags2": 4,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion03/doodads/abyssalmaw/coral/abyssal_fish0100.skin",
+		"fileDataID": 500434
+	}
+}

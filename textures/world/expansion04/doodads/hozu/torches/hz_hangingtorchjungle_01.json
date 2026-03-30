@@ -1,0 +1,142 @@
+{
+	"fileType": "m2",
+	"fileDataID": 538448,
+	"fileName": "world/expansion04/doodads/hozu/torches/hz_hangingtorchjungle_01.m2",
+	"internalName": "HZ_HangingTorchJungle_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/torches/hozu_torch.blp",
+			"fileNameExternal": "hozu_torch.png",
+			"mtlName": "mat_hozu_torch",
+			"flags": 0,
+			"fileDataID": 537773
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/torches/fire1.blp",
+			"fileNameExternal": "fire1.png",
+			"mtlName": "mat_fire1",
+			"flags": 0,
+			"fileDataID": 1043702
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/torches/t_vfx_fire01_a.blp",
+			"fileNameExternal": "t_vfx_fire01_a.png",
+			"mtlName": "mat_t_vfx_fire01_a",
+			"flags": 0,
+			"fileDataID": 1043703
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.35536861419677734,
+			-0.25013309717178345,
+			-1.3768422603607178
+		],
+		"max": [
+			0.40195465087890625,
+			0.1887645572423935,
+			0.04607820510864258
+		]
+	},
+	"boundingSphereRadius": 0.7234168648719788,
+	"collisionBox": {
+		"min": [
+			-0.11161482334136963,
+			-0.14429400861263275,
+			-1.3544118404388428
+		],
+		"max": [
+			0.13189835846424103,
+			0.07854986190795898,
+			-0.8103306889533997
+		]
+	},
+	"collisionSphereRadius": 0.3181911110877991,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 752,
+				"triangleStart": 0,
+				"triangleCount": 3102,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.006133957765996456,
+					-0.03667253628373146,
+					-0.8671139478683472
+				],
+				"sortCenterPosition": [
+					-0.03215453028678894,
+					-0.06727255880832672,
+					-0.6653820276260376
+				],
+				"sortRadius": 0.7234168648719788
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 7,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/torches/hz_hangingtorchjungle_0100.skin",
+		"fileDataID": 538449
+	}
+}

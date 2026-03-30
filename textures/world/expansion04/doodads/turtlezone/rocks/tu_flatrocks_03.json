@@ -1,0 +1,134 @@
+{
+	"fileType": "m2",
+	"fileDataID": 516395,
+	"fileName": "world/expansion04/doodads/turtlezone/rocks/tu_flatrocks_03.m2",
+	"internalName": "TU_FlatRocks_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/rocks/tu_flatrocks_02.blp",
+			"fileNameExternal": "tu_flatrocks_02.png",
+			"mtlName": "mat_tu_flatrocks_02",
+			"flags": 0,
+			"fileDataID": 644445
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/rocks/tu_rocknoise_02.blp",
+			"fileNameExternal": "tu_rocknoise_02.png",
+			"mtlName": "mat_tu_rocknoise_02",
+			"flags": 3,
+			"fileDataID": 644446
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-4.162387371063232,
+			-4.767602443695068,
+			-3.887932300567627
+		],
+		"max": [
+			4.5550079345703125,
+			5.059444427490234,
+			2.1101455688476562
+		]
+	},
+	"boundingSphereRadius": 5.750065326690674,
+	"collisionBox": {
+		"min": [
+			-4.1816887855529785,
+			-4.767602443695068,
+			-3.8879318237304688
+		],
+		"max": [
+			4.535706520080566,
+			5.059443950653076,
+			2.1101455688476562
+		]
+	},
+	"collisionSphereRadius": 5.6824116706848145,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 111,
+				"triangleStart": 0,
+				"triangleCount": 540,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.626957356929779,
+					-0.24414794147014618,
+					-0.27895644307136536
+				],
+				"sortCenterPosition": [
+					0.19631028175354004,
+					0.145920991897583,
+					-0.8888933658599854
+				],
+				"sortRadius": 5.750065326690674
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 16390,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/rocks/tu_flatrocks_0300.skin",
+		"fileDataID": 516396
+	}
+}

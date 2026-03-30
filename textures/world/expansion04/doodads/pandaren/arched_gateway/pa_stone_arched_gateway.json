@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 519357,
+	"fileName": "world/expansion04/doodads/pandaren/arched_gateway/pa_stone_arched_gateway.m2",
+	"internalName": "PA_Stone_Arched_Gateway",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/arched_gateway/pa_stone_wall_01b.blp",
+			"fileNameExternal": "pa_stone_wall_01b.png",
+			"mtlName": "mat_pa_stone_wall_01b",
+			"flags": 3,
+			"fileDataID": 537765
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.7074328660964966,
+			-12.567761421203613,
+			-2.2286999225616455
+		],
+		"max": [
+			1.7074257135391235,
+			12.567765235900879,
+			12.100140571594238
+		]
+	},
+	"boundingSphereRadius": 14.508152961730957,
+	"collisionBox": {
+		"min": [
+			-1.9481998682022095,
+			-12.586669921875,
+			-2.2286975383758545
+		],
+		"max": [
+			1.9482078552246094,
+			12.586669921875,
+			12.172578811645508
+		]
+	},
+	"collisionSphereRadius": 14.541566848754883,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1304,
+				"triangleStart": 0,
+				"triangleCount": 3954,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.00004868118048761971,
+					0.038128919899463654,
+					5.6926116943359375
+				],
+				"sortCenterPosition": [
+					-0.0000035762786865234375,
+					0.0000019073486328125,
+					4.935720443725586
+				],
+				"sortRadius": 14.508152961730957
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/arched_gateway/pa_stone_arched_gateway00.skin",
+		"fileDataID": 519358
+	}
+}

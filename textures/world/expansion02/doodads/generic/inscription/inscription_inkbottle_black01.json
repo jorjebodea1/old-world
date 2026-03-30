@@ -1,0 +1,185 @@
+{
+	"fileType": "m2",
+	"fileDataID": 243402,
+	"fileName": "world/expansion02/doodads/generic/inscription/inscription_inkbottle_black01.m2",
+	"internalName": "Inscription_InkBottle_Black01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/generic/inscription/inscription_bottles01.blp",
+			"fileNameExternal": "inscription_bottles01.png",
+			"mtlName": "mat_inscription_bottles01",
+			"flags": 0,
+			"fileDataID": 243401
+		},
+		{
+			"fileNameInternal": "world/expansion02/doodads/generic/oracle/orbreflectdark.blp",
+			"fileNameExternal": "..\\oracle\\orbreflectdark.png",
+			"mtlName": "mat_orbreflectdark",
+			"flags": 0,
+			"fileDataID": 195076
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.14742392301559448,
+			-0.17161086201667786,
+			-0.0005109045305289328
+		],
+		"max": [
+			0.14997310936450958,
+			0.17179365456104279,
+			0.29220348596572876
+		]
+	},
+	"boundingSphereRadius": 0.1796245276927948,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 49,
+				"triangleStart": 0,
+				"triangleCount": 174,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0012746000429615378,
+					-0.0013231306802481413,
+					0.15293535590171814
+				],
+				"sortCenterPosition": [
+					0.001274600625038147,
+					0.0000913962721824646,
+					0.15204878151416779
+				],
+				"sortRadius": 0.16545717418193817
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 49,
+				"vertexCount": 74,
+				"triangleStart": 174,
+				"triangleCount": 288,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0012746016727760434,
+					0.0000913962721824646,
+					0.14256471395492554
+				],
+				"sortCenterPosition": [
+					0.00127459317445755,
+					0.0000913962721824646,
+					0.11066221445798874
+				],
+				"sortRadius": 0.1725991815328598
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32775,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/generic/inscription/inscription_inkbottle_black0100.skin",
+		"fileDataID": 498233
+	}
+}

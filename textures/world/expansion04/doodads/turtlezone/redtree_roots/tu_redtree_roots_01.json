@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521700,
+	"fileName": "world/expansion04/doodads/turtlezone/redtree_roots/tu_redtree_roots_01.m2",
+	"internalName": "TU_RedTree_Roots_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/redtree/tu_redtree_trunk.blp",
+			"fileNameExternal": "..\\redtree\\tu_redtree_trunk.png",
+			"mtlName": "mat_tu_redtree_trunk",
+			"flags": 3,
+			"fileDataID": 515642
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-4.296881675720215,
+			-6.777903079986572,
+			-6.395167350769043
+		],
+		"max": [
+			5.986258029937744,
+			3.0962982177734375,
+			2.68192458152771
+		]
+	},
+	"boundingSphereRadius": 7.941531181335449,
+	"collisionBox": {
+		"min": [
+			-4.296882629394531,
+			-6.777904987335205,
+			-6.395166873931885
+		],
+		"max": [
+			5.986258506774902,
+			3.0962982177734375,
+			2.6819255352020264
+		]
+	},
+	"collisionSphereRadius": 7.941532135009766,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 294,
+				"triangleStart": 0,
+				"triangleCount": 1632,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.8966708183288574,
+					-2.0500268936157227,
+					-1.4347944259643555
+				],
+				"sortCenterPosition": [
+					0.8446881771087646,
+					-1.8408024311065674,
+					-1.8566213846206665
+				],
+				"sortRadius": 7.941531181335449
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/redtree_roots/tu_redtree_roots_0100.skin",
+		"fileDataID": 521701
+	}
+}

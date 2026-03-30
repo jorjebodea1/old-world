@@ -1,0 +1,255 @@
+{
+	"fileType": "m2",
+	"fileDataID": 538785,
+	"fileName": "world/expansion04/doodads/pandaren/kitcheninset/pa_kitcheninset_small.m2",
+	"internalName": "PA_kitcheninset_small",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/kitcheninset/pa_kitcheninset_small.blp",
+			"fileNameExternal": "pa_kitcheninset_small.png",
+			"mtlName": "mat_pa_kitcheninset_small",
+			"flags": 0,
+			"fileDataID": 538784
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/chromereflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\chromereflect.png",
+			"mtlName": "mat_chromereflect",
+			"flags": 0,
+			"fileDataID": 145297
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/keg/pa_keg_d_10.blp",
+			"fileNameExternal": "..\\keg\\pa_keg_d_10.png",
+			"mtlName": "mat_pa_keg_d_10",
+			"flags": 0,
+			"fileDataID": 531066
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		},
+		{
+			"fileNameInternal": "dungeons/textures/pandaren/base_houses/pa_pillardeco.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\dungeons\\textures\\pandaren\\base_houses\\pa_pillardeco.png",
+			"mtlName": "mat_pa_pillardeco",
+			"flags": 3,
+			"fileDataID": 527679
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3,
+		4
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.8037475347518921,
+			-4.41808557510376,
+			0.00481330044567585
+		],
+		"max": [
+			1.3600631952285767,
+			4.416292667388916,
+			7.489827632904053
+		]
+	},
+	"boundingSphereRadius": 4.759605407714844,
+	"collisionBox": {
+		"min": [
+			-0.8345896601676941,
+			-4.612424850463867,
+			0.0063417223282158375
+		],
+		"max": [
+			1.315666913986206,
+			4.610646724700928,
+			7.626598834991455
+		]
+	},
+	"collisionSphereRadius": 5.131621837615967,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 382,
+				"triangleStart": 0,
+				"triangleCount": 825,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.10083415359258652,
+					-0.0008891215547919273,
+					2.5106871128082275
+				],
+				"sortCenterPosition": [
+					-0.1426076889038086,
+					-0.0008889436721801758,
+					3.199758291244507
+				],
+				"sortRadius": 4.025226593017578
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 382,
+				"vertexCount": 171,
+				"triangleStart": 825,
+				"triangleCount": 636,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.9368106722831726,
+					0.00004096442353329621,
+					2.6191811561584473
+				],
+				"sortCenterPosition": [
+					0.2853058874607086,
+					0.0003110170364379883,
+					2.8734230995178223
+				],
+				"sortRadius": 1.4722915887832642
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 553,
+				"vertexCount": 142,
+				"triangleStart": 1461,
+				"triangleCount": 396,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.20571167767047882,
+					-0.0008974310476332903,
+					3.3809585571289062
+				],
+				"sortCenterPosition": [
+					0.20571167767047882,
+					-0.0008974310476332903,
+					3.3809585571289062
+				],
+				"sortRadius": 4.58699893951416
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/kitcheninset/pa_kitcheninset_small00.skin",
+		"fileDataID": 538786
+	}
+}

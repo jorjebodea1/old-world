@@ -1,0 +1,6 @@
+newmtl mat_pa_stone_post_01
+illum 1
+map_Kd pa_stone_post_01.png
+newmtl mat_ui-party-background
+illum 1
+map_Kd ..\..\..\..\..\interface\characterframe\ui-party-background.png

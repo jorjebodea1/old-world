@@ -1,0 +1,3 @@
+newmtl mat_hz_hangingropes
+illum 1
+map_Kd hz_hangingropes.png

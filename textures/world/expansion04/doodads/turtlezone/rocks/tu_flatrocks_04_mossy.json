@@ -1,0 +1,134 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521988,
+	"fileName": "world/expansion04/doodads/turtlezone/rocks/tu_flatrocks_04_mossy.m2",
+	"internalName": "TU_FlatRocks_04_mossy",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/rocks/tu_flatrocks_01_moss.blp",
+			"fileNameExternal": "tu_flatrocks_01_moss.png",
+			"mtlName": "mat_tu_flatrocks_01_moss",
+			"flags": 0,
+			"fileDataID": 521981
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/rocks/tu_rocknoise_01.blp",
+			"fileNameExternal": "tu_rocknoise_01.png",
+			"mtlName": "mat_tu_rocknoise_01",
+			"flags": 3,
+			"fileDataID": 525827
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-12.173584938049316,
+			-8.834270477294922,
+			-5.817820072174072
+		],
+		"max": [
+			11.225521087646484,
+			8.767618179321289,
+			13.469417572021484
+		]
+	},
+	"boundingSphereRadius": 15.891074180603027,
+	"collisionBox": {
+		"min": [
+			-12.173584938049316,
+			-8.834272384643555,
+			-5.817820072174072
+		],
+		"max": [
+			11.225521087646484,
+			8.767618179321289,
+			13.469417572021484
+		]
+	},
+	"collisionSphereRadius": 15.891075134277344,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 157,
+				"triangleStart": 0,
+				"triangleCount": 840,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.9265289306640625,
+					0.20931243896484375,
+					1.4420720338821411
+				],
+				"sortCenterPosition": [
+					-0.9265289306640625,
+					0.20931243896484375,
+					1.4420720338821411
+				],
+				"sortRadius": 15.096168518066406
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 16390,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/rocks/tu_flatrocks_04_mossy00.skin",
+		"fileDataID": 521989
+	}
+}

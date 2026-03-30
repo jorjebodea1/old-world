@@ -1,0 +1,15 @@
+newmtl mat_dk_tshell_trim02
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\pandaren\turtle_shell\dk_tshell_trim02.png
+newmtl mat_dk_tshell_shell04
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\pandaren\turtle_shell\dk_tshell_shell04.png
+newmtl mat_dk_tshell_shell02
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\pandaren\turtle_shell\dk_tshell_shell02.png
+newmtl mat_dk_tshell_shell04
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\pandaren\turtle_shell\dk_tshell_shell04.png
+newmtl mat_dk_tshell_trim01
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\pandaren\turtle_shell\dk_tshell_trim01.png

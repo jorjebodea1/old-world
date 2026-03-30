@@ -1,0 +1,15 @@
+newmtl mat_pa_bamboohouse_lamp_01
+illum 1
+map_Kd pa_bamboohouse_lamp_01.png
+newmtl mat_pa_lamps_outdoor_wood_01
+illum 1
+map_Kd pa_lamps_outdoor_wood_01.png
+newmtl mat_armorreflect4
+illum 1
+map_Kd armorreflect4.png
+newmtl mat_worgen_glow_01
+illum 1
+map_Kd worgen_glow_01.png
+newmtl mat_worgen_flame_01
+illum 1
+map_Kd worgen_flame_01.png

@@ -1,0 +1,3 @@
+newmtl mat_sacks
+illum 1
+map_Kd sacks.png

@@ -1,0 +1,3 @@
+newmtl mat_pa_tablelamp_01
+illum 1
+map_Kd pa_tablelamp_01.png

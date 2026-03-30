@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 576349,
+	"fileName": "world/expansion04/doodads/pandaren/paper/pa_bundledpaper_01.m2",
+	"internalName": "PA_BundledPaper_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/paper/pa_bundledpaper_01.blp",
+			"fileNameExternal": "pa_bundledpaper_01.png",
+			"mtlName": "mat_pa_bundledpaper_01",
+			"flags": 0,
+			"fileDataID": 576348
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.21538689732551575,
+			-0.155947744846344,
+			-0.03276612609624863
+		],
+		"max": [
+			0.21006819605827332,
+			0.15594784915447235,
+			0.11177991330623627
+		]
+	},
+	"boundingSphereRadius": 0.2466600239276886,
+	"collisionBox": {
+		"min": [
+			-0.20268651843070984,
+			-0.11432920396327972,
+			-0.0034119784832000732
+		],
+		"max": [
+			0.19738908112049103,
+			0.11744266003370285,
+			0.08312654495239258
+		]
+	},
+	"collisionSphereRadius": 0.23519545793533325,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 404,
+				"triangleStart": 0,
+				"triangleCount": 852,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0071126362308859825,
+					0.004613001365214586,
+					0.035820312798023224
+				],
+				"sortCenterPosition": [
+					-0.002659350633621216,
+					5.21540641784668e-8,
+					0.03950689360499382
+				],
+				"sortRadius": 0.2466600239276886
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/paper/pa_bundledpaper_0100.skin",
+		"fileDataID": 576350
+	}
+}

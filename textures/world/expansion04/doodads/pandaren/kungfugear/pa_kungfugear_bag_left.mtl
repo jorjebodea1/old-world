@@ -1,0 +1,12 @@
+newmtl mat_pa_kungfugear_01
+illum 1
+map_Kd pa_kungfugear_01.png
+newmtl mat_armorreflect3_horde
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\weapon\armorreflect3_horde.png
+newmtl mat_dust3x
+illum 1
+map_Kd ..\..\..\..\..\particles\dust3x.png
+newmtl mat_pa_kungfugear_sand
+illum 1
+map_Kd pa_kungfugear_sand.png

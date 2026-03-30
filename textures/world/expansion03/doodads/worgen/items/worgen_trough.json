@@ -1,0 +1,369 @@
+{
+	"fileType": "m2",
+	"fileDataID": 304185,
+	"fileName": "world/expansion03/doodads/worgen/items/worgen_trough.m2",
+	"internalName": "Worgen_Trough",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion03/doodads/worgen/items/rake_cart copy.blp",
+			"fileNameExternal": "rake_cartcopy.png",
+			"mtlName": "mat_rake_cartcopy",
+			"flags": 3,
+			"fileDataID": 304142
+		},
+		{
+			"fileNameInternal": "world/expansion02/doodads/generic/vrykul/trough/water_surface.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion02\\doodads\\generic\\vrykul\\trough\\water_surface.png",
+			"mtlName": "mat_water_surface",
+			"flags": 3,
+			"fileDataID": 195641
+		},
+		{
+			"fileNameInternal": "world/expansion02/doodads/generic/vrykul/trough/water_reflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion02\\doodads\\generic\\vrykul\\trough\\water_reflect.png",
+			"mtlName": "mat_water_reflect",
+			"flags": 3,
+			"fileDataID": 195640
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/vials/whiteringnoise128.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\vials\\whiteringnoise128.png",
+			"mtlName": "mat_whiteringnoise128",
+			"flags": 0,
+			"fileDataID": 198631
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		},
+		{
+			"flags": 16,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					9830
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					16384
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1,
+		2
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.734093964099884,
+			-1.483566164970398,
+			-0.1474456787109375
+		],
+		"max": [
+			0.955113410949707,
+			1.582038402557373,
+			1.1568117141723633
+		]
+	},
+	"boundingSphereRadius": 1.7976151704788208,
+	"collisionBox": {
+		"min": [
+			-0.734093964099884,
+			-1.483566164970398,
+			-0.04439738392829895
+		],
+		"max": [
+			0.9445670247077942,
+			1.582038402557373,
+			0.9046041965484619
+		]
+	},
+	"collisionSphereRadius": 1.7976150512695312,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 88,
+				"triangleStart": 0,
+				"triangleCount": 108,
+				"boneCount": 5,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.10562192648649216,
+					-0.0031197653152048588,
+					0.4215638041496277
+				],
+				"sortCenterPosition": [
+					0.10523653030395508,
+					0.04923611879348755,
+					0.4301034212112427
+				],
+				"sortRadius": 1.7976151704788208
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 88,
+				"vertexCount": 8,
+				"triangleStart": 108,
+				"triangleCount": 18,
+				"boneCount": 5,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					0.13482439517974854,
+					-0.2694322168827057,
+					0.4073968529701233
+				],
+				"sortCenterPosition": [
+					0.13675186038017273,
+					0.08218079805374146,
+					0.3981895446777344
+				],
+				"sortRadius": 1.494356393814087
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 96,
+				"vertexCount": 8,
+				"triangleStart": 126,
+				"triangleCount": 18,
+				"boneCount": 5,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					0.13515406847000122,
+					0.40846216678619385,
+					0.41608482599258423
+				],
+				"sortCenterPosition": [
+					0.13708147406578064,
+					0.08370202779769897,
+					0.4245889186859131
+				],
+				"sortRadius": 1.494356393814087
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 104,
+				"vertexCount": 8,
+				"triangleStart": 144,
+				"triangleCount": 18,
+				"boneCount": 5,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 3,
+				"centerPosition": [
+					0.3150784969329834,
+					0.04904812574386597,
+					0.4755024015903473
+				],
+				"sortCenterPosition": [
+					0.10926815867424011,
+					0.07851368188858032,
+					0.47472625970840454
+				],
+				"sortRadius": 1.5457550287246704
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 112,
+				"vertexCount": 8,
+				"triangleStart": 162,
+				"triangleCount": 18,
+				"boneCount": 5,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 4,
+				"centerPosition": [
+					-0.07873415946960449,
+					0.03114067018032074,
+					0.4510720372200012
+				],
+				"sortCenterPosition": [
+					0.10836079716682434,
+					0.07445937395095825,
+					0.44994261860847473
+				],
+				"sortRadius": 1.5457550287246704
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 208,
+				"priority": 1,
+				"shaderID": 32772,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 208,
+				"priority": 2,
+				"shaderID": 32772,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 208,
+				"priority": 4,
+				"shaderID": 32772,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 5,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 208,
+				"priority": 3,
+				"shaderID": 32772,
+				"skinSectionIndex": 4,
+				"flags2": 4,
+				"colorIndex": 65535,
+				"materialIndex": 7,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion03/doodads/worgen/items/worgen_trough00.skin",
+		"fileDataID": 502742
+	}
+}

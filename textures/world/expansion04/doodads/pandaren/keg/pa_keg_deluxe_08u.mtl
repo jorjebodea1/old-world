@@ -1,0 +1,12 @@
+newmtl mat_pa_keg_accessories_02
+illum 1
+map_Kd pa_keg_accessories_02.png
+newmtl mat_armorreflect4
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\shield\armorreflect4.png
+newmtl mat_pa_keg_accessories_01
+illum 1
+map_Kd pa_keg_accessories_01.png
+newmtl mat_pa_keg_d_04u
+illum 1
+map_Kd pa_keg_d_04u.png

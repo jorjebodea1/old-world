@@ -1,0 +1,3 @@
+newmtl mat_pa_scroll_huge_01
+illum 1
+map_Kd pa_scroll_huge_01.png

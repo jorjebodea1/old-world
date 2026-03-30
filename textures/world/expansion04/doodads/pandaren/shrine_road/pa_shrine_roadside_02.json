@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 529278,
+	"fileName": "world/expansion04/doodads/pandaren/shrine_road/pa_shrine_roadside_02.m2",
+	"internalName": "PA_Shrine_RoadSide_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_road/pa_shrine_roadside_02.blp",
+			"fileNameExternal": "pa_shrine_roadside_02.png",
+			"mtlName": "mat_pa_shrine_roadside_02",
+			"flags": 3,
+			"fileDataID": 529277
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.2313084602355957,
+			-0.9028392434120178,
+			-0.1284576952457428
+		],
+		"max": [
+			1.1958471536636353,
+			0.9013063907623291,
+			1.5626490116119385
+		]
+	},
+	"boundingSphereRadius": 1.6512104272842407,
+	"collisionBox": {
+		"min": [
+			-1.2654393911361694,
+			-0.9189882278442383,
+			-0.22546198964118958
+		],
+		"max": [
+			1.256393551826477,
+			0.9003856778144836,
+			1.584725022315979
+		]
+	},
+	"collisionSphereRadius": 1.7990649938583374,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 385,
+				"triangleStart": 0,
+				"triangleCount": 1251,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.33676546812057495,
+					-0.0005599959986284375,
+					0.46094486117362976
+				],
+				"sortCenterPosition": [
+					-0.017730653285980225,
+					-0.0007664263248443604,
+					0.717095673084259
+				],
+				"sortRadius": 1.6512104272842407
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/shrine_road/pa_shrine_roadside_0200.skin",
+		"fileDataID": 529279
+	}
+}

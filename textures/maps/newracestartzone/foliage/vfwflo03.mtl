@@ -1,0 +1,3 @@
+newmtl mat_vfwshrub01
+illum 1
+map_Kd ..\..\..\world\nodxt\detail\vfwshrub01.png

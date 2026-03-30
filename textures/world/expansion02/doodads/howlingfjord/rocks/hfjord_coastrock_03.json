@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 196041,
+	"fileName": "world/expansion02/doodads/howlingfjord/rocks/hfjord_coastrock_03.m2",
+	"internalName": "HFjord_CoastRock_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/howlingfjord/rocks/hfjord_canyonrock_02.blp",
+			"fileNameExternal": "hfjord_canyonrock_02.png",
+			"mtlName": "mat_hfjord_canyonrock_02",
+			"flags": 0,
+			"fileDataID": 196038
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.385305643081665,
+			-2.742255449295044,
+			-3.523923873901367
+		],
+		"max": [
+			2.4505398273468018,
+			2.7258877754211426,
+			1.3885525465011597
+		]
+	},
+	"boundingSphereRadius": 3.458512306213379,
+	"collisionBox": {
+		"min": [
+			-2.4181485176086426,
+			-2.7899954319000244,
+			-3.523923635482788
+		],
+		"max": [
+			2.512270927429199,
+			2.778388738632202,
+			1.3885525465011597
+		]
+	},
+	"collisionSphereRadius": 3.4493792057037354,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 80,
+				"triangleStart": 0,
+				"triangleCount": 468,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.41381797194480896,
+					0.2932778000831604,
+					-0.3848806917667389
+				],
+				"sortCenterPosition": [
+					0.03261709213256836,
+					-0.008183836936950684,
+					-1.067685604095459
+				],
+				"sortRadius": 3.458512306213379
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/howlingfjord/rocks/hfjord_coastrock_0300.skin",
+		"fileDataID": 499195
+	}
+}

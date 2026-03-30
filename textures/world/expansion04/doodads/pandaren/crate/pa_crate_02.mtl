@@ -1,0 +1,6 @@
+newmtl mat_pa_crategreen
+illum 1
+map_Kd pa_crategreen.png
+newmtl mat_armorreflectgold
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\armorreflectgold.png

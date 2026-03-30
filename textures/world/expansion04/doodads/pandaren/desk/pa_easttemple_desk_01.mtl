@@ -1,0 +1,15 @@
+newmtl mat_shrine_props
+illum 1
+map_Kd ..\shrine_props\shrine_props.png
+newmtl mat_glowball
+illum 1
+map_Kd ..\..\..\..\expansion02\doodads\dalaran\glowball.png
+newmtl mat_pa_easttemple_desk_tex
+illum 1
+map_Kd pa_easttemple_desk_tex.png
+newmtl mat_chromereflect
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\weapon\chromereflect.png
+newmtl mat_pa_scroll_huge_01
+illum 1
+map_Kd ..\scroll\pa_scroll_huge_01.png

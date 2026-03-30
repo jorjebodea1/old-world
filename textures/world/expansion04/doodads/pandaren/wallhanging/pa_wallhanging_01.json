@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 522297,
+	"fileName": "world/expansion04/doodads/pandaren/wallhanging/pa_wallhanging_01.m2",
+	"internalName": "PA_WallHanging_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/wallhanging/pa_wallhanging_01.blp",
+			"fileNameExternal": "pa_wallhanging_01.png",
+			"mtlName": "mat_pa_wallhanging_01",
+			"flags": 0,
+			"fileDataID": 522296
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.31649765372276306,
+			-1.5909578800201416,
+			-0.7016851902008057
+		],
+		"max": [
+			1.9676734552831476e-7,
+			1.606387972831726,
+			0.9265520572662354
+		]
+	},
+	"boundingSphereRadius": 1.6584278345108032,
+	"collisionBox": {
+		"min": [
+			-0.32600221037864685,
+			-1.6312644481658936,
+			-0.7532778978347778
+		],
+		"max": [
+			0.014625866897404194,
+			1.6261703968048096,
+			0.9211245775222778
+		]
+	},
+	"collisionSphereRadius": 1.7369308471679688,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 210,
+				"triangleStart": 0,
+				"triangleCount": 480,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.16727787256240845,
+					-0.11070048063993454,
+					0.3456997871398926
+				],
+				"sortCenterPosition": [
+					-0.15824872255325317,
+					0.007715046405792236,
+					0.11243343353271484
+				],
+				"sortRadius": 1.6584278345108032
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/wallhanging/pa_wallhanging_0100.skin",
+		"fileDataID": 522298
+	}
+}

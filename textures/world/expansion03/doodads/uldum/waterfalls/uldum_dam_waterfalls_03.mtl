@@ -1,0 +1,12 @@
+newmtl mat_watercascade_soft_directionafliplblue
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\waterfalls\watercascade_soft_directionafliplblue.png
+newmtl mat_waterfall_color4
+illum 1
+map_Kd ..\..\..\..\kalimdor\hyjal\largewaterfall\waterfall_color4.png
+newmtl mat_waterfall_color2
+illum 1
+map_Kd ..\..\..\..\expansion02\doodads\scholazar\waterfalls\waterfall_color2.png
+newmtl mat_waterchop5
+illum 1
+map_Kd ..\..\..\..\expansion02\doodads\scholazar\waterfalls\waterchop5.png

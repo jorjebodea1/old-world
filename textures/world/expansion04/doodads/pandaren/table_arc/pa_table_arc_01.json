@@ -1,0 +1,167 @@
+{
+	"fileType": "m2",
+	"fileDataID": 526868,
+	"fileName": "world/expansion04/doodads/pandaren/table_arc/pa_table_arc_01.m2",
+	"internalName": "PA_table_arc_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/stove/pa_table_arc_01.blp",
+			"fileNameExternal": "..\\stove\\pa_table_arc_01.png",
+			"mtlName": "mat_pa_table_arc_01",
+			"flags": 0,
+			"fileDataID": 526858
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.029792547225952,
+			-0.8407672047615051,
+			0.00010018263856181875
+		],
+		"max": [
+			2.029794931411743,
+			0.9329156875610352,
+			1.1068567037582397
+		]
+	},
+	"boundingSphereRadius": 2.104379415512085,
+	"collisionBox": {
+		"min": [
+			-2.029792308807373,
+			-0.8407676219940186,
+			0.00005022684854338877
+		],
+		"max": [
+			2.029794216156006,
+			0.9329155087471008,
+			1.1071856021881104
+		]
+	},
+	"collisionSphereRadius": 2.104428768157959,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 267,
+				"triangleStart": 0,
+				"triangleCount": 564,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.010538606904447079,
+					0.2476370632648468,
+					0.47721388936042786
+				],
+				"sortCenterPosition": [
+					0.0000011920928955078125,
+					0.046074241399765015,
+					0.5534784197807312
+				],
+				"sortRadius": 2.104379415512085
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 267,
+				"vertexCount": 56,
+				"triangleStart": 564,
+				"triangleCount": 120,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.002333807060495019,
+					0.1684240847826004,
+					0.6806373596191406
+				],
+				"sortCenterPosition": [
+					-0.003666102886199951,
+					0.008283525705337524,
+					0.6806374192237854
+				],
+				"sortRadius": 1.8082990646362305
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/table_arc/pa_table_arc_0100.skin",
+		"fileDataID": 526869
+	}
+}

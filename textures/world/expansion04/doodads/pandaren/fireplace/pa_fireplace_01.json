@@ -1,0 +1,309 @@
+{
+	"fileType": "m2",
+	"fileDataID": 538541,
+	"fileName": "world/expansion04/doodads/pandaren/fireplace/pa_fireplace_01.m2",
+	"internalName": "PA_fireplace_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/campfire/pa_campfire_01.blp",
+			"fileNameExternal": "..\\campfire\\pa_campfire_01.png",
+			"mtlName": "mat_pa_campfire_01",
+			"flags": 0,
+			"fileDataID": 522057
+		},
+		{
+			"fileNameInternal": "world/generic/goblin/passivedoodads/kezan/items/tooncloud64b.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\goblin\\passivedoodads\\kezan\\items\\tooncloud64b.png",
+			"mtlName": "mat_tooncloud64b",
+			"flags": 0,
+			"fileDataID": 322283
+		},
+		{
+			"fileNameInternal": "world/azeroth/zulgurub/passivedoodads/cauldrons/firespark.blp",
+			"fileNameExternal": "..\\..\\..\\..\\azeroth\\zulgurub\\passivedoodads\\cauldrons\\firespark.png",
+			"mtlName": "mat_firespark",
+			"flags": 0,
+			"fileDataID": 512216
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/campfire/pa_fire_01.blp",
+			"fileNameExternal": "..\\campfire\\pa_fire_01.png",
+			"mtlName": "mat_pa_fire_01",
+			"flags": 0,
+			"fileDataID": 537757
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/fireplace/pa_fireplace_02.blp",
+			"fileNameExternal": "pa_fireplace_02.png",
+			"mtlName": "mat_pa_fireplace_02",
+			"flags": 0,
+			"fileDataID": 538539
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/nex_envmap03.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\nex_envmap03.png",
+			"mtlName": "mat_nex_envmap03",
+			"flags": 0,
+			"fileDataID": 147100
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/fireplace/pa_fireplace_01.blp",
+			"fileNameExternal": "pa_fireplace_01.png",
+			"mtlName": "mat_pa_fireplace_01",
+			"flags": 0,
+			"fileDataID": 538540
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 17,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		4,
+		5,
+		6
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-3.2393791675567627,
+			-3.432133197784424,
+			-1.3107084035873413
+		],
+		"max": [
+			2.9438564777374268,
+			2.6348156929016113,
+			6.7228312492370605
+		]
+	},
+	"boundingSphereRadius": 5.022718906402588,
+	"collisionBox": {
+		"min": [
+			-3.1752710342407227,
+			-1.6170876026153564,
+			0
+		],
+		"max": [
+			3.1752710342407227,
+			1.1209174394607544,
+			5.9279561042785645
+		]
+	},
+	"collisionSphereRadius": 4.5543036460876465,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 214,
+				"triangleStart": 0,
+				"triangleCount": 612,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					-0.007619469426572323,
+					-0.6184289455413818,
+					1.7592018842697144
+				],
+				"sortCenterPosition": [
+					0.07628858089447021,
+					-0.5291668176651001,
+					1.7988767623901367
+				],
+				"sortRadius": 1.5286072492599487
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 214,
+				"vertexCount": 352,
+				"triangleStart": 612,
+				"triangleCount": 768,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					-4.741278480935307e-9,
+					0.42430323362350464,
+					3.121081590652466
+				],
+				"sortCenterPosition": [
+					-4.741278480935307e-9,
+					0.42430323362350464,
+					3.121081590652466
+				],
+				"sortRadius": 2.6237752437591553
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 566,
+				"vertexCount": 209,
+				"triangleStart": 1380,
+				"triangleCount": 630,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					0,
+					0.2409314662218094,
+					3.236478805541992
+				],
+				"sortCenterPosition": [
+					0,
+					0.2409314662218094,
+					3.236478805541992
+				],
+				"sortRadius": 3.432701349258423
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 775,
+				"vertexCount": 8,
+				"triangleStart": 2010,
+				"triangleCount": 12,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0822020173072815,
+					-0.398658812046051,
+					1.7227659225463867
+				],
+				"sortCenterPosition": [
+					-0.08220218867063522,
+					-0.398658812046051,
+					1.7227661609649658
+				],
+				"sortRadius": 3.0359954833984375
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/fireplace/pa_fireplace_0100.skin",
+		"fileDataID": 538542
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 530263,
+	"fileName": "world/expansion04/doodads/pandaren/wood_retaining_posts/pa_wood_retaining_walls.m2",
+	"internalName": "PA_Wood_Retaining_Walls",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/wood_fence/pa_wood_fence_tex_01.blp",
+			"fileNameExternal": "..\\wood_fence\\pa_wood_fence_tex_01.png",
+			"mtlName": "mat_pa_wood_fence_tex_01",
+			"flags": 3,
+			"fileDataID": 528706
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-6.60903263092041,
+			-6.335672378540039,
+			-0.18596266210079193
+		],
+		"max": [
+			6.848276615142822,
+			3.7163424491882324,
+			10.980375289916992
+		]
+	},
+	"boundingSphereRadius": 9.480865478515625,
+	"collisionBox": {
+		"min": [
+			-6.548808574676514,
+			-6.335672378540039,
+			-0.18596191704273224
+		],
+		"max": [
+			6.848275184631348,
+			3.716343402862549,
+			10.98037338256836
+		]
+	},
+	"collisionSphereRadius": 9.460074424743652,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 2153,
+				"triangleStart": 0,
+				"triangleCount": 7221,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.24835160374641418,
+					1.0773663520812988,
+					4.9084320068359375
+				],
+				"sortCenterPosition": [
+					0.11962199211120605,
+					-1.3096649646759033,
+					5.3972063064575195
+				],
+				"sortRadius": 9.480865478515625
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/wood_retaining_posts/pa_wood_retaining_walls00.skin",
+		"fileDataID": 530264
+	}
+}

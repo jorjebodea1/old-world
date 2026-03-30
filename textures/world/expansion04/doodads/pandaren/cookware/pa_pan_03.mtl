@@ -1,0 +1,6 @@
+newmtl mat_pa_pans
+illum 1
+map_Kd pa_pans.png
+newmtl mat_orbreflectbright
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\weapon\orbreflectbright.png

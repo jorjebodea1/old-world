@@ -1,0 +1,351 @@
+{
+	"fileType": "m2",
+	"fileDataID": 201464,
+	"fileName": "world/kalimdor/blackfathom/passivedoodads/waterfalls/bfd_waterfalls10.m2",
+	"internalName": "BFD_Waterfalls10",
+	"textures": [
+		{
+			"fileNameInternal": "world/kalimdor/blackfathom/passivedoodads/waterfalls/waterfall01.blp",
+			"fileNameExternal": "waterfall01.png",
+			"mtlName": "mat_waterfall01",
+			"flags": 3,
+			"fileDataID": 201466
+		},
+		{
+			"fileNameInternal": "world/azeroth/stranglethorn/passivedoodads/waterfall/waterfalldrops.blp",
+			"fileNameExternal": "..\\..\\..\\..\\azeroth\\stranglethorn\\passivedoodads\\waterfall\\waterfalldrops.png",
+			"mtlName": "mat_waterfalldrops",
+			"flags": 0,
+			"fileDataID": 190362
+		},
+		{
+			"fileNameInternal": "world/kalimdor/stonetalon/passivedoodads/waterwheel/waterfalldropssmall.blp",
+			"fileNameExternal": "..\\..\\..\\stonetalon\\passivedoodads\\waterwheel\\waterfalldropssmall.png",
+			"mtlName": "mat_waterfalldropssmall",
+			"flags": 0,
+			"fileDataID": 202647
+		},
+		{
+			"fileNameInternal": "spells/waterwake3.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\spells\\waterwake3.png",
+			"mtlName": "mat_waterwake3",
+			"flags": 0,
+			"fileDataID": 167187
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 20,
+			"blendingMode": 4
+		},
+		{
+			"flags": 20,
+			"blendingMode": 4
+		},
+		{
+			"flags": 20,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 3,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						3333
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							-0.9993411898612976,
+							-0.0007020026096142828
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 1,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						3000
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							-0.9997907280921936,
+							-0.0007175941136665642
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 3,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						3333
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							-0.9998987913131714,
+							-0.0006795927765779197
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		0,
+		1,
+		2
+	],
+	"boundingBox": {
+		"min": [
+			-2.532411575317383,
+			-6.438188552856445,
+			-0.16705459356307983
+		],
+		"max": [
+			3.440492868423462,
+			6.931375503540039,
+			52.5350227355957
+		]
+	},
+	"boundingSphereRadius": 27.34926986694336,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 16,
+				"triangleStart": 0,
+				"triangleCount": 24,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					2.2886734008789062,
+					6.060925006866455,
+					25.743335723876953
+				],
+				"sortCenterPosition": [
+					1.9635107517242432,
+					5.791274070739746,
+					25.977800369262695
+				],
+				"sortRadius": 26.211347579956055
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 16,
+				"vertexCount": 4,
+				"triangleStart": 24,
+				"triangleCount": 6,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-2.138547658920288,
+					-6.068993091583252,
+					26.122188568115234
+				],
+				"sortCenterPosition": [
+					-2.138547420501709,
+					-6.068992614746094,
+					26.18398666381836
+				],
+				"sortRadius": 26.355438232421875
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 20,
+				"vertexCount": 4,
+				"triangleStart": 30,
+				"triangleCount": 6,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-1.803292989730835,
+					-0.4221077561378479,
+					24.978759765625
+				],
+				"sortCenterPosition": [
+					-1.8032934665679932,
+					-0.4221082329750061,
+					25.129072189331055
+				],
+				"sortRadius": 25.368083953857422
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 0,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 0,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 1
+			},
+			{
+				"flags": 0,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 2
+			}
+		],
+		"fileName": "world/kalimdor/blackfathom/passivedoodads/waterfalls/bfd_waterfalls1000.skin",
+		"fileDataID": 506921
+	}
+}

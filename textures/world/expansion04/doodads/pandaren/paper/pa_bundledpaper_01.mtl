@@ -1,0 +1,3 @@
+newmtl mat_pa_bundledpaper_01
+illum 1
+map_Kd pa_bundledpaper_01.png

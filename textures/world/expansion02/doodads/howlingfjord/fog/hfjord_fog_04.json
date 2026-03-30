@@ -1,0 +1,159 @@
+{
+	"fileType": "m2",
+	"fileDataID": 195961,
+	"fileName": "world/expansion02/doodads/howlingfjord/fog/hfjord_fog_04.m2",
+	"internalName": "HFjord_Fog_04",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/howlingfjord/fog/hfjord_fog_03.blp",
+			"fileNameExternal": "hfjord_fog_03.png",
+			"mtlName": "mat_hfjord_fog_03",
+			"flags": 0,
+			"fileDataID": 195959
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 340,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.29019609093666077,
+							0,
+							0.8823530077934265
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-129.0508270263672,
+			-142.69253540039062,
+			4.107610702514648
+		],
+		"max": [
+			120.4912338256836,
+			118.09590148925781,
+			11.586442947387695
+		]
+	},
+	"boundingSphereRadius": 134.57530212402344,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 52,
+				"triangleStart": 0,
+				"triangleCount": 78,
+				"boneCount": 13,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-2.0682897567749023,
+					-2.60520601272583,
+					7.8274970054626465
+				],
+				"sortCenterPosition": [
+					-3.962909698486328,
+					-9.73653793334961,
+					7.823883056640625
+				],
+				"sortRadius": 130.177978515625
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/howlingfjord/fog/hfjord_fog_0400.skin",
+		"fileDataID": 499179
+	}
+}

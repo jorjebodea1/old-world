@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 536473,
+	"fileName": "world/dungeon/greatwall/pa_arrows_01stack.m2",
+	"internalName": "PA_arrows_01stack",
+	"textures": [
+		{
+			"fileNameInternal": "world/dungeon/greatwall/pa_ammo_01.blp",
+			"fileNameExternal": "pa_ammo_01.png",
+			"mtlName": "mat_pa_ammo_01",
+			"flags": 0,
+			"fileDataID": 536472
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.40124598145484924,
+			-0.43012136220932007,
+			6.622738357719982e-9
+		],
+		"max": [
+			0.2993996739387512,
+			0.43012043833732605,
+			2.1059772968292236
+		]
+	},
+	"boundingSphereRadius": 1.065702199935913,
+	"collisionBox": {
+		"min": [
+			-0.20147593319416046,
+			-0.36104509234428406,
+			0
+		],
+		"max": [
+			0.20147593319416046,
+			0.3373621106147766,
+			2.0513246059417725
+		]
+	},
+	"collisionSphereRadius": 1.102052092552185,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 847,
+				"triangleStart": 0,
+				"triangleCount": 2490,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.008912144228816032,
+					-0.001452601165510714,
+					1.0428285598754883
+				],
+				"sortCenterPosition": [
+					-0.05092315375804901,
+					-4.6193599700927734e-7,
+					1.0529886484146118
+				],
+				"sortRadius": 1.065702199935913
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/dungeon/greatwall/pa_arrows_01stack00.skin",
+		"fileDataID": 536474
+	}
+}

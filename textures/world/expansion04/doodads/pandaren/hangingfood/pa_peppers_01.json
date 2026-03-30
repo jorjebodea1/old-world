@@ -1,0 +1,177 @@
+{
+	"fileType": "m2",
+	"fileDataID": 529167,
+	"fileName": "world/expansion04/doodads/pandaren/hangingfood/pa_peppers_01.m2",
+	"internalName": "PA_Peppers_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/hangingfood/herbs.blp",
+			"fileNameExternal": "herbs.png",
+			"mtlName": "mat_herbs",
+			"flags": 1,
+			"fileDataID": 529164
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/throne/orbreflectdarkergrey.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\throne\\orbreflectdarkergrey.png",
+			"mtlName": "mat_orbreflectdarkergrey",
+			"flags": 0,
+			"fileDataID": 244192
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.06808511167764664,
+			-0.4592352509498596,
+			-2.0274786949157715
+		],
+		"max": [
+			0.5895991921424866,
+			0.10383913666009903,
+			0.02763875387609005
+		]
+	},
+	"boundingSphereRadius": 1.0993974208831787,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 225,
+				"triangleStart": 0,
+				"triangleCount": 1242,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.28013354539871216,
+					-0.18723076581954956,
+					-1.4983243942260742
+				],
+				"sortCenterPosition": [
+					0.2607570290565491,
+					-0.1776980608701706,
+					-1.5716667175292969
+				],
+				"sortRadius": 0.4765363335609436
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 225,
+				"vertexCount": 158,
+				"triangleStart": 1242,
+				"triangleCount": 498,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.19774116575717926,
+					-0.17056509852409363,
+					-0.9793615937232971
+				],
+				"sortCenterPosition": [
+					0.15808814764022827,
+					-0.15454642474651337,
+					-0.7736328840255737
+				],
+				"sortRadius": 0.8539569973945618
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 15,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/hangingfood/pa_peppers_0100.skin",
+		"fileDataID": 529168
+	}
+}

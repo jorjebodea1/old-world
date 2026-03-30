@@ -1,0 +1,6 @@
+newmtl mat_tu_cloud_03
+illum 1
+map_Kd tu_cloud_03.png
+newmtl mat_veb_cloud_static_01
+illum 1
+map_Kd ..\..\valeofeternalblossoms\clouds\veb_cloud_static_01.png

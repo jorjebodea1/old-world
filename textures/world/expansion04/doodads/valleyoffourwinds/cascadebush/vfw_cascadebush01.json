@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 524255,
+	"fileName": "world/expansion04/doodads/valleyoffourwinds/cascadebush/vfw_cascadebush01.m2",
+	"internalName": "VFW_CascadeBush01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/cascadebush/vfw_cascadebush.blp",
+			"fileNameExternal": "vfw_cascadebush.png",
+			"mtlName": "mat_vfw_cascadebush",
+			"flags": 3,
+			"fileDataID": 524271
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.9854943752288818,
+			-2.133899450302124,
+			-0.34968557953834534
+		],
+		"max": [
+			3.133195161819458,
+			3.626636028289795,
+			4.853993892669678
+		]
+	},
+	"boundingSphereRadius": 3.57971453666687,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 134,
+				"triangleStart": 0,
+				"triangleCount": 249,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.5768452882766724,
+					0.6043185591697693,
+					1.936997652053833
+				],
+				"sortCenterPosition": [
+					0.5768452882766724,
+					0.6043185591697693,
+					1.936997652053833
+				],
+				"sortRadius": 3.487790107727051
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/valleyoffourwinds/cascadebush/vfw_cascadebush0100.skin",
+		"fileDataID": 524256
+	}
+}

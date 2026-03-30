@@ -1,0 +1,6 @@
+newmtl mat_tu_flatrocks_01_moss
+illum 1
+map_Kd tu_flatrocks_01_moss.png
+newmtl mat_tu_rocknoise_01
+illum 1
+map_Kd tu_rocknoise_01.png

@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 198124,
+	"fileName": "world/generic/human/passive doodads/cloth/clothboltblue.m2",
+	"internalName": "ClothBoltBlue",
+	"textures": [
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/cloth/tailoringsupplies01.blp",
+			"fileNameExternal": "tailoringsupplies01.png",
+			"mtlName": "mat_tailoringsupplies01",
+			"flags": 0,
+			"fileDataID": 198137
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.6504015922546387,
+			-0.1935841143131256,
+			0.010309127159416676
+		],
+		"max": [
+			0.6474739909172058,
+			0.1935841590166092,
+			0.15047584474086761
+		]
+	},
+	"boundingSphereRadius": 0.6683281660079956,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 60,
+				"triangleStart": 0,
+				"triangleCount": 240,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0008782088989391923,
+					1.167257668299726e-8,
+					0.0803925022482872
+				],
+				"sortCenterPosition": [
+					-0.0014638006687164307,
+					2.2351741790771484e-8,
+					0.08039248734712601
+				],
+				"sortRadius": 0.6683281660079956
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/generic/human/passive doodads/cloth/clothboltblue00.skin",
+		"fileDataID": 504321
+	}
+}

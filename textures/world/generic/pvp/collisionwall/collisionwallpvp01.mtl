@@ -1,0 +1,3 @@
+newmtl mat_1_null
+illum 1
+map_Kd ..\..\..\scale\1_null.png

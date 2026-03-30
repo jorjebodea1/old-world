@@ -1,0 +1,261 @@
+{
+	"fileType": "m2",
+	"fileDataID": 522294,
+	"fileName": "world/expansion04/doodads/pandaren/tablelamp/pa_tablelamp_01.m2",
+	"internalName": "PA_tableLamp_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/tablelamp/pa_tablelamp_01.blp",
+			"fileNameExternal": "pa_tablelamp_01.png",
+			"mtlName": "mat_pa_tablelamp_01",
+			"flags": 0,
+			"fileDataID": 522293
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							1,
+							1,
+							1
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						733,
+						1033,
+						1133,
+						1900,
+						2467,
+						2633,
+						2700,
+						3133,
+						3667,
+						4000
+					]
+				],
+				"values": [
+					[
+						32767,
+						0,
+						32767,
+						32767,
+						0,
+						32767,
+						0,
+						0,
+						32767,
+						0,
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.0545706748962402,
+			-1.0545706748962402,
+			-0.7522027492523193
+		],
+		"max": [
+			1.038780927658081,
+			1.038780927658081,
+			1.341148853302002
+		]
+	},
+	"boundingSphereRadius": 1.0466759204864502,
+	"collisionBox": {
+		"min": [
+			-0.3581829071044922,
+			-0.3581829071044922,
+			0
+		],
+		"max": [
+			0.3581829071044922,
+			0.3581829071044922,
+			0.5076610445976257
+		]
+	},
+	"collisionSphereRadius": 0.43900445103645325,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 278,
+				"triangleStart": 0,
+				"triangleCount": 732,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-6.968168708709754e-9,
+					-1.112226977184605e-9,
+					0.27676963806152344
+				],
+				"sortCenterPosition": [
+					-6.968168708709754e-9,
+					-1.112226977184605e-9,
+					0.27676963806152344
+				],
+				"sortRadius": 0.409975528717041
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 278,
+				"vertexCount": 32,
+				"triangleStart": 732,
+				"triangleCount": 72,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-1.4901161193847656e-8,
+					-1.30385160446167e-8,
+					0.2578357756137848
+				],
+				"sortCenterPosition": [
+					-1.4901161193847656e-8,
+					-1.30385160446167e-8,
+					0.2578357756137848
+				],
+				"sortRadius": 0.250040203332901
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 310,
+				"vertexCount": 4,
+				"triangleStart": 804,
+				"triangleCount": 6,
+				"boneCount": 3,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					-0.007894926704466343,
+					-0.007894963026046753,
+					0.29447299242019653
+				],
+				"sortCenterPosition": [
+					-0.007894926704466343,
+					-0.007894963026046753,
+					0.2944730222225189
+				],
+				"sortRadius": 1.0466758012771606
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 0,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/tablelamp/pa_tablelamp_0100.skin",
+		"fileDataID": 522295
+	}
+}

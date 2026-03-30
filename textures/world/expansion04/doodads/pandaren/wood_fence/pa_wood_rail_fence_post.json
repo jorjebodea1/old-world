@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 530697,
+	"fileName": "world/expansion04/doodads/pandaren/wood_fence/pa_wood_rail_fence_post.m2",
+	"internalName": "PA_Wood_Rail_Fence_Post",
+	"textures": [
+		{
+			"fileNameInternal": "world/environment/doodad/pandaren/bridge/pa_footbridge_wood02.blp",
+			"fileNameExternal": "..\\..\\..\\..\\environment\\doodad\\pandaren\\bridge\\pa_footbridge_wood02.png",
+			"mtlName": "mat_pa_footbridge_wood02",
+			"flags": 3,
+			"fileDataID": 521167
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.5103462338447571,
+			-0.5914582014083862,
+			-0.11166175454854965
+		],
+		"max": [
+			0.5584104061126709,
+			0.5781151056289673,
+			2.1644694805145264
+		]
+	},
+	"boundingSphereRadius": 1.3410696983337402,
+	"collisionBox": {
+		"min": [
+			-0.5963377356529236,
+			-0.6532737016677856,
+			-0.15151605010032654
+		],
+		"max": [
+			0.5793742537498474,
+			0.6293339133262634,
+			2.1648027896881104
+		]
+	},
+	"collisionSphereRadius": 1.4485090970993042,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 178,
+				"triangleStart": 0,
+				"triangleCount": 258,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0022187381982803345,
+					0.005371470004320145,
+					1.1310197114944458
+				],
+				"sortCenterPosition": [
+					0.02403208613395691,
+					-0.006671547889709473,
+					1.0264039039611816
+				],
+				"sortRadius": 1.3410696983337402
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/wood_fence/pa_wood_rail_fence_post00.skin",
+		"fileDataID": 530698
+	}
+}

@@ -1,0 +1,12 @@
+newmtl mat_rake_cartcopy
+illum 1
+map_Kd rake_cartcopy.png
+newmtl mat_water_surface
+illum 1
+map_Kd ..\..\..\..\expansion02\doodads\generic\vrykul\trough\water_surface.png
+newmtl mat_water_reflect
+illum 1
+map_Kd ..\..\..\..\expansion02\doodads\generic\vrykul\trough\water_reflect.png
+newmtl mat_whiteringnoise128
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\vials\whiteringnoise128.png

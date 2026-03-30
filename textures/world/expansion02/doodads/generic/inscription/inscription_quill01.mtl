@@ -1,0 +1,3 @@
+newmtl mat_inscription_quills01
+illum 1
+map_Kd inscription_quills01.png

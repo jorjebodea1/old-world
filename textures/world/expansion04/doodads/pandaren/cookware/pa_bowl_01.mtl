@@ -1,0 +1,3 @@
+newmtl mat_shrine_props
+illum 1
+map_Kd ..\shrine_props\shrine_props.png

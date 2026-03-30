@@ -1,0 +1,9 @@
+newmtl mat_pa_easttemple_wood_screen_tex
+illum 1
+map_Kd pa_easttemple_wood_screen_tex.png
+newmtl mat_chromereflect
+illum 1
+map_Kd ..\..\..\..\item\objectcomponents\weapon\chromereflect.png
+newmtl mat_pa_easttemple_glass_glow
+illum 1
+map_Kd pa_easttemple_glass_glow.png

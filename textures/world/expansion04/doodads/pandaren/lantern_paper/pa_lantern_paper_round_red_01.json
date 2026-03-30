@@ -1,0 +1,353 @@
+{
+	"fileType": "m2",
+	"fileDataID": 526368,
+	"fileName": "world/expansion04/doodads/pandaren/lantern_paper/pa_lantern_paper_round_red_01.m2",
+	"internalName": "PA_Lantern_Paper_Round_Red_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lantern_paper/glowball02.blp",
+			"fileNameExternal": "glowball02.png",
+			"mtlName": "mat_glowball02",
+			"flags": 0,
+			"fileDataID": 1043604
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lantern_paper/pa_lantern_paper_round_red_01.blp",
+			"fileNameExternal": "pa_lantern_paper_round_red_01.png",
+			"mtlName": "mat_pa_lantern_paper_round_red_01",
+			"flags": 0,
+			"fileDataID": 526366
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 1,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		1,
+		1,
+		0
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							1,
+							0.6117647290229797,
+							0
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 1,
+			"timestamps": [
+				[
+					0,
+					133,
+					267,
+					400,
+					500,
+					667,
+					767,
+					900,
+					1067,
+					1167
+				],
+				[
+					0,
+					333,
+					700,
+					1033,
+					1266,
+					1733,
+					1966,
+					2300,
+					2733,
+					3000,
+					3433,
+					3766,
+					4133,
+					4466,
+					4700,
+					5166,
+					5400,
+					5733,
+					6166,
+					6433,
+					7000,
+					7333,
+					7700,
+					8033,
+					8266,
+					8733,
+					8966,
+					9300,
+					9733,
+					10000
+				]
+			],
+			"values": [
+				[
+					16384,
+					13107,
+					16384,
+					13107,
+					19660,
+					16384,
+					13107,
+					16384,
+					19660,
+					16384
+				],
+				[
+					16384,
+					13107,
+					16384,
+					13107,
+					19660,
+					16384,
+					13107,
+					16384,
+					19660,
+					16384,
+					16384,
+					13107,
+					16384,
+					13107,
+					19660,
+					16384,
+					13107,
+					16384,
+					19660,
+					16384,
+					16384,
+					13107,
+					16384,
+					13107,
+					19660,
+					16384,
+					13107,
+					16384,
+					19660,
+					16384
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.8895263671875,
+			-2.0108587741851807,
+			-4.412657737731934
+		],
+		"max": [
+			0.8895263671875,
+			2.0108587741851807,
+			0.03907860815525055
+		]
+	},
+	"boundingSphereRadius": 2.99967360496521,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 140,
+				"triangleStart": 0,
+				"triangleCount": 576,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.001367810764349997,
+					-0.00032920262310653925,
+					-2.314836025238037
+				],
+				"sortCenterPosition": [
+					0,
+					0.004522562026977539,
+					-2.3148367404937744
+				],
+				"sortRadius": 0.8915460109710693
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 140,
+				"vertexCount": 332,
+				"triangleStart": 576,
+				"triangleCount": 1152,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0031468444503843784,
+					-0.00497274799272418,
+					-1.434495449066162
+				],
+				"sortCenterPosition": [
+					-0.00731813907623291,
+					-0.007318094372749329,
+					-1.5922396183013916
+				],
+				"sortRadius": 1.6756930351257324
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 472,
+				"vertexCount": 4,
+				"triangleStart": 1728,
+				"triangleCount": 6,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-2.6106743433729207e-8,
+					0,
+					-2.401798963546753
+				],
+				"sortCenterPosition": [
+					-2.6106743433729207e-8,
+					0,
+					-2.401798963546753
+				],
+				"sortRadius": 2.8437836170196533
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 0,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 7,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/lantern_paper/pa_lantern_paper_round_red_0100.skin",
+		"fileDataID": 526369
+	}
+}

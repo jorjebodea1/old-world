@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521686,
+	"fileName": "world/expansion04/doodads/pandaren/barrel/pa_barrel_01.m2",
+	"internalName": "PA_Barrel_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/barrel/pa_barrel_01.blp",
+			"fileNameExternal": "pa_barrel_01.png",
+			"mtlName": "mat_pa_barrel_01",
+			"flags": 0,
+			"fileDataID": 521685
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/armorreflect_hard_orange.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\armorreflect_hard_orange.png",
+			"mtlName": "mat_armorreflect_hard_orange",
+			"flags": 0,
+			"fileDataID": 144336
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.9469075798988342,
+			-0.8228396773338318,
+			-0.0020054690539836884
+		],
+		"max": [
+			0.9469075798988342,
+			0.8229368329048157,
+			1.7428185939788818
+		]
+	},
+	"boundingSphereRadius": 1.0413247346878052,
+	"collisionBox": {
+		"min": [
+			-0.9800812602043152,
+			-0.795076310634613,
+			-1.7267003534306348e-16
+		],
+		"max": [
+			0.9800813794136047,
+			0.7950764298439026,
+			1.5820962190628052
+		]
+	},
+	"collisionSphereRadius": 0.9802297353744507,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 429,
+				"triangleStart": 0,
+				"triangleCount": 1254,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0064455741085112095,
+					-0.00505088223144412,
+					1.110755443572998
+				],
+				"sortCenterPosition": [
+					0,
+					0,
+					0.7926732301712036
+				],
+				"sortRadius": 0.9635913372039795
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/barrel/pa_barrel_0100.skin",
+		"fileDataID": 521687
+	}
+}

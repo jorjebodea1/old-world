@@ -1,0 +1,9 @@
+newmtl mat_pandawater_09
+illum 1
+map_Kd pandawater_09.png
+newmtl mat_pandawater_color_06
+illum 1
+map_Kd pandawater_color_06.png
+newmtl mat_watergoop2
+illum 1
+map_Kd ..\..\..\..\..\spells\watergoop2.png

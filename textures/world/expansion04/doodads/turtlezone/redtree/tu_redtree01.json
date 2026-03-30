@@ -1,0 +1,178 @@
+{
+	"fileType": "m2",
+	"fileDataID": 515644,
+	"fileName": "world/expansion04/doodads/turtlezone/redtree/tu_redtree01.m2",
+	"internalName": "TU_RedTree01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/redtree/tu_redtree_canopy.blp",
+			"fileNameExternal": "tu_redtree_canopy.png",
+			"mtlName": "mat_tu_redtree_canopy",
+			"flags": 0,
+			"fileDataID": 515643
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/redtree/tu_redtree_trunk.blp",
+			"fileNameExternal": "tu_redtree_trunk.png",
+			"mtlName": "mat_tu_redtree_trunk",
+			"flags": 3,
+			"fileDataID": 515642
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		1,
+		1,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-13.2366304397583,
+			-12.315045356750488,
+			-4.225020408630371
+		],
+		"max": [
+			13.38217830657959,
+			10.83794116973877,
+			22.01620101928711
+		]
+	},
+	"boundingSphereRadius": 16.83028221130371,
+	"collisionBox": {
+		"min": [
+			-7.439419269561768,
+			-6.094893455505371,
+			-4.225020408630371
+		],
+		"max": [
+			7.170725345611572,
+			5.278530120849609,
+			18.027400970458984
+		]
+	},
+	"collisionSphereRadius": 13.000715255737305,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 482,
+				"triangleStart": 0,
+				"triangleCount": 1839,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.9607104063034058,
+					-0.08189308643341064,
+					11.908549308776855
+				],
+				"sortCenterPosition": [
+					0.1732492446899414,
+					0.00852060317993164,
+					7.390324115753174
+				],
+				"sortRadius": 13.967243194580078
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 482,
+				"vertexCount": 410,
+				"triangleStart": 1839,
+				"triangleCount": 789,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.7316124439239502,
+					-0.8171829581260681,
+					15.840527534484863
+				],
+				"sortCenterPosition": [
+					0.07277393341064453,
+					-0.7385520935058594,
+					15.504830360412598
+				],
+				"sortRadius": 14.071381568908691
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 16390,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/redtree/tu_redtree0100.skin",
+		"fileDataID": 515645
+	}
+}

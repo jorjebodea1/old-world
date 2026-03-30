@@ -1,0 +1,3 @@
+newmtl mat_pa_spool_silk_tex
+illum 1
+map_Kd pa_spool_silk_tex.png

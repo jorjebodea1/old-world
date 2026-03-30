@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 538134,
+	"fileName": "world/expansion04/doodads/pandaren/jademinecart/pa_jadechunks_01.m2",
+	"internalName": "PA_JadeChunks_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/jademinecart/pa_jademine_01.blp",
+			"fileNameExternal": "pa_jademine_01.png",
+			"mtlName": "mat_pa_jademine_01",
+			"flags": 0,
+			"fileDataID": 537688
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/redwaves.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\redwaves.png",
+			"mtlName": "mat_redwaves",
+			"flags": 0,
+			"fileDataID": 394336
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7342226505279541,
+			-1.2484221458435059,
+			0.0008985068998299539
+		],
+		"max": [
+			0.7537481188774109,
+			0.7565521597862244,
+			0.4889964163303375
+		]
+	},
+	"boundingSphereRadius": 1.1900948286056519,
+	"collisionBox": {
+		"min": [
+			-0.7371690273284912,
+			-1.252545952796936,
+			0.0038127899169921875
+		],
+		"max": [
+			0.7778045535087585,
+			0.7612236738204956,
+			0.49452438950538635
+		]
+	},
+	"collisionSphereRadius": 1.2000985145568848,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 77,
+				"triangleStart": 0,
+				"triangleCount": 246,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.05252556875348091,
+					-0.1209959164261818,
+					0.14023198187351227
+				],
+				"sortCenterPosition": [
+					-0.05252556875348091,
+					-0.1209959164261818,
+					0.14023198187351227
+				],
+				"sortRadius": 1.1721357107162476
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/jademinecart/pa_jadechunks_0100.skin",
+		"fileDataID": 538135
+	}
+}

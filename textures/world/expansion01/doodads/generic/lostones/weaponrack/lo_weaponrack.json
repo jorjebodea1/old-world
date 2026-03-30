@@ -1,0 +1,228 @@
+{
+	"fileType": "m2",
+	"fileDataID": 192631,
+	"fileName": "world/expansion01/doodads/generic/lostones/weaponrack/lo_weaponrack.m2",
+	"internalName": "LO_Weaponrack",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion01/doodads/generic/lostones/weaponrack/lo_weaponrack_01.blp",
+			"fileNameExternal": "lo_weaponrack_01.png",
+			"mtlName": "mat_lo_weaponrack_01",
+			"flags": 3,
+			"fileDataID": 192632
+		},
+		{
+			"fileNameInternal": "world/expansion01/doodads/generic/lostones/weaponrack/lo_spear_02.blp",
+			"fileNameExternal": "lo_spear_02.png",
+			"mtlName": "mat_lo_spear_02",
+			"flags": 3,
+			"fileDataID": 192630
+		},
+		{
+			"fileNameInternal": "world/expansion01/doodads/generic/lostones/weaponrack/lo_spear_01.blp",
+			"fileNameExternal": "lo_spear_01.png",
+			"mtlName": "mat_lo_spear_01",
+			"flags": 3,
+			"fileDataID": 192629
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		1,
+		2,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.9577000141143799,
+			-1.3217812776565552,
+			-0.22278714179992676
+		],
+		"max": [
+			0.6480860114097595,
+			1.4703218936920166,
+			3.086325168609619
+		]
+	},
+	"boundingSphereRadius": 2.0417680740356445,
+	"collisionBox": {
+		"min": [
+			-1.0119385719299316,
+			-1.3598551750183105,
+			-0.06983481347560883
+		],
+		"max": [
+			0.6627190113067627,
+			1.4763362407684326,
+			3.1139585971832275
+		]
+	},
+	"collisionSphereRadius": 2.147165060043335,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 94,
+				"triangleStart": 0,
+				"triangleCount": 264,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.2810203731060028,
+					-0.2374027520418167,
+					1.8953698873519897
+				],
+				"sortCenterPosition": [
+					-0.15480700135231018,
+					-0.22374282777309418,
+					1.4795637130737305
+				],
+				"sortRadius": 1.8344773054122925
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 94,
+				"vertexCount": 72,
+				"triangleStart": 264,
+				"triangleCount": 312,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.1824386566877365,
+					0.06428143382072449,
+					1.1742969751358032
+				],
+				"sortCenterPosition": [
+					0.285615473985672,
+					0.004664182662963867,
+					1.0590659379959106
+				],
+				"sortRadius": 1.4335113763809204
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 166,
+				"vertexCount": 490,
+				"triangleStart": 576,
+				"triangleCount": 1800,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.10276266187429428,
+					0.06053902581334114,
+					0.9936944842338562
+				],
+				"sortCenterPosition": [
+					-0.10276266187429428,
+					0.06053902581334114,
+					0.9936944842338562
+				],
+				"sortRadius": 1.7572296857833862
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion01/doodads/generic/lostones/weaponrack/lo_weaponrack00.skin",
+		"fileDataID": 496050
+	}
+}

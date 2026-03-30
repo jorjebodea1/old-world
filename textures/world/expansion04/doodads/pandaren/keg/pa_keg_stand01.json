@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 531188,
+	"fileName": "world/expansion04/doodads/pandaren/keg/pa_keg_stand01.m2",
+	"internalName": "PA_Keg_Stand01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/keg/pa_keg_stand.blp",
+			"fileNameExternal": "pa_keg_stand.png",
+			"mtlName": "mat_pa_keg_stand",
+			"flags": 0,
+			"fileDataID": 531187
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7191930413246155,
+			-0.8125605583190918,
+			-0.0030572679825127125
+		],
+		"max": [
+			0.7160694599151611,
+			0.8132937550544739,
+			0.4194292724132538
+		]
+	},
+	"boundingSphereRadius": 1.102871060371399,
+	"collisionBox": {
+		"min": [
+			-0.7196695804595947,
+			-0.8260718584060669,
+			0.0035913255997002125
+		],
+		"max": [
+			0.7160693407058716,
+			0.8124446868896484,
+			0.3894370496273041
+		]
+	},
+	"collisionSphereRadius": 1.1062278747558594,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 312,
+				"triangleStart": 0,
+				"triangleCount": 696,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0015618628822267056,
+					0.0003666129778139293,
+					0.18252646923065186
+				],
+				"sortCenterPosition": [
+					-0.0015618628822267056,
+					0.0003666129778139293,
+					0.18252646923065186
+				],
+				"sortRadius": 1.0984004735946655
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/keg/pa_keg_stand0100.skin",
+		"fileDataID": 531189
+	}
+}

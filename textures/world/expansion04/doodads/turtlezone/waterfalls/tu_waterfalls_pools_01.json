@@ -1,0 +1,1187 @@
+{
+	"fileType": "m2",
+	"fileDataID": 530699,
+	"fileName": "world/expansion04/doodads/turtlezone/waterfalls/tu_waterfalls_pools_01.m2",
+	"internalName": "TU_Waterfalls_Pools_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/pandawater_06.blp",
+			"fileNameExternal": "pandawater_06.png",
+			"mtlName": "mat_pandawater_06",
+			"flags": 3,
+			"fileDataID": 517301
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/pandawater_color_07.blp",
+			"fileNameExternal": "pandawater_color_07.png",
+			"mtlName": "mat_pandawater_color_07",
+			"flags": 0,
+			"fileDataID": 517302
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/watercascade_soft_universal.blp",
+			"fileNameExternal": "watercascade_soft_universal.png",
+			"mtlName": "mat_watercascade_soft_universal",
+			"flags": 3,
+			"fileDataID": 994702
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/blobs2.blp",
+			"fileNameExternal": "blobs2.png",
+			"mtlName": "mat_blobs2",
+			"flags": 0,
+			"fileDataID": 994703
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/waterfalls/pandawater_03.blp",
+			"fileNameExternal": "pandawater_03.png",
+			"mtlName": "mat_pandawater_03",
+			"flags": 3,
+			"fileDataID": 521668
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 17,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		1,
+		4,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					13107
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					9830
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					22937
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1,
+		2
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						2467
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 1,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						2333
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 2,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						2967
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 3,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						4433
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 4,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						1967
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 5,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						1400
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 6,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						1533
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 7,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						4667
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 8,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						4233
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 9,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						4000
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 10,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						2300
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 11,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						3267
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		0,
+		65535,
+		1,
+		65535,
+		2,
+		65535,
+		3,
+		65535,
+		4,
+		65535,
+		5,
+		65535,
+		6,
+		65535,
+		7,
+		65535,
+		8,
+		65535,
+		9,
+		65535,
+		10,
+		65535,
+		11,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-57.21192932128906,
+			-50.87210464477539,
+			-40.83914566040039
+		],
+		"max": [
+			25.568485260009766,
+			21.415142059326172,
+			90.69967651367188
+		]
+	},
+	"boundingSphereRadius": 88.96145629882812,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 91,
+				"triangleStart": 0,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-29.24336051940918,
+					0.057766422629356384,
+					64.13062286376953
+				],
+				"sortCenterPosition": [
+					-25.340866088867188,
+					0.2824368476867676,
+					47.394073486328125
+				],
+				"sortRadius": 42.37712097167969
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 91,
+				"vertexCount": 25,
+				"triangleStart": 432,
+				"triangleCount": 96,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-10.099319458007812,
+					0.5359178185462952,
+					24.104520797729492
+				],
+				"sortCenterPosition": [
+					-11.355732917785645,
+					0.4070568084716797,
+					27.66536521911621
+				],
+				"sortRadius": 32.04231643676758
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 116,
+				"vertexCount": 126,
+				"triangleStart": 528,
+				"triangleCount": 612,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-30.60325813293457,
+					4.02794075012207,
+					72.33464050292969
+				],
+				"sortCenterPosition": [
+					-25.515756607055664,
+					4.072598457336426,
+					60.79840850830078
+				],
+				"sortRadius": 31.62031364440918
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 242,
+				"vertexCount": 91,
+				"triangleStart": 1140,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-16.4924259185791,
+					-8.121390342712402,
+					48.84274673461914
+				],
+				"sortCenterPosition": [
+					-14.180665969848633,
+					-9.758553504943848,
+					37.147056579589844
+				],
+				"sortRadius": 30.343156814575195
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 333,
+				"vertexCount": 91,
+				"triangleStart": 1572,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-23.49934959411621,
+					4.303665637969971,
+					66.2790298461914
+				],
+				"sortCenterPosition": [
+					-21.443824768066406,
+					4.5093488693237305,
+					56.77546691894531
+				],
+				"sortRadius": 22.639759063720703
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 424,
+				"vertexCount": 91,
+				"triangleStart": 2004,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-16.38663101196289,
+					-8.242145538330078,
+					51.95937728881836
+				],
+				"sortCenterPosition": [
+					-14.330015182495117,
+					-9.625319480895996,
+					42.61148452758789
+				],
+				"sortRadius": 23.540149688720703
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 515,
+				"vertexCount": 91,
+				"triangleStart": 2436,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.42812901735305786,
+					1.0482748746871948,
+					29.576995849609375
+				],
+				"sortCenterPosition": [
+					2.4201221466064453,
+					0.03786420822143555,
+					19.548009872436523
+				],
+				"sortRadius": 23.578250885009766
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 606,
+				"vertexCount": 91,
+				"triangleStart": 2868,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					2.7080790996551514,
+					0.4642440974712372,
+					21.451568603515625
+				],
+				"sortCenterPosition": [
+					6.268604755401611,
+					-1.0419285297393799,
+					7.693614959716797
+				],
+				"sortRadius": 37.386634826660156
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 697,
+				"vertexCount": 182,
+				"triangleStart": 3300,
+				"triangleCount": 864,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					8.951176643371582,
+					1.5629547834396362,
+					6.034704208374023
+				],
+				"sortCenterPosition": [
+					11.232095718383789,
+					2.864227771759033,
+					-3.2725677490234375
+				],
+				"sortRadius": 30.031789779663086
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 879,
+				"vertexCount": 91,
+				"triangleStart": 4164,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-25.63885498046875,
+					-18.07027816772461,
+					56.77315902709961
+				],
+				"sortCenterPosition": [
+					-17.392160415649414,
+					-18.145000457763672,
+					31.707992553710938
+				],
+				"sortRadius": 63.480995178222656
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 970,
+				"vertexCount": 91,
+				"triangleStart": 4596,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					2.300309658050537,
+					-25.12376594543457,
+					-5.4415130615234375
+				],
+				"sortCenterPosition": [
+					4.470653533935547,
+					-28.71275520324707,
+					-15.47255802154541
+				],
+				"sortRadius": 34.11345291137695
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 1061,
+				"vertexCount": 91,
+				"triangleStart": 5028,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-23.999963760375977,
+					-17.568946838378906,
+					57.05729675292969
+				],
+				"sortCenterPosition": [
+					-15.753283500671387,
+					-17.61117172241211,
+					31.99213409423828
+				],
+				"sortRadius": 60.259864807128906
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 1152,
+				"vertexCount": 91,
+				"triangleStart": 5460,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					3.8583335876464844,
+					-24.319143295288086,
+					-5.270872592926025
+				],
+				"sortCenterPosition": [
+					5.698845386505127,
+					-26.12201499938965,
+					-15.06757926940918
+				],
+				"sortRadius": 30.215084075927734
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 128,
+				"priority": 3,
+				"shaderID": 16404,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 128,
+				"priority": 0,
+				"shaderID": 16404,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 2
+			},
+			{
+				"flags": 128,
+				"priority": 4,
+				"shaderID": 16404,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 4
+			},
+			{
+				"flags": 128,
+				"priority": 4,
+				"shaderID": 16404,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 6
+			},
+			{
+				"flags": 128,
+				"priority": 5,
+				"shaderID": 16404,
+				"skinSectionIndex": 4,
+				"flags2": 4,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 2,
+				"textureTransformComboIndex": 8
+			},
+			{
+				"flags": 128,
+				"priority": 6,
+				"shaderID": 16404,
+				"skinSectionIndex": 5,
+				"flags2": 5,
+				"colorIndex": 65535,
+				"materialIndex": 5,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 2,
+				"textureTransformComboIndex": 10
+			},
+			{
+				"flags": 128,
+				"priority": 5,
+				"shaderID": 16404,
+				"skinSectionIndex": 6,
+				"flags2": 6,
+				"colorIndex": 65535,
+				"materialIndex": 6,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 2,
+				"textureTransformComboIndex": 12
+			},
+			{
+				"flags": 128,
+				"priority": 4,
+				"shaderID": 16404,
+				"skinSectionIndex": 7,
+				"flags2": 7,
+				"colorIndex": 65535,
+				"materialIndex": 7,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 14
+			},
+			{
+				"flags": 128,
+				"priority": 5,
+				"shaderID": 16404,
+				"skinSectionIndex": 8,
+				"flags2": 8,
+				"colorIndex": 65535,
+				"materialIndex": 8,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 16
+			},
+			{
+				"flags": 128,
+				"priority": 1,
+				"shaderID": 16404,
+				"skinSectionIndex": 9,
+				"flags2": 9,
+				"colorIndex": 65535,
+				"materialIndex": 9,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 128,
+				"priority": 5,
+				"shaderID": 16404,
+				"skinSectionIndex": 10,
+				"flags2": 10,
+				"colorIndex": 65535,
+				"materialIndex": 10,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 18
+			},
+			{
+				"flags": 128,
+				"priority": 5,
+				"shaderID": 16404,
+				"skinSectionIndex": 11,
+				"flags2": 11,
+				"colorIndex": 65535,
+				"materialIndex": 11,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 2,
+				"textureTransformComboIndex": 20
+			},
+			{
+				"flags": 128,
+				"priority": 5,
+				"shaderID": 16404,
+				"skinSectionIndex": 12,
+				"flags2": 12,
+				"colorIndex": 65535,
+				"materialIndex": 12,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 2,
+				"textureTransformComboIndex": 22
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/waterfalls/tu_waterfalls_pools_0100.skin",
+		"fileDataID": 530700
+	}
+}

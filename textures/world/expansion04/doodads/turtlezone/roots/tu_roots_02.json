@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 516821,
+	"fileName": "world/expansion04/doodads/turtlezone/roots/tu_roots_02.m2",
+	"internalName": "TU_Roots_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/mountaintree/tu_mountaintree_trunk.blp",
+			"fileNameExternal": "..\\mountaintree\\tu_mountaintree_trunk.png",
+			"mtlName": "mat_tu_mountaintree_trunk",
+			"flags": 3,
+			"fileDataID": 514494
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-6.8249969482421875,
+			-8.837475776672363,
+			-13.533445358276367
+		],
+		"max": [
+			6.7316741943359375,
+			4.729567050933838,
+			4.185311794281006
+		]
+	},
+	"boundingSphereRadius": 10.811304092407227,
+	"collisionBox": {
+		"min": [
+			-4.556811809539795,
+			-6.335611820220947,
+			-6.367732524871826
+		],
+		"max": [
+			2.1556684970855713,
+			4.729567050933838,
+			4.185311794281006
+		]
+	},
+	"collisionSphereRadius": 7.237754821777344,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 296,
+				"triangleStart": 0,
+				"triangleCount": 1698,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-1.4854243993759155,
+					-2.684605360031128,
+					-1.1207729578018188
+				],
+				"sortCenterPosition": [
+					-0.046661376953125,
+					-2.0539543628692627,
+					-4.674066543579102
+				],
+				"sortRadius": 10.811305046081543
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/roots/tu_roots_0200.skin",
+		"fileDataID": 516822
+	}
+}

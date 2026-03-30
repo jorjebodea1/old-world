@@ -1,0 +1,240 @@
+{
+	"fileType": "m2",
+	"fileDataID": 525038,
+	"fileName": "world/expansion04/doodads/pandaren/kite_lamp/pa_kite_lamp_01.m2",
+	"internalName": "PA_Kite_Lamp_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/kite_lamp/pa_kite_lamp_tex_01.blp",
+			"fileNameExternal": "pa_kite_lamp_tex_01.png",
+			"mtlName": "mat_pa_kite_lamp_tex_01",
+			"flags": 3,
+			"fileDataID": 525036
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/kite_lamp/pa_kite_lamp_tex_01_glow.blp",
+			"fileNameExternal": "pa_kite_lamp_tex_01_glow.png",
+			"mtlName": "mat_pa_kite_lamp_tex_01_glow",
+			"flags": 3,
+			"fileDataID": 525037
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/worgen/walls/worgen_glow_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion03\\doodads\\worgen\\walls\\worgen_glow_01.png",
+			"mtlName": "mat_worgen_glow_01",
+			"flags": 0,
+			"fileDataID": 303679
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 0
+		},
+		{
+			"flags": 21,
+			"blendingMode": 4
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					9830
+				]
+			]
+		},
+		{
+			"globalSeq": 0,
+			"interpolation": 1,
+			"timestamps": [
+				[
+					0,
+					100,
+					167,
+					233,
+					367,
+					467,
+					567,
+					633,
+					800,
+					1167,
+					1267
+				]
+			],
+			"values": [
+				[
+					32767,
+					11468,
+					32767,
+					8192,
+					32767,
+					6553,
+					32767,
+					15073,
+					29490,
+					12451,
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1,
+		2
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-3.8200056552886963,
+			-0.37364915013313293,
+			-0.6833332777023315
+		],
+		"max": [
+			3.6386120319366455,
+			8.367405891418457,
+			34.21183776855469
+		]
+	},
+	"boundingSphereRadius": 17.982236862182617,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 618,
+				"triangleStart": 0,
+				"triangleCount": 2148,
+				"boneCount": 17,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					0.28625768423080444,
+					2.4909586906433105,
+					24.93448829650879
+				],
+				"sortCenterPosition": [
+					0.4290882349014282,
+					2.2772326469421387,
+					15.787837028503418
+				],
+				"sortRadius": 16.687631607055664
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 618,
+				"vertexCount": 224,
+				"triangleStart": 2148,
+				"triangleCount": 1092,
+				"boneCount": 17,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					0.3353719711303711,
+					2.847996234893799,
+					28.234516143798828
+				],
+				"sortCenterPosition": [
+					0.42908817529678345,
+					2.95810866355896,
+					28.399272918701172
+				],
+				"sortRadius": 4.144093990325928
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 208,
+				"priority": 0,
+				"shaderID": 32773,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 0,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 2,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/kite_lamp/pa_kite_lamp_0100.skin",
+		"fileDataID": 525039
+	}
+}

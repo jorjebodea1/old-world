@@ -1,0 +1,280 @@
+{
+	"fileType": "m2",
+	"fileDataID": 523164,
+	"fileName": "world/expansion04/doodads/pandaren/sack/pa_sack_03.m2",
+	"internalName": "PA_Sack_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/sack/sacks.blp",
+			"fileNameExternal": "sacks.png",
+			"mtlName": "mat_sacks",
+			"flags": 0,
+			"fileDataID": 523159
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/rice_seedling/ricepatty_02.blp",
+			"fileNameExternal": "..\\rice_seedling\\ricepatty_02.png",
+			"mtlName": "mat_ricepatty_02",
+			"flags": 3,
+			"fileDataID": 522062
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/rice_seedling/ricerope.blp",
+			"fileNameExternal": "..\\rice_seedling\\ricerope.png",
+			"mtlName": "mat_ricerope",
+			"flags": 3,
+			"fileDataID": 522061
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/rice_seedling/ricepatty_01.blp",
+			"fileNameExternal": "..\\rice_seedling\\ricepatty_01.png",
+			"mtlName": "mat_ricepatty_01",
+			"flags": 3,
+			"fileDataID": 522065
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.9101948142051697,
+			-0.9967197775840759,
+			-0.004462480545043945
+		],
+		"max": [
+			0.8941375017166138,
+			1.155092477798462,
+			2.181581735610962
+		]
+	},
+	"boundingSphereRadius": 1.3421880006790161,
+	"collisionBox": {
+		"min": [
+			-0.4680677056312561,
+			-0.6957675218582153,
+			-0.00037124421214684844
+		],
+		"max": [
+			0.3517528474330902,
+			0.5274360775947571,
+			1.3004522323608398
+		]
+	},
+	"collisionSphereRadius": 0.9689253568649292,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 115,
+				"triangleStart": 0,
+				"triangleCount": 321,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.2790226340293884,
+					-0.0668124184012413,
+					0.8110073208808899
+				],
+				"sortCenterPosition": [
+					-0.11154651641845703,
+					-0.08154565095901489,
+					0.5576033592224121
+				],
+				"sortRadius": 0.825976550579071
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 115,
+				"vertexCount": 132,
+				"triangleStart": 321,
+				"triangleCount": 438,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.03674153611063957,
+					0.2361236810684204,
+					1.3180443048477173
+				],
+				"sortCenterPosition": [
+					0.23020510375499725,
+					0.49183160066604614,
+					1.447483777999878
+				],
+				"sortRadius": 0.9054706692695618
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 247,
+				"vertexCount": 112,
+				"triangleStart": 759,
+				"triangleCount": 360,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.054308902472257614,
+					0.05505325272679329,
+					1.265395164489746
+				],
+				"sortCenterPosition": [
+					0.08270296454429626,
+					0.02310815453529358,
+					1.4716260433197021
+				],
+				"sortRadius": 1.0382732152938843
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 359,
+				"vertexCount": 189,
+				"triangleStart": 1119,
+				"triangleCount": 660,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.03481760248541832,
+					-0.3320724368095398,
+					1.2416293621063232
+				],
+				"sortCenterPosition": [
+					-0.03481760248541832,
+					-0.3320724368095398,
+					1.2416293621063232
+				],
+				"sortRadius": 0.9470832347869873
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/sack/pa_sack_0300.skin",
+		"fileDataID": 523165
+	}
+}

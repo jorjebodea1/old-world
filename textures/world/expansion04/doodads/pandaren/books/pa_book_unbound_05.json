@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 534941,
+	"fileName": "world/expansion04/doodads/pandaren/books/pa_book_unbound_05.m2",
+	"internalName": "PA_Book_Unbound_05",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/books/pa_book_unbound_01.blp",
+			"fileNameExternal": "pa_book_unbound_01.png",
+			"mtlName": "mat_pa_book_unbound_01",
+			"flags": 0,
+			"fileDataID": 534932
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7618350386619568,
+			-0.4264022409915924,
+			-0.03455449640750885
+		],
+		"max": [
+			0.787597119808197,
+			0.42901185154914856,
+			0.4500015676021576
+		]
+	},
+	"boundingSphereRadius": 0.8849383592605591,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 263,
+				"triangleStart": 0,
+				"triangleCount": 708,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.02202235348522663,
+					0.13438279926776886,
+					0.27517396211624146
+				],
+				"sortCenterPosition": [
+					0.012881040573120117,
+					0.0013048052787780762,
+					0.20772352814674377
+				],
+				"sortRadius": 0.8849383592605591
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/books/pa_book_unbound_0500.skin",
+		"fileDataID": 534942
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 530143,
+	"fileName": "world/expansion04/doodads/turtlezone/mountaintreewhite/tu_mountaintreewhite05.m2",
+	"internalName": "TU_MountainTreeWhite05",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/mountaintreewhite/tu_mountaintreewhite_canopy.blp",
+			"fileNameExternal": "tu_mountaintreewhite_canopy.png",
+			"mtlName": "mat_tu_mountaintreewhite_canopy",
+			"flags": 3,
+			"fileDataID": 530134
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.6288097500801086,
+			-7.034449577331543,
+			-1.5649038553237915
+		],
+		"max": [
+			19.282442092895508,
+			11.617006301879883,
+			3.4823436737060547
+		]
+	},
+	"boundingSphereRadius": 10.29335880279541,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 123,
+				"triangleStart": 0,
+				"triangleCount": 270,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					10.436296463012695,
+					2.4876081943511963,
+					1.9032468795776367
+				],
+				"sortCenterPosition": [
+					9.32681655883789,
+					2.29127836227417,
+					0.9587199091911316
+				],
+				"sortRadius": 10.29335880279541
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/mountaintreewhite/tu_mountaintreewhite0500.skin",
+		"fileDataID": 530144
+	}
+}

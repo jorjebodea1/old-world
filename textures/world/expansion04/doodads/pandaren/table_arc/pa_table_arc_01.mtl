@@ -1,0 +1,3 @@
+newmtl mat_pa_table_arc_01
+illum 1
+map_Kd ..\stove\pa_table_arc_01.png

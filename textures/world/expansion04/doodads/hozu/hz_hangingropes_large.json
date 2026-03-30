@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 571800,
+	"fileName": "world/expansion04/doodads/hozu/hz_hangingropes_large.m2",
+	"internalName": "HZ_HangingRopes_Large",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/hz_hangingropes.blp",
+			"fileNameExternal": "hz_hangingropes.png",
+			"mtlName": "mat_hz_hangingropes",
+			"flags": 0,
+			"fileDataID": 571793
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.1613949090242386,
+			-18.879735946655273,
+			-2.0979392528533936
+		],
+		"max": [
+			0.12628869712352753,
+			0.020862901583313942,
+			0.07420245558023453
+		]
+	},
+	"boundingSphereRadius": 9.5125150680542,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 308,
+				"triangleStart": 0,
+				"triangleCount": 1518,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.026610715314745903,
+					-10.650461196899414,
+					-1.2512394189834595
+				],
+				"sortCenterPosition": [
+					-0.01755310595035553,
+					-9.429436683654785,
+					-1.0118683576583862
+				],
+				"sortRadius": 9.5125150680542
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/hz_hangingropes_large00.skin",
+		"fileDataID": 571801
+	}
+}

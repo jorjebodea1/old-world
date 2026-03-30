@@ -1,0 +1,57 @@
+{
+	"fileType": "m2",
+	"fileDataID": 323389,
+	"fileName": "world/expansion03/doodads/lostisles/waterfalls/lostisles_waterfallmist01.m2",
+	"internalName": "LostIsles_WaterFallMist01",
+	"textures": [
+		{
+			"fileNameInternal": "particles/snow1.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\particles\\snow1.png",
+			"mtlName": "mat_snow1",
+			"flags": 0,
+			"fileDataID": 165441
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [],
+	"textureCombos": [],
+	"colors": [],
+	"textureWeights": [],
+	"transparencyLookup": [],
+	"textureTransforms": [],
+	"textureTransformsLookup": [],
+	"boundingBox": {
+		"min": [
+			-5.244928359985352,
+			-7.515039920806885,
+			-4.713869571685791
+		],
+		"max": [
+			5.0860490798950195,
+			7.218415260314941,
+			7.871973514556885
+		]
+	},
+	"boundingSphereRadius": 10.979609489440918,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [],
+		"textureUnits": [],
+		"fileName": "world/expansion03/doodads/lostisles/waterfalls/lostisles_waterfallmist0100.skin",
+		"fileDataID": 501256
+	}
+}

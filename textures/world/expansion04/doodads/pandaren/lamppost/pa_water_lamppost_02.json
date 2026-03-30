@@ -1,0 +1,267 @@
+{
+	"fileType": "m2",
+	"fileDataID": 524781,
+	"fileName": "world/expansion04/doodads/pandaren/lamppost/pa_water_lamppost_02.m2",
+	"internalName": "PA_Water_LampPost_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion03/doodads/worgen/walls/worgen_flame_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion03\\doodads\\worgen\\walls\\worgen_flame_01.png",
+			"mtlName": "mat_worgen_flame_01",
+			"flags": 0,
+			"fileDataID": 303677
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/worgen/walls/worgen_glow_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion03\\doodads\\worgen\\walls\\worgen_glow_01.png",
+			"mtlName": "mat_worgen_glow_01",
+			"flags": 0,
+			"fileDataID": 303679
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/lamppost/pa_water_lamppost_all.blp",
+			"fileNameExternal": "pa_water_lamppost_all.png",
+			"mtlName": "mat_pa_water_lamppost_all",
+			"flags": 0,
+			"fileDataID": 593575
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		2,
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 1,
+			"timestamps": [
+				[
+					0,
+					100,
+					200,
+					267,
+					333,
+					467,
+					567,
+					667,
+					733,
+					900,
+					1267,
+					1367,
+					2500
+				]
+			],
+			"values": [
+				[
+					32767,
+					32767,
+					11468,
+					32767,
+					8192,
+					32767,
+					6553,
+					32767,
+					15073,
+					29490,
+					12451,
+					32767,
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.1397664546966553,
+			-1.1410527229309082,
+			-0.3854612410068512
+		],
+		"max": [
+			1.1472415924072266,
+			1.1459553241729736,
+			3.6966564655303955
+		]
+	},
+	"boundingSphereRadius": 2.3395559787750244,
+	"collisionBox": {
+		"min": [
+			-1.4534679651260376,
+			-1.3627651929855347,
+			-0.4062373638153076
+		],
+		"max": [
+			1.455179214477539,
+			1.4035228490829468,
+			3.8199589252471924
+		]
+	},
+	"collisionSphereRadius": 2.581847667694092,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 693,
+				"triangleStart": 0,
+				"triangleCount": 1887,
+				"boneCount": 5,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 4,
+				"centerPosition": [
+					0.0031892159022390842,
+					0.0013854564167559147,
+					2.2988409996032715
+				],
+				"sortCenterPosition": [
+					0.0037375688552856445,
+					0.002451300621032715,
+					1.6555975675582886
+				],
+				"sortRadius": 2.3395559787750244
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 693,
+				"vertexCount": 8,
+				"triangleStart": 1887,
+				"triangleCount": 18,
+				"boneCount": 5,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					-0.002680644392967224,
+					0.004014505073428154,
+					2.860853433609009
+				],
+				"sortCenterPosition": [
+					-0.0026806446257978678,
+					0.004014505073428154,
+					2.860853433609009
+				],
+				"sortRadius": 0.09282743185758591
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 701,
+				"vertexCount": 4,
+				"triangleStart": 1905,
+				"triangleCount": 6,
+				"boneCount": 5,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 3,
+				"centerPosition": [
+					0,
+					0,
+					2.823741912841797
+				],
+				"sortCenterPosition": [
+					0,
+					0,
+					2.823741912841797
+				],
+				"sortRadius": 0.43461528420448303
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 1,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 0,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/lamppost/pa_water_lamppost_0200.skin",
+		"fileDataID": 524782
+	}
+}

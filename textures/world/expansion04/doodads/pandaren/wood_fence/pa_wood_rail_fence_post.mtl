@@ -1,0 +1,3 @@
+newmtl mat_pa_footbridge_wood02
+illum 1
+map_Kd ..\..\..\..\environment\doodad\pandaren\bridge\pa_footbridge_wood02.png

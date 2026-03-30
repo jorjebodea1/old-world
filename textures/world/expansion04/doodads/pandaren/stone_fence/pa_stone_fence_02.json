@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 518523,
+	"fileName": "world/expansion04/doodads/pandaren/stone_fence/pa_stone_fence_02.m2",
+	"internalName": "PA_Stone_Fence_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/stone_fence/pa_stone_fence_02.blp",
+			"fileNameExternal": "pa_stone_fence_02.png",
+			"mtlName": "mat_pa_stone_fence_02",
+			"flags": 3,
+			"fileDataID": 537976
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.393496572971344,
+			-2.0768113136291504,
+			-0.7832679152488708
+		],
+		"max": [
+			0.3934969902038574,
+			2.0768110752105713,
+			1.1223914623260498
+		]
+	},
+	"boundingSphereRadius": 2.2915704250335693,
+	"collisionBox": {
+		"min": [
+			-0.39772266149520874,
+			-2.0812735557556152,
+			-0.775303065776825
+		],
+		"max": [
+			0.39772266149520874,
+			2.0812735557556152,
+			1.1250563859939575
+		]
+	},
+	"collisionSphereRadius": 2.3222241401672363,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 228,
+				"triangleStart": 0,
+				"triangleCount": 780,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					2.073091422971629e-7,
+					-2.3005300775480464e-8,
+					0.4747414290904999
+				],
+				"sortCenterPosition": [
+					2.086162567138672e-7,
+					-1.1920928955078125e-7,
+					0.16956177353858948
+				],
+				"sortRadius": 2.2915704250335693
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/stone_fence/pa_stone_fence_0200.skin",
+		"fileDataID": 518524
+	}
+}

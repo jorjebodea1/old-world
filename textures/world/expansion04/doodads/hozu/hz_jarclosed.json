@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 571706,
+	"fileName": "world/expansion04/doodads/hozu/hz_jarclosed.m2",
+	"internalName": "HZ_JarClosed",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/hz_foodcontainers.blp",
+			"fileNameExternal": "hz_foodcontainers.png",
+			"mtlName": "mat_hz_foodcontainers",
+			"flags": 0,
+			"fileDataID": 571697
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.18299701809883118,
+			-0.1808513104915619,
+			-8.94055816047512e-8
+		],
+		"max": [
+			0.15496280789375305,
+			0.16906800866127014,
+			0.37616705894470215
+		]
+	},
+	"boundingSphereRadius": 0.2432572841644287,
+	"collisionBox": {
+		"min": [
+			-0.17026476562023163,
+			-0.15197418630123138,
+			0
+		],
+		"max": [
+			0.16239097714424133,
+			0.16440023481845856,
+			0.37103065848350525
+		]
+	},
+	"collisionSphereRadius": 0.264586865901947,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 167,
+				"triangleStart": 0,
+				"triangleCount": 570,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.013119631446897984,
+					-0.008993808180093765,
+					0.2062675952911377
+				],
+				"sortCenterPosition": [
+					-0.014017105102539062,
+					-0.005891650915145874,
+					0.1880834847688675
+				],
+				"sortRadius": 0.2432572990655899
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/hz_jarclosed00.skin",
+		"fileDataID": 571707
+	}
+}

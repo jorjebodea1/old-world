@@ -1,0 +1,134 @@
+{
+	"fileType": "m2",
+	"fileDataID": 338527,
+	"fileName": "world/generic/passivedoodads/fish/fish_bluetrawler.m2",
+	"internalName": "Fish_BlueTrawler",
+	"textures": [
+		{
+			"fileNameInternal": "world/generic/passivedoodads/fish/fish_bluetrawler.blp",
+			"fileNameExternal": "fish_bluetrawler.png",
+			"mtlName": "mat_fish_bluetrawler",
+			"flags": 0,
+			"fileDataID": 338525
+		},
+		{
+			"fileNameInternal": "world/generic/passivedoodads/fish/fish_ref_orange.blp",
+			"fileNameExternal": "fish_ref_orange.png",
+			"mtlName": "mat_fish_ref_orange",
+			"flags": 0,
+			"fileDataID": 338526
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-3.766571283340454,
+			-5.814006328582764,
+			-0.36110129952430725
+		],
+		"max": [
+			4.69654655456543,
+			4.936781883239746,
+			2.9864039421081543
+		]
+	},
+	"boundingSphereRadius": 5.965837478637695,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 208,
+				"triangleStart": 0,
+				"triangleCount": 702,
+				"boneCount": 8,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 5,
+				"centerPosition": [
+					-2.125354528427124,
+					1.3221089839935303,
+					0.955414891242981
+				],
+				"sortCenterPosition": [
+					-2.1498358249664307,
+					1.490445613861084,
+					1.0475857257843018
+				],
+				"sortRadius": 1.1365538835525513
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 30,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/generic/passivedoodads/fish/fish_bluetrawler00.skin",
+		"fileDataID": 505602
+	}
+}

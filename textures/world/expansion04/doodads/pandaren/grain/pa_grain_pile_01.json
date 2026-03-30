@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 533085,
+	"fileName": "world/expansion04/doodads/pandaren/grain/pa_grain_pile_01.m2",
+	"internalName": "PA_Grain_Pile_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/grain/pa_brewinggrains_01.blp",
+			"fileNameExternal": "pa_brewinggrains_01.png",
+			"mtlName": "mat_pa_brewinggrains_01",
+			"flags": 3,
+			"fileDataID": 533015
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.37430915236473083,
+			-0.3663876950740814,
+			-0.002848589327186346
+		],
+		"max": [
+			0.36120444536209106,
+			0.3691258728504181,
+			0.15699122846126556
+		]
+	},
+	"boundingSphereRadius": 0.3763405978679657,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 25,
+				"triangleStart": 0,
+				"triangleCount": 108,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.006552462466061115,
+					0.0013690447667613626,
+					0.038242701441049576
+				],
+				"sortCenterPosition": [
+					-0.006552462466061115,
+					0.0013690447667613626,
+					0.038242701441049576
+				],
+				"sortRadius": 0.37004542350769043
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/grain/pa_grain_pile_0100.skin",
+		"fileDataID": 533086
+	}
+}

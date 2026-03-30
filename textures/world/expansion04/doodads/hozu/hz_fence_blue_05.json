@@ -1,0 +1,228 @@
+{
+	"fileType": "m2",
+	"fileDataID": 603810,
+	"fileName": "world/expansion04/doodads/hozu/hz_fence_blue_05.m2",
+	"internalName": "HZ_Fence_Blue_05",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/hz_bamboo_blue.blp",
+			"fileNameExternal": "hz_bamboo_blue.png",
+			"mtlName": "mat_hz_bamboo_blue",
+			"flags": 3,
+			"fileDataID": 603668
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/hz_cageparts.blp",
+			"fileNameExternal": "hz_cageparts.png",
+			"mtlName": "mat_hz_cageparts",
+			"flags": 3,
+			"fileDataID": 603669
+		},
+		{
+			"fileNameInternal": "world/generic/goblin/passivedoodads/kezan/tents/goblin_lightglobe_01.blp",
+			"fileNameExternal": "..\\..\\..\\generic\\goblin\\passivedoodads\\kezan\\tents\\goblin_lightglobe_01.png",
+			"mtlName": "mat_goblin_lightglobe_01",
+			"flags": 3,
+			"fileDataID": 319847
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.38178762793540955,
+			-2.371685028076172,
+			-0.19775857031345367
+		],
+		"max": [
+			0.39036959409713745,
+			1.3518905639648438,
+			2.566066026687622
+		]
+	},
+	"boundingSphereRadius": 2.2278220653533936,
+	"collisionBox": {
+		"min": [
+			-0.33590590953826904,
+			-2.263132333755493,
+			0
+		],
+		"max": [
+			0.37444180250167847,
+			1.3043053150177002,
+			2.6824135780334473
+		]
+	},
+	"collisionSphereRadius": 2.25978684425354,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 220,
+				"triangleStart": 0,
+				"triangleCount": 522,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.018474768847227097,
+					-0.18727844953536987,
+					1.120366096496582
+				],
+				"sortCenterPosition": [
+					0.023955166339874268,
+					-0.5098972320556641,
+					1.18415367603302
+				],
+				"sortRadius": 2.2298243045806885
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 220,
+				"vertexCount": 28,
+				"triangleStart": 522,
+				"triangleCount": 108,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.021930960938334465,
+					0.16548334062099457,
+					1.0332326889038086
+				],
+				"sortCenterPosition": [
+					-0.02524004876613617,
+					0.10782201588153839,
+					1.059386968612671
+				],
+				"sortRadius": 0.3567790985107422
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 248,
+				"vertexCount": 28,
+				"triangleStart": 630,
+				"triangleCount": 108,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.1897316724061966,
+					0.00820124987512827,
+					1.045454740524292
+				],
+				"sortCenterPosition": [
+					-0.20170246064662933,
+					0.034985050559043884,
+					1.0379791259765625
+				],
+				"sortRadius": 0.2582896053791046
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/hz_fence_blue_0500.skin",
+		"fileDataID": 603811
+	}
+}

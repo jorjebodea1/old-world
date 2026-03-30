@@ -1,0 +1,15 @@
+newmtl mat_pa_stone_wall_01b
+illum 1
+map_Kd ..\..\..\..\expansion04\doodads\pandaren\arched_gateway\pa_stone_wall_01b.png
+newmtl mat_pa_stone_wall_01
+illum 1
+map_Kd ..\..\..\..\expansion04\doodads\pandaren\stone_walls\pa_stone_wall_01.png
+newmtl mat_pa_stone_post_01
+illum 1
+map_Kd ..\..\..\..\expansion04\doodads\pandaren\stone_post\pa_stone_post_01.png
+newmtl mat_pa_stone_wall_01
+illum 1
+map_Kd ..\..\..\..\expansion04\doodads\pandaren\stone_walls\pa_stone_wall_01.png
+newmtl mat_pa_stone_wall_01c
+illum 1
+map_Kd ..\..\..\..\environment\doodad\pandaren\stonewalls\textures\pa_stone_wall_01c.png

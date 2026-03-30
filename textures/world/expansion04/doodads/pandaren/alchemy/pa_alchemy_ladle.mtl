@@ -1,0 +1,6 @@
+newmtl mat_pa_alchemygear
+illum 1
+map_Kd pa_alchemygear.png
+newmtl mat_smoothreflect
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\head\smoothreflect.png

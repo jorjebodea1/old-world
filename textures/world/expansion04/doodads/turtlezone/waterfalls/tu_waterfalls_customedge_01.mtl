@@ -1,0 +1,9 @@
+newmtl mat_pandawater_06
+illum 1
+map_Kd pandawater_06.png
+newmtl mat_pandawater_color_07
+illum 1
+map_Kd pandawater_color_07.png
+newmtl mat_pandawater_falls_top_04static_green
+illum 1
+map_Kd pandawater_falls_top_04static_green.png

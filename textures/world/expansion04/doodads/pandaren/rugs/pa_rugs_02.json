@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 575035,
+	"fileName": "world/expansion04/doodads/pandaren/rugs/pa_rugs_02.m2",
+	"internalName": "PA_Rugs_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/rugs/pa_rugs.blp",
+			"fileNameExternal": "pa_rugs.png",
+			"mtlName": "mat_pa_rugs",
+			"flags": 0,
+			"fileDataID": 575032
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-4.277878761291504,
+			-4.277879238128662,
+			-0.07947854697704315
+		],
+		"max": [
+			4.277878761291504,
+			4.277879238128662,
+			0.06757299602031708
+		]
+	},
+	"boundingSphereRadius": 4.278511047363281,
+	"collisionBox": {
+		"min": [
+			-4.277878761291504,
+			-4.277878284454346,
+			-0.07947860658168793
+		],
+		"max": [
+			4.277879238128662,
+			4.277879238128662,
+			0.06757312268018723
+		]
+	},
+	"collisionSphereRadius": 4.278511047363281,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 37,
+				"triangleStart": 0,
+				"triangleCount": 108,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-9.665617994869535e-8,
+					-1.0309992859447448e-7,
+					0.01988060399889946
+				],
+				"sortCenterPosition": [
+					0,
+					0,
+					-0.005952775478363037
+				],
+				"sortRadius": 4.278511047363281
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/rugs/pa_rugs_0200.skin",
+		"fileDataID": 575036
+	}
+}

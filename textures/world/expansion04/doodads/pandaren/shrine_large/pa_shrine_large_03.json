@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 526379,
+	"fileName": "world/expansion04/doodads/pandaren/shrine_large/pa_shrine_large_03.m2",
+	"internalName": "PA_Shrine_Large_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_large/pa_shrine_large_03.blp",
+			"fileNameExternal": "pa_shrine_large_03.png",
+			"mtlName": "mat_pa_shrine_large_03",
+			"flags": 0,
+			"fileDataID": 526378
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/armorreflect_hard_add.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\armorreflect_hard_add.png",
+			"mtlName": "mat_armorreflect_hard_add",
+			"flags": 0,
+			"fileDataID": 144334
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.2822902202606201,
+			-1.3244644403457642,
+			-0.09183244407176971
+		],
+		"max": [
+			0.7865076065063477,
+			1.3391033411026,
+			3.472985029220581
+		]
+	},
+	"boundingSphereRadius": 2.2307000160217285,
+	"collisionBox": {
+		"min": [
+			-1.3546119928359985,
+			-1.2142456769943237,
+			-0.12822267413139343
+		],
+		"max": [
+			0.8366788029670715,
+			1.2266145944595337,
+			3.519641160964966
+		]
+	},
+	"collisionSphereRadius": 2.3533310890197754,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 473,
+				"triangleStart": 0,
+				"triangleCount": 1248,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.21203601360321045,
+					0.007422714494168758,
+					1.7058337926864624
+				],
+				"sortCenterPosition": [
+					-0.24789130687713623,
+					0.007319450378417969,
+					1.6905763149261475
+				],
+				"sortRadius": 2.2307000160217285
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/shrine_large/pa_shrine_large_0300.skin",
+		"fileDataID": 526380
+	}
+}

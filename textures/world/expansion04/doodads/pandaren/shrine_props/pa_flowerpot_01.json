@@ -1,0 +1,167 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528756,
+	"fileName": "world/expansion04/doodads/pandaren/shrine_props/pa_flowerpot_01.m2",
+	"internalName": "PA_flowerPot_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_props/shrine_props.blp",
+			"fileNameExternal": "shrine_props.png",
+			"mtlName": "mat_shrine_props",
+			"flags": 0,
+			"fileDataID": 528697
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.10488684475421906,
+			-0.15104132890701294,
+			-0.00461924634873867
+		],
+		"max": [
+			0.10488693416118622,
+			0.15104150772094727,
+			0.7526308298110962
+		]
+	},
+	"boundingSphereRadius": 0.4635297656059265,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 46,
+				"triangleStart": 0,
+				"triangleCount": 216,
+				"boneCount": 4,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					-5.019276372308923e-8,
+					-0.013246738351881504,
+					0.18176227807998657
+				],
+				"sortCenterPosition": [
+					-5.019276372308923e-8,
+					-0.013246738351881504,
+					0.18176227807998657
+				],
+				"sortRadius": 0.18782939016819
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 46,
+				"vertexCount": 69,
+				"triangleStart": 216,
+				"triangleCount": 144,
+				"boneCount": 4,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.001982214627787471,
+					-0.013340556994080544,
+					0.43452420830726624
+				],
+				"sortCenterPosition": [
+					0.011541996151208878,
+					8.940696716308594e-8,
+					0.4787534475326538
+				],
+				"sortRadius": 0.2855008542537689
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/shrine_props/pa_flowerpot_0100.skin",
+		"fileDataID": 528757
+	}
+}

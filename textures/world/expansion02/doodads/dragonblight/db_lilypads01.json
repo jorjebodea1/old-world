@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 194567,
+	"fileName": "world/expansion02/doodads/dragonblight/db_lilypads01.m2",
+	"internalName": "DB_Lilypads01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/dragonblight/dblilypad01.blp",
+			"fileNameExternal": "dblilypad01.png",
+			"mtlName": "mat_dblilypad01",
+			"flags": 3,
+			"fileDataID": 194575
+		},
+		{
+			"fileNameInternal": "world/expansion01/doodads/zangar/lilypads/zangarlilypad01.blp",
+			"fileNameExternal": "..\\..\\..\\expansion01\\doodads\\zangar\\lilypads\\zangarlilypad01.png",
+			"mtlName": "mat_zangarlilypad01",
+			"flags": 3,
+			"fileDataID": 193881
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 1,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.424447536468506,
+			-2.323417901992798,
+			-1.9420439004898071
+		],
+		"max": [
+			1.7838177680969238,
+			2.164486885070801,
+			0.5902640223503113
+		]
+	},
+	"boundingSphereRadius": 2.5230233669281006,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 672,
+				"triangleStart": 0,
+				"triangleCount": 2208,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.14523720741271973,
+					-0.1380845308303833,
+					-0.29594388604164124
+				],
+				"sortCenterPosition": [
+					-0.14523720741271973,
+					-0.1380845308303833,
+					-0.29594388604164124
+				],
+				"sortRadius": 2.5004193782806396
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 672,
+				"vertexCount": 388,
+				"triangleStart": 2208,
+				"triangleCount": 1392,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.10669117420911789,
+					-0.07774950563907623,
+					0.1518300473690033
+				],
+				"sortCenterPosition": [
+					-0.24834054708480835,
+					-0.11935913562774658,
+					0.30287840962409973
+				],
+				"sortRadius": 1.8738124370574951
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/dragonblight/db_lilypads0100.skin",
+		"fileDataID": 497794
+	}
+}

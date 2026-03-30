@@ -1,0 +1,9 @@
+newmtl mat_snow1
+illum 1
+map_Kd ..\..\..\..\..\particles\snow1.png
+newmtl mat_vj_lightshaft
+illum 1
+map_Kd vj_lightshaft.png
+newmtl mat_vj_lightshaft_scroll
+illum 1
+map_Kd vj_lightshaft_scroll.png

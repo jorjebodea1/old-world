@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 200293,
+	"fileName": "world/generic/pvp/collisionwall/collisionwallpvp01.m2",
+	"internalName": "CollisionWallPvP01",
+	"textures": [
+		{
+			"fileNameInternal": "world/scale/1_null.blp",
+			"fileNameExternal": "..\\..\\..\\scale\\1_null.png",
+			"mtlName": "mat_1_null",
+			"flags": 0,
+			"fileDataID": 219358
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.25707775354385376,
+			-5.552626609802246,
+			-0.3614603281021118
+		],
+		"max": [
+			0.2638263702392578,
+			5.524530410766602,
+			-0.07092809677124023
+		]
+	},
+	"boundingSphereRadius": 5.54660177230835,
+	"collisionBox": {
+		"min": [
+			-0.25707775354385376,
+			-5.552626609802246,
+			-0.6868212819099426
+		],
+		"max": [
+			0.2638263702392578,
+			5.52453088760376,
+			17.562334060668945
+		]
+	},
+	"collisionSphereRadius": 10.677153587341309,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 24,
+				"triangleStart": 0,
+				"triangleCount": 36,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.003374313237145543,
+					-0.014048139564692974,
+					-0.21619416773319244
+				],
+				"sortCenterPosition": [
+					0.0033743083477020264,
+					-0.014048099517822266,
+					-0.21619421243667603
+				],
+				"sortRadius": 5.54660177230835
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/generic/pvp/collisionwall/collisionwallpvp0100.skin",
+		"fileDataID": 506071
+	}
+}

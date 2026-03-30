@@ -1,0 +1,154 @@
+{
+	"fileType": "m2",
+	"fileDataID": 532563,
+	"fileName": "world/expansion04/doodads/pandaren/fireworklauncher/pa_fireworklauncher01.m2",
+	"internalName": "PA_FireworkLauncher01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/fireworklauncher/pa_fireworklauncher_tex_01.blp",
+			"fileNameExternal": "pa_fireworklauncher_tex_01.png",
+			"mtlName": "mat_pa_fireworklauncher_tex_01",
+			"flags": 0,
+			"fileDataID": 532562
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		},
+		{
+			"fileNameInternal": "spells/star5a.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\spells\\star5a.png",
+			"mtlName": "mat_star5a",
+			"flags": 0,
+			"fileDataID": 166963
+		},
+		{
+			"fileNameInternal": "spells/tooncloud64_soft.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\spells\\tooncloud64_soft.png",
+			"mtlName": "mat_tooncloud64_soft",
+			"flags": 0,
+			"fileDataID": 167124
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.4838476181030273,
+			-0.6309382319450378,
+			0.004129966255277395
+		],
+		"max": [
+			2.3943405151367188,
+			0.8914715051651001,
+			8.301071166992188
+		]
+	},
+	"boundingSphereRadius": 4.914157867431641,
+	"collisionBox": {
+		"min": [
+			-0.63260418176651,
+			-0.6112595200538635,
+			-0.0012043052120134234
+		],
+		"max": [
+			0.6161091327667236,
+			0.5782693028450012,
+			1.164063811302185
+		]
+	},
+	"collisionSphereRadius": 1.0406864881515503,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1081,
+				"triangleStart": 0,
+				"triangleCount": 2790,
+				"boneCount": 4,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-0.002913872944191098,
+					0.0002410843881079927,
+					0.5262315273284912
+				],
+				"sortCenterPosition": [
+					-0.002913872944191098,
+					0.0002410843881079927,
+					0.5262315273284912
+				],
+				"sortRadius": 0.8921998739242554
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/fireworklauncher/pa_fireworklauncher0100.skin",
+		"fileDataID": 532564
+	}
+}

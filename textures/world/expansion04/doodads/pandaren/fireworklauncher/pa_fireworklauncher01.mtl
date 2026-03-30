@@ -1,0 +1,12 @@
+newmtl mat_pa_fireworklauncher_tex_01
+illum 1
+map_Kd pa_fireworklauncher_tex_01.png
+newmtl mat_armorreflectgold
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\armorreflectgold.png
+newmtl mat_star5a
+illum 1
+map_Kd ..\..\..\..\..\spells\star5a.png
+newmtl mat_tooncloud64_soft
+illum 1
+map_Kd ..\..\..\..\..\spells\tooncloud64_soft.png

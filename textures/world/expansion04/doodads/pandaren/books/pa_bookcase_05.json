@@ -1,0 +1,294 @@
+{
+	"fileType": "m2",
+	"fileDataID": 612275,
+	"fileName": "world/expansion04/doodads/pandaren/books/pa_bookcase_05.m2",
+	"internalName": "PA_Bookcase_05",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/books/pa_bookcase_tex_01.blp",
+			"fileNameExternal": "pa_bookcase_tex_01.png",
+			"mtlName": "mat_pa_bookcase_tex_01",
+			"flags": 3,
+			"fileDataID": 536628
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/chromereflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\chromereflect.png",
+			"mtlName": "mat_chromereflect",
+			"flags": 0,
+			"fileDataID": 145297
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/books/pa_bookcase_tex_02.blp",
+			"fileNameExternal": "pa_bookcase_tex_02.png",
+			"mtlName": "mat_pa_bookcase_tex_02",
+			"flags": 3,
+			"fileDataID": 536627
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/scroll/pa_scroll_huge_01.blp",
+			"fileNameExternal": "..\\scroll\\pa_scroll_huge_01.png",
+			"mtlName": "mat_pa_scroll_huge_01",
+			"flags": 0,
+			"fileDataID": 535160
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/books/pa_book_paper_01.blp",
+			"fileNameExternal": "pa_book_paper_01.png",
+			"mtlName": "mat_pa_book_paper_01",
+			"flags": 0,
+			"fileDataID": 534841
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 4,
+			"blendingMode": 1
+		},
+		{
+			"flags": 4,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		3,
+		4,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-4.695161819458008,
+			-0.11240562051534653,
+			-0.0040300157852470875
+		],
+		"max": [
+			4.622236251831055,
+			1.4295319318771362,
+			7.252851963043213
+		]
+	},
+	"boundingSphereRadius": 5.9502763748168945,
+	"collisionBox": {
+		"min": [
+			-4.869616508483887,
+			-0.09995434433221817,
+			-0.0022299024276435375
+		],
+		"max": [
+			4.726547718048096,
+			1.460622787475586,
+			7.370090007781982
+		]
+	},
+	"collisionSphereRadius": 6.100674152374268,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 177,
+				"triangleStart": 0,
+				"triangleCount": 351,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.00903130229562521,
+					0.6426963806152344,
+					3.422957420349121
+				],
+				"sortCenterPosition": [
+					0.00903130229562521,
+					0.6426963806152344,
+					3.422957420349121
+				],
+				"sortRadius": 4.255263328552246
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 177,
+				"vertexCount": 311,
+				"triangleStart": 351,
+				"triangleCount": 882,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.774655282497406,
+					0.4520092010498047,
+					3.024508476257324
+				],
+				"sortCenterPosition": [
+					-0.7274113297462463,
+					0.5273897647857666,
+					3.060804843902588
+				],
+				"sortRadius": 1.9562574625015259
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 488,
+				"vertexCount": 4429,
+				"triangleStart": 1233,
+				"triangleCount": 10338,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.07619212567806244,
+					0.4439312517642975,
+					3.8861634731292725
+				],
+				"sortCenterPosition": [
+					-0.07619212567806244,
+					0.4439312517642975,
+					3.8861634731292725
+				],
+				"sortRadius": 3.6348562240600586
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 4917,
+				"vertexCount": 346,
+				"triangleStart": 11571,
+				"triangleCount": 924,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.003058740869164467,
+					0.3540136516094208,
+					3.3527021408081055
+				],
+				"sortCenterPosition": [
+					-0.03646278381347656,
+					0.6525017023086548,
+					3.62441086769104
+				],
+				"sortRadius": 5.949533462524414
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/books/pa_bookcase_0500.skin",
+		"fileDataID": 612276
+	}
+}

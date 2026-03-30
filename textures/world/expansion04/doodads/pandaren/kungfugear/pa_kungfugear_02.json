@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 519526,
+	"fileName": "world/expansion04/doodads/pandaren/kungfugear/pa_kungfugear_02.m2",
+	"internalName": "PA_KungFuGear_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/kungfugear/pa_kungfugear_02.blp",
+			"fileNameExternal": "pa_kungfugear_02.png",
+			"mtlName": "mat_pa_kungfugear_02",
+			"flags": 0,
+			"fileDataID": 519525
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/armorreflect3_horde.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\armorreflect3_horde.png",
+			"mtlName": "mat_armorreflect3_horde",
+			"flags": 0,
+			"fileDataID": 144329
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.8169686794281006,
+			-1.1732956171035767,
+			-0.0659714937210083
+		],
+		"max": [
+			1.8168489933013916,
+			1.1617186069488525,
+			2.794801950454712
+		]
+	},
+	"boundingSphereRadius": 2.1148245334625244,
+	"collisionBox": {
+		"min": [
+			-1.8208991289138794,
+			-0.4104245901107788,
+			0
+		],
+		"max": [
+			1.8280764818191528,
+			0.45291730761528015,
+			2.834566354751587
+		]
+	},
+	"collisionSphereRadius": 2.1798534393310547,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 576,
+				"triangleStart": 0,
+				"triangleCount": 1992,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.06648386269807816,
+					-0.000991835375316441,
+					1.9650391340255737
+				],
+				"sortCenterPosition": [
+					-4.172325134277344e-7,
+					0,
+					1.364415168762207
+				],
+				"sortRadius": 2.1090357303619385
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32780,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/kungfugear/pa_kungfugear_0200.skin",
+		"fileDataID": 519527
+	}
+}

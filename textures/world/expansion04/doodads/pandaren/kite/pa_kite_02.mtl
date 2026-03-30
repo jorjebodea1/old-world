@@ -1,0 +1,9 @@
+newmtl mat_pa_kite_tex_02
+illum 1
+map_Kd pa_kite_tex_02.png
+newmtl mat_pa_kite_tex_03
+illum 1
+map_Kd pa_kite_tex_03.png
+newmtl mat_ts_kite_01
+illum 1
+map_Kd ..\..\..\..\expansion02\doodads\generic\tuskarr\kites\ts_kite_01.png

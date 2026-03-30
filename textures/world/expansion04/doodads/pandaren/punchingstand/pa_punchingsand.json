@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 533281,
+	"fileName": "world/expansion04/doodads/pandaren/punchingstand/pa_punchingsand.m2",
+	"internalName": "PA_PunchingSand",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/punchingstand/pa_punchingsand.blp",
+			"fileNameExternal": "pa_punchingsand.png",
+			"mtlName": "mat_pa_punchingsand",
+			"flags": 0,
+			"fileDataID": 533280
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/head/smoothreflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\head\\smoothreflect.png",
+			"mtlName": "mat_smoothreflect",
+			"flags": 0,
+			"fileDataID": 142579
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.8686825037002563,
+			-0.6738629937171936,
+			-0.04102897644042969
+		],
+		"max": [
+			0.8686824440956116,
+			0.6738627552986145,
+			1.157289743423462
+		]
+	},
+	"boundingSphereRadius": 1.0591500997543335,
+	"collisionBox": {
+		"min": [
+			-0.6386430859565735,
+			-0.6484951972961426,
+			0
+		],
+		"max": [
+			0.6386430859565735,
+			0.6484951972961426,
+			1.130568265914917
+		]
+	},
+	"collisionSphereRadius": 0.8602861762046814,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 565,
+				"triangleStart": 0,
+				"triangleCount": 1968,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.00022617829381488264,
+					0.0024133953265845776,
+					0.6346584558486938
+				],
+				"sortCenterPosition": [
+					0.00022617829381488264,
+					0.0024133953265845776,
+					0.6346584558486938
+				],
+				"sortRadius": 1.021588683128357
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/punchingstand/pa_punchingsand00.skin",
+		"fileDataID": 533282
+	}
+}

@@ -1,0 +1,3 @@
+newmtl mat_tu_bambooa
+illum 1
+map_Kd ..\bamboo\tu_bambooa.png

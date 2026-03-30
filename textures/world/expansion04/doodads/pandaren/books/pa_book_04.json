@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 534848,
+	"fileName": "world/expansion04/doodads/pandaren/books/pa_book_04.m2",
+	"internalName": "PA_Book_04",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/books/pa_book_paper_01.blp",
+			"fileNameExternal": "pa_book_paper_01.png",
+			"mtlName": "mat_pa_book_paper_01",
+			"flags": 0,
+			"fileDataID": 534841
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.763411283493042,
+			-0.4970322251319885,
+			-0.04645051807165146
+		],
+		"max": [
+			0.7860209941864014,
+			0.5496792793273926,
+			0.5083602070808411
+		]
+	},
+	"boundingSphereRadius": 0.9588794112205505,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 384,
+				"triangleStart": 0,
+				"triangleCount": 1008,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.010493648238480091,
+					0.19067859649658203,
+					0.22662276029586792
+				],
+				"sortCenterPosition": [
+					0.011304855346679688,
+					0.026323527097702026,
+					0.2309548407793045
+				],
+				"sortRadius": 0.9588794112205505
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/books/pa_book_0400.skin",
+		"fileDataID": 534849
+	}
+}

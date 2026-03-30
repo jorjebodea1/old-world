@@ -1,0 +1,230 @@
+{
+	"fileType": "m2",
+	"fileDataID": 526362,
+	"fileName": "world/expansion04/doodads/pandaren/bonsei/pa_bonsei_tree_02.m2",
+	"internalName": "PA_Bonsei_Tree_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/bonsei/greentree.blp",
+			"fileNameExternal": "greentree.png",
+			"mtlName": "mat_greentree",
+			"flags": 3,
+			"fileDataID": 526358
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/gravestone/pa_gravestone_tree.blp",
+			"fileNameExternal": "..\\gravestone\\pa_gravestone_tree.png",
+			"mtlName": "mat_pa_gravestone_tree",
+			"flags": 3,
+			"fileDataID": 525792
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/bonsei/dirt.blp",
+			"fileNameExternal": "dirt.png",
+			"mtlName": "mat_dirt",
+			"flags": 3,
+			"fileDataID": 526357
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 4,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		2,
+		1,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.4848192036151886,
+			-0.4909989535808563,
+			-0.005547483917325735
+		],
+		"max": [
+			0.48896926641464233,
+			0.4688318073749542,
+			1.219106912612915
+		]
+	},
+	"boundingSphereRadius": 0.7858768701553345,
+	"collisionBox": {
+		"min": [
+			-0.2361701875925064,
+			-0.4579456150531769,
+			-0.023900402709841728
+		],
+		"max": [
+			0.3187588155269623,
+			0.461810439825058,
+			0.8332463502883911
+		]
+	},
+	"collisionSphereRadius": 0.6675569415092468,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 101,
+				"triangleStart": 0,
+				"triangleCount": 270,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.03928576782345772,
+					0.001184990513138473,
+					0.1004907414317131
+				],
+				"sortCenterPosition": [
+					0.03412482142448425,
+					0.001332893967628479,
+					0.08413930982351303
+				],
+				"sortRadius": 0.5177883505821228
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 101,
+				"vertexCount": 26,
+				"triangleStart": 270,
+				"triangleCount": 108,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.04868520051240921,
+					0.032837025821208954,
+					0.16471534967422485
+				],
+				"sortCenterPosition": [
+					0.06276743859052658,
+					0.009199514985084534,
+					0.17363734543323517
+				],
+				"sortRadius": 0.3711114525794983
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 127,
+				"vertexCount": 403,
+				"triangleStart": 378,
+				"triangleCount": 1425,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.015948213636875153,
+					-0.009823247790336609,
+					0.7076916694641113
+				],
+				"sortCenterPosition": [
+					0.0020750313997268677,
+					-0.027610957622528076,
+					0.7073692083358765
+				],
+				"sortRadius": 0.6149252653121948
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 16406,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/bonsei/pa_bonsei_tree_0200.skin",
+		"fileDataID": 526363
+	}
+}

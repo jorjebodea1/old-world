@@ -1,0 +1,392 @@
+{
+	"fileType": "m2",
+	"fileDataID": 519135,
+	"fileName": "world/expansion04/doodads/pandaren/stone_fence/pa_stone_fence_post_02.m2",
+	"internalName": "PA_Stone_Fence_Post_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/stone_fence/pa_fence_post_02.blp",
+			"fileNameExternal": "pa_fence_post_02.png",
+			"mtlName": "mat_pa_fence_post_02",
+			"flags": 0,
+			"fileDataID": 538226
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/worgen/walls/worgen_flame_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion03\\doodads\\worgen\\walls\\worgen_flame_01.png",
+			"mtlName": "mat_worgen_flame_01",
+			"flags": 0,
+			"fileDataID": 303677
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/worgen/walls/worgen_glow_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion03\\doodads\\worgen\\walls\\worgen_glow_01.png",
+			"mtlName": "mat_worgen_glow_01",
+			"flags": 0,
+			"fileDataID": 303679
+		},
+		{
+			"fileNameInternal": "world/expansion03/doodads/worgen/walls/worgen_glass_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion03\\doodads\\worgen\\walls\\worgen_glass_01.png",
+			"mtlName": "mat_worgen_glass_01",
+			"flags": 0,
+			"fileDataID": 303675
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 1,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		3,
+		1,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 1,
+			"timestamps": [
+				[
+					0,
+					100,
+					200,
+					267,
+					333,
+					467,
+					567,
+					667,
+					733,
+					900,
+					1267,
+					1367,
+					2500
+				],
+				[
+					0,
+					266,
+					433,
+					500,
+					600,
+					766,
+					833,
+					966,
+					1066,
+					1266,
+					1566,
+					1933,
+					2500
+				]
+			],
+			"values": [
+				[
+					32767,
+					32767,
+					11468,
+					32767,
+					8192,
+					32767,
+					6553,
+					32767,
+					15073,
+					29490,
+					12451,
+					32767,
+					32767
+				],
+				[
+					32767,
+					32767,
+					11468,
+					32767,
+					8192,
+					32767,
+					6553,
+					32767,
+					15073,
+					29490,
+					12451,
+					32767,
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7180265784263611,
+			-0.7180262207984924,
+			-0.386756956577301
+		],
+		"max": [
+			0.7180264592170715,
+			0.7180268168449402,
+			2.62674880027771
+		]
+	},
+	"boundingSphereRadius": 1.7823385000228882,
+	"collisionBox": {
+		"min": [
+			-0.9022815823554993,
+			-0.9045903086662292,
+			-0.3944644033908844
+		],
+		"max": [
+			0.9022815823554993,
+			0.8999727964401245,
+			2.6648037433624268
+		]
+	},
+	"collisionSphereRadius": 1.6117948293685913,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 611,
+				"triangleStart": 0,
+				"triangleCount": 1554,
+				"boneCount": 6,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.004080671817064285,
+					-0.0018968475051224232,
+					1.847936987876892
+				],
+				"sortCenterPosition": [
+					-5.960464477539063e-8,
+					2.980232238769531e-7,
+					1.1199959516525269
+				],
+				"sortRadius": 1.5737926959991455
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 611,
+				"vertexCount": 23,
+				"triangleStart": 1554,
+				"triangleCount": 69,
+				"boneCount": 6,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0018111151875928044,
+					-0.013024379499256611,
+					1.605366587638855
+				],
+				"sortCenterPosition": [
+					0.008582215756177902,
+					-0.002736959606409073,
+					1.598429799079895
+				],
+				"sortRadius": 0.15695655345916748
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 634,
+				"vertexCount": 8,
+				"triangleStart": 1623,
+				"triangleCount": 18,
+				"boneCount": 6,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 5,
+				"centerPosition": [
+					-0.0024473280645906925,
+					0.007360092364251614,
+					1.7909057140350342
+				],
+				"sortCenterPosition": [
+					-0.0017472370527684689,
+					0.006259486079216003,
+					1.7907860279083252
+				],
+				"sortRadius": 0.0930677205324173
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 642,
+				"vertexCount": 8,
+				"triangleStart": 1641,
+				"triangleCount": 12,
+				"boneCount": 6,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					-0.0021473602391779423,
+					-0.0011880474630743265,
+					1.7512446641921997
+				],
+				"sortCenterPosition": [
+					-0.001837323885411024,
+					-0.007791690994054079,
+					1.7511647939682007
+				],
+				"sortRadius": 0.049412187188863754
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 650,
+				"vertexCount": 82,
+				"triangleStart": 1653,
+				"triangleCount": 156,
+				"boneCount": 6,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0027175424620509148,
+					0.000007753328645776492,
+					1.763540267944336
+				],
+				"sortCenterPosition": [
+					0.0027175424620509148,
+					0.000007753328645776492,
+					1.763540267944336
+				],
+				"sortRadius": 0.40505632758140564
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 1,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 5,
+				"shaderID": 16,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 0,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 4,
+				"flags2": 4,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/stone_fence/pa_stone_fence_post_0200.skin",
+		"fileDataID": 519136
+	}
+}

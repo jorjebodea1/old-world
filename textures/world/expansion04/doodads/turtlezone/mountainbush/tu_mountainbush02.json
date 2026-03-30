@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 514778,
+	"fileName": "world/expansion04/doodads/turtlezone/mountainbush/tu_mountainbush02.m2",
+	"internalName": "TU_MountainBush02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/mountainbush/tu_mountainbush.blp",
+			"fileNameExternal": "tu_mountainbush.png",
+			"mtlName": "mat_tu_mountainbush",
+			"flags": 0,
+			"fileDataID": 514775
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-4.507803440093994,
+			-3.84385347366333,
+			-0.31878238916397095
+		],
+		"max": [
+			3.0359270572662354,
+			4.489411354064941,
+			3.5521743297576904
+		]
+	},
+	"boundingSphereRadius": 5.193403244018555,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 19,
+				"triangleStart": 0,
+				"triangleCount": 36,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.2065831422805786,
+					-0.10232394188642502,
+					1.9962137937545776
+				],
+				"sortCenterPosition": [
+					0.2065831422805786,
+					-0.10232394188642502,
+					1.9962137937545776
+				],
+				"sortRadius": 4.987245082855225
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/mountainbush/tu_mountainbush0200.skin",
+		"fileDataID": 514779
+	}
+}

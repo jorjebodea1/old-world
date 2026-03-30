@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 538827,
+	"fileName": "world/expansion04/doodads/pandaren/table/pa_table_02.m2",
+	"internalName": "PA_Table_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/table/pa_table_02.blp",
+			"fileNameExternal": "pa_table_02.png",
+			"mtlName": "mat_pa_table_02",
+			"flags": 0,
+			"fileDataID": 538826
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.8795793652534485,
+			-1.7100416421890259,
+			-0.012870483100414276
+		],
+		"max": [
+			0.8793156147003174,
+			1.7100636959075928,
+			1.2726792097091675
+		]
+	},
+	"boundingSphereRadius": 1.9192177057266235,
+	"collisionBox": {
+		"min": [
+			-0.8808067440986633,
+			-1.7203930616378784,
+			0
+		],
+		"max": [
+			0.8941993713378906,
+			1.7286038398742676,
+			1.2777835130691528
+		]
+	},
+	"collisionSphereRadius": 1.9388201236724854,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 769,
+				"triangleStart": 0,
+				"triangleCount": 1590,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0035239604767411947,
+					0.0005579006974585354,
+					0.5884227752685547
+				],
+				"sortCenterPosition": [
+					-0.00013187527656555176,
+					0.000011026859283447266,
+					0.6299043893814087
+				],
+				"sortRadius": 1.9192177057266235
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/table/pa_table_0200.skin",
+		"fileDataID": 538828
+	}
+}

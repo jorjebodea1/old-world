@@ -1,0 +1,6 @@
+newmtl mat_glowball
+illum 1
+map_Kd ..\..\..\..\expansion02\doodads\dalaran\glowball.png
+newmtl mat_shrine_props
+illum 1
+map_Kd shrine_props.png

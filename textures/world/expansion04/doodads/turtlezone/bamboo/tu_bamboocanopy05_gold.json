@@ -1,0 +1,187 @@
+{
+	"fileType": "m2",
+	"fileDataID": 519861,
+	"fileName": "world/expansion04/doodads/turtlezone/bamboo/tu_bamboocanopy05_gold.m2",
+	"internalName": "TU_BambooCanopy05_Gold",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/bamboo/tu_bambootrunks_01.blp",
+			"fileNameExternal": "tu_bambootrunks_01.png",
+			"mtlName": "mat_tu_bambootrunks_01",
+			"flags": 3,
+			"fileDataID": 537067
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/bamboo/tu_bamboogradient_01.blp",
+			"fileNameExternal": "tu_bamboogradient_01.png",
+			"mtlName": "mat_tu_bamboogradient_01",
+			"flags": 3,
+			"fileDataID": 537066
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/bamboo/bamboocluster03.blp",
+			"fileNameExternal": "bamboocluster03.png",
+			"mtlName": "mat_bamboocluster03",
+			"flags": 0,
+			"fileDataID": 537065
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-23.431087493896484,
+			-19.841659545898438,
+			-2.3821215629577637
+		],
+		"max": [
+			18.58905792236328,
+			20.125207901000977,
+			20.368793487548828
+		]
+	},
+	"boundingSphereRadius": 23.627830505371094,
+	"collisionBox": {
+		"min": [
+			-1.049432396888733,
+			-0.7934191226959229,
+			-2.3821215629577637
+		],
+		"max": [
+			0.5602002143859863,
+			0.9206719994544983,
+			16.273765563964844
+		]
+	},
+	"collisionSphereRadius": 9.357954025268555,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 113,
+				"triangleStart": 0,
+				"triangleCount": 498,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.25467178225517273,
+					0.19605182111263275,
+					4.737053871154785
+				],
+				"sortCenterPosition": [
+					-0.2446160912513733,
+					0.06362643837928772,
+					6.945821762084961
+				],
+				"sortRadius": 9.357954978942871
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 113,
+				"vertexCount": 847,
+				"triangleStart": 498,
+				"triangleCount": 2103,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.6694551110267639,
+					0.7373016476631165,
+					15.264108657836914
+				],
+				"sortCenterPosition": [
+					-2.4210147857666016,
+					0.14177417755126953,
+					15.083677291870117
+				],
+				"sortRadius": 22.292627334594727
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 16390,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 16406,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/bamboo/tu_bamboocanopy05_gold00.skin",
+		"fileDataID": 519862
+	}
+}

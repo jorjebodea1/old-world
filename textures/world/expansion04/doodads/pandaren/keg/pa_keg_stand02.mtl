@@ -1,0 +1,3 @@
+newmtl mat_pa_keg_stand
+illum 1
+map_Kd pa_keg_stand.png

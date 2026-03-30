@@ -1,0 +1,242 @@
+{
+	"fileType": "m2",
+	"fileDataID": 533012,
+	"fileName": "world/dungeon/easttemple/scroll/pa_scroll_long_02.m2",
+	"internalName": "PA_Scroll_Long_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/dungeon/easttemple/scroll/pa_scroll_long_01.blp",
+			"fileNameExternal": "pa_scroll_long_01.png",
+			"mtlName": "mat_pa_scroll_long_01",
+			"flags": 0,
+			"fileDataID": 533008
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		},
+		{
+			"fileNameInternal": "world/dungeon/easttemple/scroll/pa_scroll_long_02.blp",
+			"fileNameExternal": "pa_scroll_long_02.png",
+			"mtlName": "mat_pa_scroll_long_02",
+			"flags": 0,
+			"fileDataID": 533009
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/drowningsigns/pa_drowning_sign_crane_tex.blp",
+			"fileNameExternal": "..\\..\\..\\expansion04\\doodads\\pandaren\\drowningsigns\\pa_drowning_sign_crane_tex.png",
+			"mtlName": "mat_pa_drowning_sign_crane_tex",
+			"flags": 3,
+			"fileDataID": 531395
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.45276525616645813,
+			-0.37236663699150085,
+			-1.9651442766189575
+		],
+		"max": [
+			0.2280985563993454,
+			0.37462833523750305,
+			1.4233262538909912
+		]
+	},
+	"boundingSphereRadius": 1.7280985116958618,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 323,
+				"triangleStart": 0,
+				"triangleCount": 1218,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.10315964370965958,
+					-0.001352120889350772,
+					0.9284388422966003
+				],
+				"sortCenterPosition": [
+					-0.19551807641983032,
+					0.0011308491230010986,
+					1.0641772747039795
+				],
+				"sortRadius": 0.5229886770248413
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 323,
+				"vertexCount": 154,
+				"triangleStart": 1218,
+				"triangleCount": 522,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.0018287955317646265,
+					-0.0004457301110960543,
+					-1.284965991973877
+				],
+				"sortCenterPosition": [
+					0.03563980758190155,
+					0.005622304975986481,
+					-0.5117049813270569
+				],
+				"sortRadius": 1.4734783172607422
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 477,
+				"vertexCount": 163,
+				"triangleStart": 1740,
+				"triangleCount": 528,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.049653105437755585,
+					0.0039743296802043915,
+					0.23280301690101624
+				],
+				"sortCenterPosition": [
+					-0.05557027831673622,
+					0.009921818971633911,
+					0.06386375427246094
+				],
+				"sortRadius": 0.8434356451034546
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/dungeon/easttemple/scroll/pa_scroll_long_0200.skin",
+		"fileDataID": 533013
+	}
+}

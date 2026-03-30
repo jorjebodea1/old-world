@@ -1,0 +1,6 @@
+newmtl mat_vfw_cascadetreegold_canopy
+illum 1
+map_Kd vfw_cascadetreegold_canopy.png
+newmtl mat_vfw_cascadetreegold_trunk
+illum 1
+map_Kd vfw_cascadetreegold_trunk.png

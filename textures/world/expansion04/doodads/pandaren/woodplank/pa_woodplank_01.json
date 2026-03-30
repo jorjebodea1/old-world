@@ -1,0 +1,136 @@
+{
+	"fileType": "m2",
+	"fileDataID": 530257,
+	"fileName": "world/expansion04/doodads/pandaren/woodplank/pa_woodplank_01.m2",
+	"internalName": "PA_WoodPlank_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/ladder/pa_farmtools_02.blp",
+			"fileNameExternal": "..\\ladder\\pa_farmtools_02.png",
+			"mtlName": "mat_pa_farmtools_02",
+			"flags": 0,
+			"fileDataID": 530125
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/woodplank/wood.blp",
+			"fileNameExternal": "wood.png",
+			"mtlName": "mat_wood",
+			"flags": 0,
+			"fileDataID": 530256
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.14757411181926727,
+			-0.6043674349784851,
+			-0.011128263548016548
+		],
+		"max": [
+			0.14691348373889923,
+			0.48828548192977905,
+			0.1090979129076004
+		]
+	},
+	"boundingSphereRadius": 0.5690052509307861,
+	"collisionBox": {
+		"min": [
+			-0.1444479525089264,
+			-0.6061323285102844,
+			-0.005558942910283804
+		],
+		"max": [
+			0.14757409691810608,
+			0.49752235412597656,
+			0.09490025043487549
+		]
+	},
+	"collisionSphereRadius": 0.57302325963974,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 113,
+				"triangleStart": 0,
+				"triangleCount": 294,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0023770309053361416,
+					0.047529347240924835,
+					0.05907394737005234
+				],
+				"sortCenterPosition": [
+					-0.000330314040184021,
+					-0.05804097652435303,
+					0.0489848256111145
+				],
+				"sortRadius": 0.5690052509307861
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/woodplank/pa_woodplank_0100.skin",
+		"fileDataID": 530258
+	}
+}

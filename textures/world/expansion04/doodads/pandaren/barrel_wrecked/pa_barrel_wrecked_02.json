@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 525034,
+	"fileName": "world/expansion04/doodads/pandaren/barrel_wrecked/pa_barrel_wrecked_02.m2",
+	"internalName": "PA_Barrel_Wrecked_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/barrel_wrecked/pa_barrel_wrecked_01.blp",
+			"fileNameExternal": "pa_barrel_wrecked_01.png",
+			"mtlName": "mat_pa_barrel_wrecked_01",
+			"flags": 0,
+			"fileDataID": 525031
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.4909687042236328,
+			-0.9821913838386536,
+			-0.001293182373046875
+		],
+		"max": [
+			0.6247145533561707,
+			1.5332940816879272,
+			1.0342955589294434
+		]
+	},
+	"boundingSphereRadius": 1.4399350881576538,
+	"collisionBox": {
+		"min": [
+			-1.6007554531097412,
+			-0.9739524126052856,
+			0
+		],
+		"max": [
+			0.6589694023132324,
+			1.544871211051941,
+			1.0278067588806152
+		]
+	},
+	"collisionSphereRadius": 1.7682770490646362,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 883,
+				"triangleStart": 0,
+				"triangleCount": 1674,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.2202959656715393,
+					0.07268696278333664,
+					0.3048853278160095
+				],
+				"sortCenterPosition": [
+					-0.4331270754337311,
+					0.27555134892463684,
+					0.5165011882781982
+				],
+				"sortRadius": 1.4399350881576538
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/barrel_wrecked/pa_barrel_wrecked_0200.skin",
+		"fileDataID": 525035
+	}
+}

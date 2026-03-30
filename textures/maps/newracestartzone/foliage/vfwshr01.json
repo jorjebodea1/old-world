@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 524518,
+	"fileName": "world/nodxt/detail/vfwshr01.m2",
+	"internalName": "VFWshr01",
+	"textures": [
+		{
+			"fileNameInternal": "world/nodxt/detail/vfwshrub01.blp",
+			"fileNameExternal": "..\\..\\..\\world\\nodxt\\detail\\vfwshrub01.png",
+			"mtlName": "mat_vfwshrub01",
+			"flags": 3,
+			"fileDataID": 524493
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.5466613173484802,
+			-1.0643160343170166,
+			-0.12453439831733704
+		],
+		"max": [
+			0.6333548426628113,
+			1.0326210260391235,
+			0.5746589303016663
+		]
+	},
+	"boundingSphereRadius": 1.1263427734375,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 14,
+				"triangleStart": 0,
+				"triangleCount": 18,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.040964819490909576,
+					-0.027612408623099327,
+					0.16928520798683167
+				],
+				"sortCenterPosition": [
+					0.04334676265716553,
+					-0.015847504138946533,
+					0.2250622659921646
+				],
+				"sortRadius": 1.1263427734375
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/nodxt/detail/vfwshr0100.skin",
+		"fileDataID": 524519
+	}
+}

@@ -1,0 +1,12 @@
+newmtl mat_waterfall02
+illum 1
+map_Kd ..\..\..\..\generic\passivedoodads\waterfalls\waterfall02.png
+newmtl mat_alphacloud
+illum 1
+map_Kd ..\..\..\..\..\spells\alphacloud.png
+newmtl mat_waterwake3
+illum 1
+map_Kd ..\..\..\..\..\spells\waterwake3.png
+newmtl mat_genericglow2_32
+illum 1
+map_Kd ..\..\..\..\..\creature\spells\genericglow2_32.png

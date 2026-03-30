@@ -1,0 +1,6 @@
+newmtl mat_pa_wood_fence_tex_01
+illum 1
+map_Kd ..\wood_fence\pa_wood_fence_tex_01.png
+newmtl mat_pa_drowning_sign_skunk_tex
+illum 1
+map_Kd pa_drowning_sign_skunk_tex.png

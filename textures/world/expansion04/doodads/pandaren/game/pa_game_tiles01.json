@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 571954,
+	"fileName": "world/expansion04/doodads/pandaren/game/pa_game_tiles01.m2",
+	"internalName": "PA_Game_Tiles01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/game/pa_game_tiles.blp",
+			"fileNameExternal": "pa_game_tiles.png",
+			"mtlName": "mat_pa_game_tiles",
+			"flags": 0,
+			"fileDataID": 571953
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shoulder/orbreflect02.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shoulder\\orbreflect02.png",
+			"mtlName": "mat_orbreflect02",
+			"flags": 0,
+			"fileDataID": 143376
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7974075078964233,
+			-0.7998630404472351,
+			-0.012884370051324368
+		],
+		"max": [
+			0.7974074482917786,
+			1.056555151939392,
+			0.4774129092693329
+		]
+	},
+	"boundingSphereRadius": 0.9984335899353027,
+	"collisionBox": {
+		"min": [
+			-0.798808753490448,
+			-0.8099657893180847,
+			0
+		],
+		"max": [
+			0.8062820434570312,
+			1.0268014669418335,
+			0.47451454401016235
+		]
+	},
+	"collisionSphereRadius": 1.026037335395813,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1057,
+				"triangleStart": 0,
+				"triangleCount": 2064,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.07451841235160828,
+					0.1583656668663025,
+					0.18185973167419434
+				],
+				"sortCenterPosition": [
+					-0.07451841235160828,
+					0.1583656668663025,
+					0.18185973167419434
+				],
+				"sortRadius": 0.9668915867805481
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/game/pa_game_tiles0100.skin",
+		"fileDataID": 571955
+	}
+}

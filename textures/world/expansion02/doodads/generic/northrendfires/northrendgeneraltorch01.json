@@ -1,0 +1,301 @@
+{
+	"fileType": "m2",
+	"fileDataID": 195044,
+	"fileName": "world/expansion02/doodads/generic/northrend fires/northrendgeneraltorch01.m2",
+	"internalName": "NorthrendGeneralTorch01",
+	"textures": [
+		{
+			"fileNameInternal": "world/generic/passivedoodads/lights/club_1h_torch_a_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\passivedoodads\\lights\\club_1h_torch_a_01.png",
+			"mtlName": "mat_club_1h_torch_a_01",
+			"flags": 3,
+			"fileDataID": 199814
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/flamelicksmall.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\flamelicksmall.png",
+			"mtlName": "mat_flamelicksmall",
+			"flags": 0,
+			"fileDataID": 145513
+		},
+		{
+			"fileNameInternal": "world/expansion02/doodads/howlingfjord/firefx/t_vfx_fire_anim02_128_full_desat.blp",
+			"fileNameExternal": "..\\..\\howlingfjord\\firefx\\t_vfx_fire_anim02_128_full_desat.png",
+			"mtlName": "mat_t_vfx_fire_anim02_128_full_desat",
+			"flags": 3,
+			"fileDataID": 195953
+		},
+		{
+			"fileNameInternal": "spells/t_vfx_door_black.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\spells\\t_vfx_door_black.png",
+			"mtlName": "mat_t_vfx_door_black",
+			"flags": 3,
+			"fileDataID": 167016
+		},
+		{
+			"fileNameInternal": "world/generic/passivedoodads/lights/gloworange32.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\passivedoodads\\lights\\gloworange32.png",
+			"mtlName": "mat_gloworange32",
+			"flags": 0,
+			"fileDataID": 199822
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 21,
+			"blendingMode": 4
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		2,
+		3,
+		4
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					16056
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						2492
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							0.9999999403953552,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		65535,
+		0,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.36533260345458984,
+			-0.451241135597229,
+			-0.04691695049405098
+		],
+		"max": [
+			0.4153013229370117,
+			0.4589667320251465,
+			2.6807193756103516
+		]
+	},
+	"boundingSphereRadius": 1.6508437395095825,
+	"collisionBox": {
+		"min": [
+			-0.08102402836084366,
+			-0.09144405275583267,
+			-0.04639323055744171
+		],
+		"max": [
+			0.09423156082630157,
+			0.09042494744062424,
+			2.1691105365753174
+		]
+	},
+	"collisionSphereRadius": 1.1149269342422485,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 32,
+				"triangleStart": 0,
+				"triangleCount": 90,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.004281751811504364,
+					-0.001070238184183836,
+					1.6638681888580322
+				],
+				"sortCenterPosition": [
+					0.004559911787509918,
+					0.0024534016847610474,
+					1.0578292608261108
+				],
+				"sortRadius": 1.1098594665527344
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 32,
+				"vertexCount": 42,
+				"triangleStart": 90,
+				"triangleCount": 180,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.013637487776577473,
+					-0.0012521303724497557,
+					2.2293508052825928
+				],
+				"sortCenterPosition": [
+					-0.0029295310378074646,
+					-0.014590423554182053,
+					2.2532126903533936
+				],
+				"sortRadius": 0.3742288053035736
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 74,
+				"vertexCount": 4,
+				"triangleStart": 270,
+				"triangleCount": 6,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					0.37295931577682495,
+					-0.010699279606342316,
+					2.1307623386383057
+				],
+				"sortCenterPosition": [
+					0.37295931577682495,
+					-0.010699272155761719,
+					2.1307623386383057
+				],
+				"sortRadius": 0.4311031103134155
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 136,
+				"priority": 1,
+				"shaderID": 16404,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 1
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/generic/northrend fires/northrendgeneraltorch0100.skin",
+		"fileDataID": 498312
+	}
+}

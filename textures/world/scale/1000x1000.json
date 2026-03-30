@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 219356,
+	"fileName": "world/scale/1000x1000.m2",
+	"internalName": "1000x1000",
+	"textures": [
+		{
+			"fileNameInternal": "world/scale/1_null.blp",
+			"fileNameExternal": "1_null.png",
+			"mtlName": "mat_1_null",
+			"flags": 0,
+			"fileDataID": 219358
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-13.888899803161621,
+			-13.888899803161621,
+			0
+		],
+		"max": [
+			13.888899803161621,
+			13.888899803161621,
+			27.777799606323242
+		]
+	},
+	"boundingSphereRadius": 24.0562801361084,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 24,
+				"triangleStart": 0,
+				"triangleCount": 36,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-2.384185791015625e-7,
+					-2.384185791015625e-7,
+					13.888899803161621
+				],
+				"sortCenterPosition": [
+					0,
+					0,
+					13.888899803161621
+				],
+				"sortRadius": 24.0562801361084
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/scale/1000x100000.skin",
+		"fileDataID": 509742
+	}
+}

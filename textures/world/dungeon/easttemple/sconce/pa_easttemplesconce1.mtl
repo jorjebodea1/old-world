@@ -1,0 +1,12 @@
+newmtl mat_pa_lantern_paper_01
+illum 1
+map_Kd pa_lantern_paper_01.png
+newmtl mat_pa_drowning_sign_crane_tex
+illum 1
+map_Kd pa_drowning_sign_crane_tex.png
+newmtl mat_t_vfx_fire_anim02_128_full_desat
+illum 1
+map_Kd t_vfx_fire_anim02_128_full_desat.png
+newmtl mat_t_vfx_door_black
+illum 1
+map_Kd t_vfx_door_black.png

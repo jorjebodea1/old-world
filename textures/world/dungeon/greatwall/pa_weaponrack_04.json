@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 536491,
+	"fileName": "world/dungeon/greatwall/pa_weaponrack_04.m2",
+	"internalName": "PA_weaponRack_04",
+	"textures": [
+		{
+			"fileNameInternal": "world/dungeon/greatwall/pa_weaponrack_04.blp",
+			"fileNameExternal": "pa_weaponrack_04.png",
+			"mtlName": "mat_pa_weaponrack_04",
+			"flags": 0,
+			"fileDataID": 536488
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/chromereflect.blp",
+			"fileNameExternal": "..\\..\\..\\item\\objectcomponents\\weapon\\chromereflect.png",
+			"mtlName": "mat_chromereflect",
+			"flags": 0,
+			"fileDataID": 145297
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.2134222835302353,
+			-0.9996733069419861,
+			-0.0026069891173392534
+		],
+		"max": [
+			1.043789267539978,
+			0.9996731281280518,
+			1.6194592714309692
+		]
+	},
+	"boundingSphereRadius": 1.285602331161499,
+	"collisionBox": {
+		"min": [
+			-0.1176529973745346,
+			-1.0074775218963623,
+			0
+		],
+		"max": [
+			1.0307260751724243,
+			1.0074775218963623,
+			1.6542396545410156
+		]
+	},
+	"collisionSphereRadius": 1.4243707656860352,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1228,
+				"triangleStart": 0,
+				"triangleCount": 2652,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.1426774263381958,
+					-1.1382157083517086e-7,
+					0.7799667716026306
+				],
+				"sortCenterPosition": [
+					0.41518348455429077,
+					-8.940696716308594e-8,
+					0.8084261417388916
+				],
+				"sortRadius": 1.285602331161499
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/dungeon/greatwall/pa_weaponrack_0400.skin",
+		"fileDataID": 536492
+	}
+}

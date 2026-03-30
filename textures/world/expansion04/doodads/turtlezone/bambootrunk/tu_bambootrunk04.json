@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 516703,
+	"fileName": "world/expansion04/doodads/turtlezone/bambootrunk/tu_bambootrunk04.m2",
+	"internalName": "TU_BambooTrunk04",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/bamboo/tu_bambooa.blp",
+			"fileNameExternal": "..\\bamboo\\tu_bambooa.png",
+			"mtlName": "mat_tu_bambooa",
+			"flags": 3,
+			"fileDataID": 531704
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.9600622653961182,
+			-0.807111918926239,
+			-4.937599182128906
+		],
+		"max": [
+			0.8170245885848999,
+			0.9407450556755066,
+			35.90996170043945
+		]
+	},
+	"boundingSphereRadius": 20.4423770904541,
+	"collisionBox": {
+		"min": [
+			-0.71965491771698,
+			-0.8113102316856384,
+			-4.911984443664551
+		],
+		"max": [
+			0.8212197422981262,
+			0.6088398694992065,
+			35.91078567504883
+		]
+	},
+	"collisionSphereRadius": 20.4173641204834,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 53,
+				"triangleStart": 0,
+				"triangleCount": 204,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.21555288136005402,
+					-0.07452918589115143,
+					14.161730766296387
+				],
+				"sortCenterPosition": [
+					-0.07151883840560913,
+					0.06681656837463379,
+					15.486181259155273
+				],
+				"sortRadius": 20.4423770904541
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/bambootrunk/tu_bambootrunk0400.skin",
+		"fileDataID": 516704
+	}
+}

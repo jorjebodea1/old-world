@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 243256,
+	"fileName": "world/expansion02/doodads/dalaran/robe_mage_b_01.m2",
+	"internalName": "Robe_Mage_B_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/dalaran/robe_b_01.blp",
+			"fileNameExternal": "robe_b_01.png",
+			"mtlName": "mat_robe_b_01",
+			"flags": 0,
+			"fileDataID": 243254
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.24813716113567352,
+			-0.3387424349784851,
+			-0.0025411942042410374
+		],
+		"max": [
+			0.08788860589265823,
+			0.33874252438545227,
+			1.7900826930999756
+		]
+	},
+	"boundingSphereRadius": 0.9557108283042908,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 326,
+				"triangleStart": 0,
+				"triangleCount": 1308,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.028902463614940643,
+					-0.00008202746539609507,
+					1.2504477500915527
+				],
+				"sortCenterPosition": [
+					-0.08012427389621735,
+					4.470348358154297e-8,
+					0.8937707543373108
+				],
+				"sortRadius": 0.9557108283042908
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/dalaran/robe_mage_b_0100.skin",
+		"fileDataID": 497491
+	}
+}

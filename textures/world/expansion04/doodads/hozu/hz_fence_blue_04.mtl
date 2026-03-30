@@ -1,0 +1,6 @@
+newmtl mat_hz_bamboo_blue
+illum 1
+map_Kd hz_bamboo_blue.png
+newmtl mat_hz_cageparts
+illum 1
+map_Kd hz_cageparts.png

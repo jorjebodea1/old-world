@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521009,
+	"fileName": "world/expansion04/doodads/turtlezone/cobblestone/tu_cobblestone03.m2",
+	"internalName": "TU_CobbleStone03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/cobblestone/tu_road_01.blp",
+			"fileNameExternal": "tu_road_01.png",
+			"mtlName": "mat_tu_road_01",
+			"flags": 3,
+			"fileDataID": 522068
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3690054714679718,
+			-0.5863780379295349,
+			-0.07032952457666397
+		],
+		"max": [
+			0.30073925852775574,
+			0.6694880723953247,
+			0.07032952457666397
+		]
+	},
+	"boundingSphereRadius": 0.6582927703857422,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 39,
+				"triangleStart": 0,
+				"triangleCount": 144,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.03293340280652046,
+					0.0450383722782135,
+					-0.021930767223238945
+				],
+				"sortCenterPosition": [
+					-0.03413310647010803,
+					0.0415550172328949,
+					0
+				],
+				"sortRadius": 0.6582927703857422
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/cobblestone/tu_cobblestone0300.skin",
+		"fileDataID": 521010
+	}
+}

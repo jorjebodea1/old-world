@@ -1,0 +1,9 @@
+newmtl mat_pa_brewinggrains_buckets_01
+illum 1
+map_Kd pa_brewinggrains_buckets_01.png
+newmtl mat_armorreflect4
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\shield\armorreflect4.png
+newmtl mat_pa_brewinggrains_01
+illum 1
+map_Kd pa_brewinggrains_01.png

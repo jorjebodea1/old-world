@@ -1,0 +1,3 @@
+newmtl mat_pa_brewinggrains_01
+illum 1
+map_Kd pa_brewinggrains_01.png

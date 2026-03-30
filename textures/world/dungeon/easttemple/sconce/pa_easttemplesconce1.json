@@ -1,0 +1,473 @@
+{
+	"fileType": "m2",
+	"fileDataID": 528744,
+	"fileName": "world/dungeon/easttemple/sconce/pa_easttemplesconce1.m2",
+	"internalName": "PA_EastTempleSconce1",
+	"textures": [
+		{
+			"fileNameInternal": "world/dungeon/easttemple/sconce/pa_lantern_paper_01.blp",
+			"fileNameExternal": "pa_lantern_paper_01.png",
+			"mtlName": "mat_pa_lantern_paper_01",
+			"flags": 3,
+			"fileDataID": 538519
+		},
+		{
+			"fileNameInternal": "world/dungeon/easttemple/sconce/pa_drowning_sign_crane_tex.blp",
+			"fileNameExternal": "pa_drowning_sign_crane_tex.png",
+			"mtlName": "mat_pa_drowning_sign_crane_tex",
+			"flags": 3,
+			"fileDataID": 1043584
+		},
+		{
+			"fileNameInternal": "world/dungeon/easttemple/sconce/t_vfx_fire_anim02_128_full_desat.blp",
+			"fileNameExternal": "t_vfx_fire_anim02_128_full_desat.png",
+			"mtlName": "mat_t_vfx_fire_anim02_128_full_desat",
+			"flags": 3,
+			"fileDataID": 1043585
+		},
+		{
+			"fileNameInternal": "world/dungeon/easttemple/sconce/t_vfx_door_black.blp",
+			"fileNameExternal": "t_vfx_door_black.png",
+			"mtlName": "mat_t_vfx_door_black",
+			"flags": 3,
+			"fileDataID": 1043586
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		},
+		{
+			"flags": 4,
+			"blendingMode": 1
+		},
+		{
+			"flags": 21,
+			"blendingMode": 4
+		},
+		{
+			"flags": 21,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.9372549653053284,
+							0.6705882549285889,
+							0.09803922474384308
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		},
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.9372549653053284,
+							0.6705882549285889,
+							0.09803922474384308
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						833
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							0.9999999403953552,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		},
+		{
+			"translation": {
+				"globalSeq": 1,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						1500
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							0.9999999403953552,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		65535,
+		0,
+		65535,
+		1,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.84162837266922,
+			-2.361457586288452,
+			-4.3778815269470215
+		],
+		"max": [
+			0.8466185331344604,
+			2.3574860095977783,
+			6.913970947265625
+		]
+	},
+	"boundingSphereRadius": 5.6519293785095215,
+	"collisionBox": {
+		"min": [
+			-0.8368571400642395,
+			-0.8404508233070374,
+			-4.381463050842285
+		],
+		"max": [
+			0.8619354367256165,
+			0.8332539796829224,
+			7.017220497131348
+		]
+	},
+	"collisionSphereRadius": 5.709062099456787,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 1265,
+				"triangleStart": 0,
+				"triangleCount": 2718,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.01393323577940464,
+					0.006960419937968254,
+					1.0477910041809082
+				],
+				"sortCenterPosition": [
+					-0.01393323577940464,
+					0.006960419937968254,
+					1.0477910041809082
+				],
+				"sortRadius": 2.036614418029785
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 1265,
+				"vertexCount": 28,
+				"triangleStart": 2718,
+				"triangleCount": 78,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0016197360819205642,
+					-0.0016125558177009225,
+					0.7927685379981995
+				],
+				"sortCenterPosition": [
+					0.00249481201171875,
+					-0.001985788345336914,
+					0.5627415776252747
+				],
+				"sortRadius": 3.219923734664917
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 1293,
+				"vertexCount": 199,
+				"triangleStart": 2796,
+				"triangleCount": 705,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.004981675650924444,
+					-0.022136405110359192,
+					-1.084488868713379
+				],
+				"sortCenterPosition": [
+					0.028012201189994812,
+					0.001091286540031433,
+					1.2680447101593018
+				],
+				"sortRadius": 5.652725696563721
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 1492,
+				"vertexCount": 56,
+				"triangleStart": 3501,
+				"triangleCount": 216,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.09039945900440216,
+					0.003033444518223405,
+					0.748121976852417
+				],
+				"sortCenterPosition": [
+					-0.021387070417404175,
+					-0.007290959358215332,
+					0.8160073161125183
+				],
+				"sortRadius": 0.8691872358322144
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 1548,
+				"vertexCount": 56,
+				"triangleStart": 3717,
+				"triangleCount": 216,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.002866083523258567,
+					-0.11893006414175034,
+					0.46415650844573975
+				],
+				"sortCenterPosition": [
+					0.0006929934024810791,
+					-0.03543601930141449,
+					0.4680982828140259
+				],
+				"sortRadius": 0.6335414052009583
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 138,
+				"priority": 1,
+				"shaderID": 16404,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 0,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 1
+			},
+			{
+				"flags": 138,
+				"priority": 1,
+				"shaderID": 16404,
+				"skinSectionIndex": 4,
+				"flags2": 4,
+				"colorIndex": 1,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 3
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/dungeon/easttemple/sconce/pa_easttemplesconce100.skin",
+		"fileDataID": 528745
+	}
+}

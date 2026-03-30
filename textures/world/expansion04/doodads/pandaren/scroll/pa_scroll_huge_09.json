@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 535177,
+	"fileName": "world/expansion04/doodads/pandaren/scroll/pa_scroll_huge_09.m2",
+	"internalName": "PA_Scroll_Huge_09",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/scroll/pa_scroll_huge_01.blp",
+			"fileNameExternal": "pa_scroll_huge_01.png",
+			"mtlName": "mat_pa_scroll_huge_01",
+			"flags": 0,
+			"fileDataID": 535160
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.3059173822402954,
+			-0.4100930094718933,
+			0.0005518457037396729
+		],
+		"max": [
+			1.308517336845398,
+			1.4683148860931396,
+			0.7831931114196777
+		]
+	},
+	"boundingSphereRadius": 1.5050489902496338,
+	"collisionBox": {
+		"min": [
+			-1.204421043395996,
+			-0.4106992185115814,
+			0.001509586931206286
+		],
+		"max": [
+			1.221652865409851,
+			0.4067966043949127,
+			0.7333829998970032
+		]
+	},
+	"collisionSphereRadius": 1.283408522605896,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 297,
+				"triangleStart": 0,
+				"triangleCount": 1020,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.016885047778487206,
+					0.19761666655540466,
+					0.30043983459472656
+				],
+				"sortCenterPosition": [
+					0.0012999773025512695,
+					0.5291109085083008,
+					0.39187246561050415
+				],
+				"sortRadius": 1.5050491094589233
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/scroll/pa_scroll_huge_0900.skin",
+		"fileDataID": 535178
+	}
+}

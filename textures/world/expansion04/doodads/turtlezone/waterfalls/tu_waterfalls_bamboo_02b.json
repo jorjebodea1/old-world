@@ -1,0 +1,208 @@
+{
+	"fileType": "m2",
+	"fileDataID": 631722,
+	"fileName": "world/expansion04/doodads/turtlezone/waterfalls/tu_waterfalls_bamboo_02b.m2",
+	"internalName": "TU_Waterfalls_Bamboo_02b",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/waterfalls/pandawater_color_18.blp",
+			"fileNameExternal": "..\\..\\valleyoffourwinds\\waterfalls\\pandawater_color_18.png",
+			"mtlName": "mat_pandawater_color_18",
+			"flags": 3,
+			"fileDataID": 593551
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/waterfalls/pandawater_falls_top_04static_brown3.blp",
+			"fileNameExternal": "..\\..\\valleyoffourwinds\\waterfalls\\pandawater_falls_top_04static_brown3.png",
+			"mtlName": "mat_pandawater_falls_top_04static_brown3",
+			"flags": 0,
+			"fileDataID": 609064
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 336,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.3490196168422699,
+							1,
+							0.5333333611488342
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					16384
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						2333
+					]
+				],
+				"values": [
+					[
+						[
+							0,
+							0,
+							0
+						],
+						[
+							-1,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		0,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			22.921852111816406,
+			-30.616296768188477,
+			26.049070358276367
+		],
+		"max": [
+			74.75543975830078,
+			28.314453125,
+			36.69722366333008
+		]
+	},
+	"boundingSphereRadius": 39.60093688964844,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 30,
+				"triangleStart": 0,
+				"triangleCount": 120,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					37.67403030395508,
+					0.9524373412132263,
+					29.469890594482422
+				],
+				"sortCenterPosition": [
+					48.838645935058594,
+					-1.1509218215942383,
+					31.373146057128906
+				],
+				"sortRadius": 39.60093688964844
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 128,
+				"priority": 0,
+				"shaderID": 16404,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/waterfalls/tu_waterfalls_bamboo_02b00.skin",
+		"fileDataID": 631723
+	}
+}

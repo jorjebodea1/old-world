@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 537733,
+	"fileName": "world/expansion04/doodads/pandaren/mugs/pa_mug_01.m2",
+	"internalName": "PA_Mug_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/mugs/pa_mugscups_01.blp",
+			"fileNameExternal": "pa_mugscups_01.png",
+			"mtlName": "mat_pa_mugscups_01",
+			"flags": 0,
+			"fileDataID": 537732
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/orbreflectbright.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\orbreflectbright.png",
+			"mtlName": "mat_orbreflectbright",
+			"flags": 0,
+			"fileDataID": 147183
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.24380917847156525,
+			-0.24297629296779633,
+			-0.0007402641931548715
+		],
+		"max": [
+			0.24250265955924988,
+			0.5047879815101624,
+			0.521325945854187
+		]
+	},
+	"boundingSphereRadius": 0.45598945021629333,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 137,
+				"triangleStart": 0,
+				"triangleCount": 570,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.000682402343954891,
+					0.139511838555336,
+					0.23185811936855316
+				],
+				"sortCenterPosition": [
+					-0.0006532594561576843,
+					0.13090583682060242,
+					0.26029282808303833
+				],
+				"sortRadius": 0.45598945021629333
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/mugs/pa_mug_0100.skin",
+		"fileDataID": 537734
+	}
+}

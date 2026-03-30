@@ -1,0 +1,15 @@
+newmtl mat_pa_bookcase_tex_01
+illum 1
+map_Kd pa_bookcase_tex_01.png
+newmtl mat_chromereflect
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\weapon\chromereflect.png
+newmtl mat_pa_bookcase_tex_02
+illum 1
+map_Kd pa_bookcase_tex_02.png
+newmtl mat_pa_book_paper_01
+illum 1
+map_Kd pa_book_paper_01.png
+newmtl mat_pa_scroll_huge_01
+illum 1
+map_Kd ..\scroll\pa_scroll_huge_01.png

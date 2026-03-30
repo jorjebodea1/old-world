@@ -1,0 +1,299 @@
+{
+	"fileType": "m2",
+	"fileDataID": 516947,
+	"fileName": "world/expansion04/doodads/pandaren/bed/pa_house_bed.m2",
+	"internalName": "PA_House_Bed",
+	"textures": [
+		{
+			"fileNameInternal": "dungeons/textures/pandaren/base_houses/pa_trim_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\dungeons\\textures\\pandaren\\base_houses\\pa_trim_01.png",
+			"mtlName": "mat_pa_trim_01",
+			"flags": 3,
+			"fileDataID": 524589
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/bed/pa_house_bed_02.blp",
+			"fileNameExternal": "pa_house_bed_02.png",
+			"mtlName": "mat_pa_house_bed_02",
+			"flags": 3,
+			"fileDataID": 538481
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		},
+		{
+			"fileNameInternal": "dungeons/textures/pandaren/base_houses/pa_pillardeco.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\dungeons\\textures\\pandaren\\base_houses\\pa_pillardeco.png",
+			"mtlName": "mat_pa_pillardeco",
+			"flags": 3,
+			"fileDataID": 527679
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/bed/pa_house_bed_01.blp",
+			"fileNameExternal": "pa_house_bed_01.png",
+			"mtlName": "mat_pa_house_bed_01",
+			"flags": 0,
+			"fileDataID": 538480
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		2
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-3.462085008621216,
+			-4.534617900848389,
+			0.006333457306027412
+		],
+		"max": [
+			2.2969043254852295,
+			4.5386643409729,
+			7.48982572555542
+		]
+	},
+	"boundingSphereRadius": 5.573985576629639,
+	"collisionBox": {
+		"min": [
+			-3.4620840549468994,
+			-4.534618854522705,
+			0.010614095255732536
+		],
+		"max": [
+			1.9200036525726318,
+			4.532483100891113,
+			7.489829063415527
+		]
+	},
+	"collisionSphereRadius": 5.482285022735596,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 127,
+				"triangleStart": 0,
+				"triangleCount": 366,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.030281269922852516,
+					0.0015974983107298613,
+					3.562321662902832
+				],
+				"sortCenterPosition": [
+					-0.019656658172607422,
+					0.00000762939453125,
+					3.6266674995422363
+				],
+				"sortRadius": 4.2844319343566895
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 127,
+				"vertexCount": 105,
+				"triangleStart": 366,
+				"triangleCount": 270,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					1.7438008785247803,
+					0.0008927867747843266,
+					3.8682215213775635
+				],
+				"sortCenterPosition": [
+					1.7623991966247559,
+					0.0000059604644775390625,
+					3.785564661026001
+				],
+				"sortRadius": 3.441474199295044
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 232,
+				"vertexCount": 153,
+				"triangleStart": 636,
+				"triangleCount": 426,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-3.0688695907592773,
+					0.002010635333135724,
+					3.0610170364379883
+				],
+				"sortCenterPosition": [
+					-3.0688695907592773,
+					0.002010635333135724,
+					3.0610170364379883
+				],
+				"sortRadius": 4.738561153411865
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 385,
+				"vertexCount": 431,
+				"triangleStart": 1062,
+				"triangleCount": 1314,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.14668257534503937,
+					0.15586018562316895,
+					2.5747909545898438
+				],
+				"sortCenterPosition": [
+					0.14668257534503937,
+					0.15586018562316895,
+					2.5747909545898438
+				],
+				"sortRadius": 3.609344482421875
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 3,
+				"flags2": 3,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 4,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 4,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 5,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/bed/pa_house_bed00.skin",
+		"fileDataID": 516948
+	}
+}

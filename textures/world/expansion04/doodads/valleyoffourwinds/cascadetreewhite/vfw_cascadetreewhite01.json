@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 525829,
+	"fileName": "world/expansion04/doodads/valleyoffourwinds/cascadetreewhite/vfw_cascadetreewhite01.m2",
+	"internalName": "VFW_CascadeTreeWhite01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/cascadetreewhite/vfw_cascadetreewhite_canopy.blp",
+			"fileNameExternal": "vfw_cascadetreewhite_canopy.png",
+			"mtlName": "mat_vfw_cascadetreewhite_canopy",
+			"flags": 3,
+			"fileDataID": 525828
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/cascadetreegold/vfw_cascadetreegold_trunk.blp",
+			"fileNameExternal": "..\\cascadetreegold\\vfw_cascadetreegold_trunk.png",
+			"mtlName": "mat_vfw_cascadetreegold_trunk",
+			"flags": 3,
+			"fileDataID": 522484
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		1,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-33.10546875,
+			-27.50481414794922,
+			-9.699089050292969
+		],
+		"max": [
+			31.9453125,
+			34.08470916748047,
+			62.10690689086914
+		]
+	},
+	"boundingSphereRadius": 43.49771499633789,
+	"collisionBox": {
+		"min": [
+			-15.168238639831543,
+			-8.364900588989258,
+			-9.699088096618652
+		],
+		"max": [
+			11.958661079406738,
+			14.928863525390625,
+			49.7844352722168
+		]
+	},
+	"collisionSphereRadius": 32.1245231628418,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 213,
+				"triangleStart": 0,
+				"triangleCount": 726,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-2.304304599761963,
+					2.514418840408325,
+					19.687023162841797
+				],
+				"sortCenterPosition": [
+					-2.304304599761963,
+					2.514418840408325,
+					19.687023162841797
+				],
+				"sortRadius": 32.11958312988281
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 213,
+				"vertexCount": 820,
+				"triangleStart": 726,
+				"triangleCount": 1569,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-1.118361473083496,
+					4.766744136810303,
+					33.250797271728516
+				],
+				"sortCenterPosition": [
+					-0.580078125,
+					3.289947509765625,
+					34.374141693115234
+				],
+				"sortRadius": 40.688236236572266
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/valleyoffourwinds/cascadetreewhite/vfw_cascadetreewhite0100.skin",
+		"fileDataID": 525830
+	}
+}

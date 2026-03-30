@@ -1,0 +1,6 @@
+newmtl mat_lillypad01
+illum 1
+map_Kd ..\..\..\..\duskwood\passivedoodads\detail\duskwoodthornbush02\lillypad01.png
+newmtl mat_lillypad02
+illum 1
+map_Kd ..\..\..\..\duskwood\passivedoodads\detail\duskwoodlillypad01\lillypad02.png

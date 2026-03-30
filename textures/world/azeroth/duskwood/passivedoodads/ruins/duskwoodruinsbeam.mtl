@@ -1,0 +1,6 @@
+newmtl mat_mm_duskwood_woodtrim_01
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\trim\mm_duskwood_woodtrim_01.png
+newmtl mat_mm_duskwood_supports_01
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\trim\mm_duskwood_supports_01.png

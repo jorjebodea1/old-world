@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 530126,
+	"fileName": "world/expansion04/doodads/pandaren/ladder/pa_ladder_01.m2",
+	"internalName": "PA_Ladder_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/rake/pa_tools.blp",
+			"fileNameExternal": "..\\rake\\pa_tools.png",
+			"mtlName": "mat_pa_tools",
+			"flags": 0,
+			"fileDataID": 529308
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/ladder/pa_farmtools_02.blp",
+			"fileNameExternal": "pa_farmtools_02.png",
+			"mtlName": "mat_pa_farmtools_02",
+			"flags": 0,
+			"fileDataID": 530125
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.35402852296829224,
+			-0.7120993733406067,
+			0.03338305279612541
+		],
+		"max": [
+			0.2482844442129135,
+			0.712099552154541,
+			4.736318111419678
+		]
+	},
+	"boundingSphereRadius": 2.458780288696289,
+	"collisionBox": {
+		"min": [
+			-0.30229413509368896,
+			-0.6904049515724182,
+			0.0294977817684412
+		],
+		"max": [
+			0.24673223495483398,
+			0.7088015675544739,
+			4.850649356842041
+		]
+	},
+	"collisionSphereRadius": 2.525010347366333,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 304,
+				"triangleStart": 0,
+				"triangleCount": 660,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.011208243668079376,
+					-0.004725142382085323,
+					2.2076988220214844
+				],
+				"sortCenterPosition": [
+					0.0012180879712104797,
+					-0.0131712406873703,
+					2.175689458847046
+				],
+				"sortRadius": 1.9453718662261963
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 304,
+				"vertexCount": 198,
+				"triangleStart": 660,
+				"triangleCount": 840,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.05487041920423508,
+					0.002725436817854643,
+					2.8085312843322754
+				],
+				"sortCenterPosition": [
+					-0.05287203937768936,
+					8.940696716308594e-8,
+					2.38485050201416
+				],
+				"sortRadius": 2.458780288696289
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/ladder/pa_ladder_0100.skin",
+		"fileDataID": 530127
+	}
+}

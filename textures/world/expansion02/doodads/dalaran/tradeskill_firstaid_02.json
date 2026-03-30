@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 243298,
+	"fileName": "world/expansion02/doodads/dalaran/tradeskill_firstaid_02.m2",
+	"internalName": "Tradeskill_FirstAid_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/dalaran/enchanting_01.blp",
+			"fileNameExternal": "enchanting_01.png",
+			"mtlName": "mat_enchanting_01",
+			"flags": 3,
+			"fileDataID": 243226
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.1225801557302475,
+			-0.20311246812343597,
+			0
+		],
+		"max": [
+			0.24357080459594727,
+			0.18125690519809723,
+			0.29682058095932007
+		]
+	},
+	"boundingSphereRadius": 0.2789997160434723,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 150,
+				"triangleStart": 0,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.02798510156571865,
+					0.033727072179317474,
+					0.08540090918540955
+				],
+				"sortCenterPosition": [
+					0.02798510156571865,
+					0.033727072179317474,
+					0.08540090918540955
+				],
+				"sortRadius": 0.2718172073364258
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/dalaran/tradeskill_firstaid_0200.skin",
+		"fileDataID": 497426
+	}
+}

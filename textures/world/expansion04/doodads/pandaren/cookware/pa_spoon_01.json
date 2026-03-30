@@ -1,0 +1,169 @@
+{
+	"fileType": "m2",
+	"fileDataID": 529162,
+	"fileName": "world/expansion04/doodads/pandaren/cookware/pa_spoon_01.m2",
+	"internalName": "PA_Spoon_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/cookware/pa_pans.blp",
+			"fileNameExternal": "pa_pans.png",
+			"mtlName": "mat_pa_pans",
+			"flags": 0,
+			"fileDataID": 527963
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/orbreflectbright.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\orbreflectbright.png",
+			"mtlName": "mat_orbreflectbright",
+			"flags": 3,
+			"fileDataID": 147183
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.6784313917160034,
+							0.7450980544090271,
+							0.7843137979507446
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.1482851356267929,
+			-0.5580363869667053,
+			-0.0021797053050249815
+		],
+		"max": [
+			0.13292457163333893,
+			0.5425403714179993,
+			0.21049223840236664
+		]
+	},
+	"boundingSphereRadius": 0.5513437390327454,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 129,
+				"triangleStart": 0,
+				"triangleCount": 666,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.008106662891805172,
+					-0.033563822507858276,
+					0.07516460120677948
+				],
+				"sortCenterPosition": [
+					-0.00768028199672699,
+					-0.007748007774353027,
+					0.1041562631726265
+				],
+				"sortRadius": 0.5513437390327454
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 9,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/cookware/pa_spoon_0100.skin",
+		"fileDataID": 529163
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 517222,
+	"fileName": "world/expansion04/doodads/valleyoffourwinds/bamboo/vfw_tortoisebamboo01.m2",
+	"internalName": "VFW_TortoiseBamboo01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/bamboo/vfw_tortoisebamboo.blp",
+			"fileNameExternal": "vfw_tortoisebamboo.png",
+			"mtlName": "mat_vfw_tortoisebamboo",
+			"flags": 3,
+			"fileDataID": 604878
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-4.363969802856445,
+			-4.904187202453613,
+			-2.740324020385742
+		],
+		"max": [
+			5.298834800720215,
+			4.847448348999023,
+			22.74473762512207
+		]
+	},
+	"boundingSphereRadius": 13.31943416595459,
+	"collisionBox": {
+		"min": [
+			-1.657202124595642,
+			-1.8572943210601807,
+			-2.740324020385742
+		],
+		"max": [
+			1.550758957862854,
+			1.6780885457992554,
+			19.26750946044922
+		]
+	},
+	"collisionSphereRadius": 11.087148666381836,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 318,
+				"triangleStart": 0,
+				"triangleCount": 1272,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0698724091053009,
+					-0.05520821362733841,
+					9.714476585388184
+				],
+				"sortCenterPosition": [
+					0.46743249893188477,
+					-0.028369426727294922,
+					10.002206802368164
+				],
+				"sortRadius": 13.31943416595459
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/valleyoffourwinds/bamboo/vfw_tortoisebamboo0100.skin",
+		"fileDataID": 517223
+	}
+}

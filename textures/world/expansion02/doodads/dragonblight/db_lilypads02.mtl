@@ -1,0 +1,3 @@
+newmtl mat_dblilypad01
+illum 1
+map_Kd dblilypad01.png

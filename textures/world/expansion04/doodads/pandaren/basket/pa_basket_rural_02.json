@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 576565,
+	"fileName": "world/expansion04/doodads/pandaren/basket/pa_basket_rural_02.m2",
+	"internalName": "PA_Basket_Rural_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/basket/pa_basket_rural.blp",
+			"fileNameExternal": "pa_basket_rural.png",
+			"mtlName": "mat_pa_basket_rural",
+			"flags": 0,
+			"fileDataID": 576562
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.6784332394599915,
+			-0.6784334182739258,
+			-0.03535866737365723
+		],
+		"max": [
+			0.6784332394599915,
+			0.6784334182739258,
+			0.5211749076843262
+		]
+	},
+	"boundingSphereRadius": 0.6790890097618103,
+	"collisionBox": {
+		"min": [
+			-0.6054638624191284,
+			-0.6966030597686768,
+			-0.033173128962516785
+		],
+		"max": [
+			0.6059234738349915,
+			0.7021865248680115,
+			0.635732114315033
+		]
+	},
+	"collisionSphereRadius": 0.7234892845153809,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 146,
+				"triangleStart": 0,
+				"triangleCount": 528,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					5.429738081375035e-8,
+					-0.00020913983462378383,
+					0.28835177421569824
+				],
+				"sortCenterPosition": [
+					0,
+					0,
+					0.24290812015533447
+				],
+				"sortRadius": 0.6790890097618103
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/basket/pa_basket_rural_0200.skin",
+		"fileDataID": 576566
+	}
+}

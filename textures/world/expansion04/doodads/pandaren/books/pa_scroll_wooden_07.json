@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 534975,
+	"fileName": "world/expansion04/doodads/pandaren/books/pa_scroll_wooden_07.m2",
+	"internalName": "PA_Scroll_Wooden_07",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/books/pa_book_01.blp",
+			"fileNameExternal": "pa_book_01.png",
+			"mtlName": "mat_pa_book_01",
+			"flags": 0,
+			"fileDataID": 534962
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.2471935749053955,
+			-0.22412343323230743,
+			-0.0003027503553312272
+		],
+		"max": [
+			0.20994627475738525,
+			0.22484581172466278,
+			0.945286214351654
+		]
+	},
+	"boundingSphereRadius": 0.5180066227912903,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 204,
+				"triangleStart": 0,
+				"triangleCount": 474,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.02817561849951744,
+					-0.00846534501761198,
+					0.4757642149925232
+				],
+				"sortCenterPosition": [
+					-0.018623650074005127,
+					0.00036118924617767334,
+					0.4724917411804199
+				],
+				"sortRadius": 0.5180066227912903
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/books/pa_scroll_wooden_0700.skin",
+		"fileDataID": 534976
+	}
+}

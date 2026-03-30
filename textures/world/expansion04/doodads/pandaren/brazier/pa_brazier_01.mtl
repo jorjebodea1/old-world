@@ -1,0 +1,15 @@
+newmtl mat_pa_brazier_01
+illum 1
+map_Kd pa_brazier_01.png
+newmtl mat_armorreflectgold
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\armorreflectgold.png
+newmtl mat_firespark
+illum 1
+map_Kd ..\..\..\..\azeroth\zulgurub\passivedoodads\cauldrons\firespark.png
+newmtl mat_tooncloud64b
+illum 1
+map_Kd ..\..\..\..\generic\goblin\passivedoodads\kezan\items\tooncloud64b.png
+newmtl mat_pa_fire_01
+illum 1
+map_Kd ..\campfire\pa_fire_01.png

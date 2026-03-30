@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 603632,
+	"fileName": "world/expansion04/doodads/pandaren/pa_claycask_small.m2",
+	"internalName": "pa_claycask_small",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/pa_claycask_small.blp",
+			"fileNameExternal": "pa_claycask_small.png",
+			"mtlName": "mat_pa_claycask_small",
+			"flags": 0,
+			"fileDataID": 603631
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.4194250106811523,
+			-1.4096297025680542,
+			0.00021669600391760468
+		],
+		"max": [
+			1.37576425075531,
+			1.474855899810791,
+			2.26009464263916
+		]
+	},
+	"boundingSphereRadius": 1.5405042171478271,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 80,
+				"triangleStart": 0,
+				"triangleCount": 276,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.01711149513721466,
+					0.011873478069901466,
+					1.1680182218551636
+				],
+				"sortCenterPosition": [
+					-0.021830379962921143,
+					0.03261309862136841,
+					1.1301556825637817
+				],
+				"sortRadius": 1.5405042171478271
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/pa_claycask_small00.skin",
+		"fileDataID": 603633
+	}
+}

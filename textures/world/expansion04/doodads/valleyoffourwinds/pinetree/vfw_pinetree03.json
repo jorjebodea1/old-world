@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 519502,
+	"fileName": "world/expansion04/doodads/valleyoffourwinds/pinetree/vfw_pinetree03.m2",
+	"internalName": "VFW_PineTree03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/pinetree/vfw_pinetree_trunk.blp",
+			"fileNameExternal": "vfw_pinetree_trunk.png",
+			"mtlName": "mat_vfw_pinetree_trunk",
+			"flags": 3,
+			"fileDataID": 519496
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/pinetree/vfw_pinetree_canopy.blp",
+			"fileNameExternal": "vfw_pinetree_canopy.png",
+			"mtlName": "mat_vfw_pinetree_canopy",
+			"flags": 0,
+			"fileDataID": 519497
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 516,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-11.620259284973145,
+			-11.115008354187012,
+			-4.243485450744629
+		],
+		"max": [
+			11.056461334228516,
+			10.379551887512207,
+			36.26613235473633
+		]
+	},
+	"boundingSphereRadius": 20.653614044189453,
+	"collisionBox": {
+		"min": [
+			-1.910317301750183,
+			-2.850339651107788,
+			-4.243485450744629
+		],
+		"max": [
+			4.389570713043213,
+			6.384218215942383,
+			31.49744987487793
+		]
+	},
+	"collisionSphereRadius": 18.361295700073242,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 148,
+				"triangleStart": 0,
+				"triangleCount": 558,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.543012261390686,
+					0.22912156581878662,
+					16.30584144592285
+				],
+				"sortCenterPosition": [
+					1.2890000343322754,
+					1.7452702522277832,
+					13.64985466003418
+				],
+				"sortRadius": 18.40470314025879
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 148,
+				"vertexCount": 1009,
+				"triangleStart": 558,
+				"triangleCount": 1170,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.0061288876459002495,
+					0.25875362753868103,
+					23.384620666503906
+				],
+				"sortCenterPosition": [
+					-0.28189897537231445,
+					-0.36772823333740234,
+					24.84931755065918
+				],
+				"sortRadius": 13.400409698486328
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/valleyoffourwinds/pinetree/vfw_pinetree0300.skin",
+		"fileDataID": 519503
+	}
+}

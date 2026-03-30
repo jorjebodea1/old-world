@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 523264,
+	"fileName": "world/expansion04/doodads/pandaren/cart/pa_cart_01.m2",
+	"internalName": "PA_Cart_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/cart/panderancart.blp",
+			"fileNameExternal": "panderancart.png",
+			"mtlName": "mat_panderancart",
+			"flags": 0,
+			"fileDataID": 523263
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shoulder/orbreflect02.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shoulder\\orbreflect02.png",
+			"mtlName": "mat_orbreflect02",
+			"flags": 0,
+			"fileDataID": 143376
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.9040840864181519,
+			-1.4746791124343872,
+			-0.06711647659540176
+		],
+		"max": [
+			3.132941484451294,
+			1.5421937704086304,
+			2.2840070724487305
+		]
+	},
+	"boundingSphereRadius": 2.8024301528930664,
+	"collisionBox": {
+		"min": [
+			-1.693570852279663,
+			-1.4873133897781372,
+			-0.008601282723248005
+		],
+		"max": [
+			3.034641742706299,
+			1.4890893697738647,
+			2.2671313285827637
+		]
+	},
+	"collisionSphereRadius": 2.938610553741455,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 2042,
+				"triangleStart": 0,
+				"triangleCount": 4668,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.22880937159061432,
+					0.012677214108407497,
+					1.0638030767440796
+				],
+				"sortCenterPosition": [
+					0.614428699016571,
+					0.03375732898712158,
+					1.1084452867507935
+				],
+				"sortRadius": 2.8024301528930664
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/cart/pa_cart_0100.skin",
+		"fileDataID": 523265
+	}
+}

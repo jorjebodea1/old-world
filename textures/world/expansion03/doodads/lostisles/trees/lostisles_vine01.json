@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 308733,
+	"fileName": "world/expansion03/doodads/lostisles/trees/lostisles_vine01.m2",
+	"internalName": "LostIsles_Vine01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion03/doodads/lostisles/trees/lostisles_lushvine01.blp",
+			"fileNameExternal": "lostisles_lushvine01.png",
+			"mtlName": "mat_lostisles_lushvine01",
+			"flags": 3,
+			"fileDataID": 308345
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.22842828929424286,
+			-0.5812333226203918,
+			-9.080491065979004
+		],
+		"max": [
+			0.22853705286979675,
+			0.5219197869300842,
+			1.0815587043762207
+		]
+	},
+	"boundingSphereRadius": 5.103727340698242,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 30,
+				"triangleStart": 0,
+				"triangleCount": 96,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.05616898089647293,
+					-0.01426334585994482,
+					-4.1080827713012695
+				],
+				"sortCenterPosition": [
+					0.00005438178777694702,
+					-0.02965676784515381,
+					-3.9994661808013916
+				],
+				"sortRadius": 5.103727340698242
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion03/doodads/lostisles/trees/lostisles_vine0100.skin",
+		"fileDataID": 501212
+	}
+}

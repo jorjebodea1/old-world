@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 527313,
+	"fileName": "world/expansion04/doodads/pandaren/stool/pa_stool_01.m2",
+	"internalName": "PA_stool_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/stool/pa_stool_01.blp",
+			"fileNameExternal": "pa_stool_01.png",
+			"mtlName": "mat_pa_stool_01",
+			"flags": 0,
+			"fileDataID": 527312
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.43478959798812866,
+			-0.4347895681858063,
+			0.00025878575979731977
+		],
+		"max": [
+			0.4347895681858063,
+			0.43478941917419434,
+			0.733368456363678
+		]
+	},
+	"boundingSphereRadius": 0.518945038318634,
+	"collisionBox": {
+		"min": [
+			-0.507094144821167,
+			-0.507094144821167,
+			0
+		],
+		"max": [
+			0.5070942044258118,
+			0.5070942044258118,
+			0.7373070120811462
+		]
+	},
+	"collisionSphereRadius": 0.5367304086685181,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 147,
+				"triangleStart": 0,
+				"triangleCount": 594,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					6.0821068181837745e-9,
+					-0.0005742264911532402,
+					0.3159794509410858
+				],
+				"sortCenterPosition": [
+					-1.4901161193847656e-8,
+					-7.450580596923828e-8,
+					0.36681362986564636
+				],
+				"sortRadius": 0.518945038318634
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/stool/pa_stool_0100.skin",
+		"fileDataID": 527314
+	}
+}

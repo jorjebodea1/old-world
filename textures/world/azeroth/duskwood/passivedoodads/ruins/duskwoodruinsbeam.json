@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 189510,
+	"fileName": "world/azeroth/duskwood/passivedoodads/ruins/duskwoodruinsbeam.m2",
+	"internalName": "DuskwoodRuinsBeam",
+	"textures": [
+		{
+			"fileNameInternal": "dungeons/textures/trim/mm_duskwood_woodtrim_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\dungeons\\textures\\trim\\mm_duskwood_woodtrim_01.png",
+			"mtlName": "mat_mm_duskwood_woodtrim_01",
+			"flags": 1,
+			"fileDataID": 129268
+		},
+		{
+			"fileNameInternal": "dungeons/textures/trim/mm_duskwood_supports_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\dungeons\\textures\\trim\\mm_duskwood_supports_01.png",
+			"mtlName": "mat_mm_duskwood_supports_01",
+			"flags": 1,
+			"fileDataID": 129267
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-3.627997636795044,
+			-0.5882254838943481,
+			-0.029243893921375275
+		],
+		"max": [
+			3.594224691390991,
+			0.5450329184532166,
+			1.1111111640930176
+		]
+	},
+	"boundingSphereRadius": 3.6994993686676025,
+	"collisionBox": {
+		"min": [
+			-3.627997636795044,
+			-0.5882254838943481,
+			-5.1882853568940845e-8
+		],
+		"max": [
+			3.594224691390991,
+			0.5228856205940247,
+			1.1111111640930176
+		]
+	},
+	"collisionSphereRadius": 3.6955931186676025,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 23,
+				"triangleStart": 0,
+				"triangleCount": 48,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.016886524856090546,
+					-0.02343064546585083,
+					0.544156551361084
+				],
+				"sortCenterPosition": [
+					-0.016886524856090546,
+					-0.02343064546585083,
+					0.544156551361084
+				],
+				"sortRadius": 3.698723554611206
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 23,
+				"vertexCount": 8,
+				"triangleStart": 48,
+				"triangleCount": 12,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.016886413097381592,
+					-0.032669901847839355,
+					0.5555555820465088
+				],
+				"sortCenterPosition": [
+					-0.016886472702026367,
+					-0.032669901847839355,
+					0.5555555820465088
+				],
+				"sortRadius": 3.6955931186676025
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/azeroth/duskwood/passivedoodads/ruins/duskwoodruinsbeam00.skin",
+		"fileDataID": 494391
+	}
+}

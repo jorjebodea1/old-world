@@ -1,0 +1,9 @@
+newmtl mat_pa_graveyard_focal_01b
+illum 1
+map_Kd ..\..\..\..\expansion04\doodads\pandaren\gravestone\pa_graveyard_focal_01b.png
+newmtl mat_pa_graveyard_focal_01c
+illum 1
+map_Kd ..\..\..\..\expansion04\doodads\pandaren\gravestone\pa_graveyard_focal_01c.png
+newmtl mat_pa_graveyard_focal_01
+illum 1
+map_Kd ..\..\..\..\expansion04\doodads\pandaren\gravestone\pa_graveyard_focal_01.png

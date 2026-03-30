@@ -1,0 +1,203 @@
+{
+	"fileType": "m2",
+	"fileDataID": 523316,
+	"fileName": "world/expansion04/doodads/pandaren/banner/pa_standard_01.m2",
+	"internalName": "PA_Standard_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/banner/pa_standard_01.blp",
+			"fileNameExternal": "pa_standard_01.png",
+			"mtlName": "mat_pa_standard_01",
+			"flags": 0,
+			"fileDataID": 523315
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shoulder/orbreflect02.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shoulder\\orbreflect02.png",
+			"mtlName": "mat_orbreflect02",
+			"flags": 0,
+			"fileDataID": 143376
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/banner/pa_standard_blockstone_01.blp",
+			"fileNameExternal": "pa_standard_blockstone_01.png",
+			"mtlName": "mat_pa_standard_blockstone_01",
+			"flags": 3,
+			"fileDataID": 523309
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		3
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.5942714810371399,
+			-1.7929613590240479,
+			-0.5695241093635559
+		],
+		"max": [
+			0.6291165947914124,
+			2.5321242809295654,
+			7.454267978668213
+		]
+	},
+	"boundingSphereRadius": 4.14429235458374,
+	"collisionBox": {
+		"min": [
+			-0.3583538830280304,
+			-0.668538510799408,
+			-0.5081005096435547
+		],
+		"max": [
+			0.37587520480155945,
+			2.411285400390625,
+			6.78564453125
+		]
+	},
+	"collisionSphereRadius": 3.9756484031677246,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 913,
+				"triangleStart": 0,
+				"triangleCount": 3150,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.002036331221461296,
+					-0.032794367522001266,
+					5.191810131072998
+				],
+				"sortCenterPosition": [
+					0.01742255687713623,
+					0.3695814609527588,
+					3.4423718452453613
+				],
+				"sortRadius": 4.14429235458374
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 913,
+				"vertexCount": 24,
+				"triangleStart": 3150,
+				"triangleCount": 36,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.00721414340659976,
+					1.5681133270263672,
+					3.1909406185150146
+				],
+				"sortCenterPosition": [
+					0.007214099168777466,
+					1.5681135654449463,
+					3.1810193061828613
+				],
+				"sortRadius": 2.602935791015625
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/banner/pa_standard_0100.skin",
+		"fileDataID": 523317
+	}
+}

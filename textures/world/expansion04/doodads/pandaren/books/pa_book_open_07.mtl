@@ -1,0 +1,3 @@
+newmtl mat_pa_book_paper_01
+illum 1
+map_Kd pa_book_paper_01.png

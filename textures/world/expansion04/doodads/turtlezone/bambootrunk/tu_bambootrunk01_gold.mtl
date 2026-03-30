@@ -1,0 +1,9 @@
+newmtl mat_bamboocluster03
+illum 1
+map_Kd ..\bamboo\bamboocluster03.png
+newmtl mat_tu_bamboogradient_01
+illum 1
+map_Kd ..\bamboo\tu_bamboogradient_01.png
+newmtl mat_tu_bambootrunks_01
+illum 1
+map_Kd ..\bamboo\tu_bambootrunks_01.png

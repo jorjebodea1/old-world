@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 603808,
+	"fileName": "world/expansion04/doodads/hozu/hz_fence_blue_04.m2",
+	"internalName": "HZ_Fence_Blue_04",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/hz_bamboo_blue.blp",
+			"fileNameExternal": "hz_bamboo_blue.png",
+			"mtlName": "mat_hz_bamboo_blue",
+			"flags": 3,
+			"fileDataID": 603668
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/hozu/hz_cageparts.blp",
+			"fileNameExternal": "hz_cageparts.png",
+			"mtlName": "mat_hz_cageparts",
+			"flags": 3,
+			"fileDataID": 603669
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.46435970067977905,
+			-3.168627977371216,
+			-0.12852011620998383
+		],
+		"max": [
+			0.3831891119480133,
+			2.069279193878174,
+			3.7620136737823486
+		]
+	},
+	"boundingSphereRadius": 3.1337666511535645,
+	"collisionBox": {
+		"min": [
+			-0.33590587973594666,
+			-3.0250191688537598,
+			0
+		],
+		"max": [
+			0.18056239187717438,
+			1.5599884986877441,
+			3.4327423572540283
+		]
+	},
+	"collisionSphereRadius": 2.87544584274292,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 659,
+				"triangleStart": 0,
+				"triangleCount": 1644,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.037677500396966934,
+					-0.6909496188163757,
+					1.320063591003418
+				],
+				"sortCenterPosition": [
+					-0.040585294365882874,
+					-0.549674391746521,
+					1.8167468309402466
+				],
+				"sortRadius": 3.1337666511535645
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 659,
+				"vertexCount": 160,
+				"triangleStart": 1644,
+				"triangleCount": 492,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.07221096009016037,
+					-1.3039175271987915,
+					1.219403862953186
+				],
+				"sortCenterPosition": [
+					-0.05476733297109604,
+					-1.3764852285385132,
+					1.3284966945648193
+				],
+				"sortRadius": 1.6919853687286377
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/hozu/hz_fence_blue_0400.skin",
+		"fileDataID": 603809
+	}
+}

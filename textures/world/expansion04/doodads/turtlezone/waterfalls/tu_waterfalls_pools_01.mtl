@@ -1,0 +1,15 @@
+newmtl mat_pandawater_06
+illum 1
+map_Kd pandawater_06.png
+newmtl mat_pandawater_color_07
+illum 1
+map_Kd pandawater_color_07.png
+newmtl mat_watercascade_soft_universal
+illum 1
+map_Kd watercascade_soft_universal.png
+newmtl mat_blobs2
+illum 1
+map_Kd blobs2.png
+newmtl mat_pandawater_03
+illum 1
+map_Kd pandawater_03.png

@@ -1,0 +1,167 @@
+{
+	"fileType": "m2",
+	"fileDataID": 243425,
+	"fileName": "world/expansion02/doodads/generic/inscription/inscription_quill01.m2",
+	"internalName": "Inscription_Quill01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/generic/inscription/inscription_quills01.blp",
+			"fileNameExternal": "inscription_quills01.png",
+			"mtlName": "mat_inscription_quills01",
+			"flags": 0,
+			"fileDataID": 243433
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3423444330692291,
+			-0.1001046672463417,
+			0.000516785541549325
+		],
+		"max": [
+			0.4108507037162781,
+			0.11186524480581284,
+			0.03926834836602211
+		]
+	},
+	"boundingSphereRadius": 0.38273918628692627,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 13,
+				"triangleStart": 0,
+				"triangleCount": 66,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.10336888581514359,
+					0.008381505496799946,
+					0.015933750197291374
+				],
+				"sortCenterPosition": [
+					0.034253135323524475,
+					-0.009163841605186462,
+					0.01989256776869297
+				],
+				"sortRadius": 0.3804175555706024
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 13,
+				"vertexCount": 30,
+				"triangleStart": 66,
+				"triangleCount": 72,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.003308297600597143,
+					-0.0014949324540793896,
+					0.012670137919485569
+				],
+				"sortCenterPosition": [
+					-0.0660368949174881,
+					0.005880288779735565,
+					0.012363258749246597
+				],
+				"sortRadius": 0.29597461223602295
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/generic/inscription/inscription_quill0100.skin",
+		"fileDataID": 498224
+	}
+}

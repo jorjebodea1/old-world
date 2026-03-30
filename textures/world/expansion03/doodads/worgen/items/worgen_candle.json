@@ -1,0 +1,234 @@
+{
+	"fileType": "m2",
+	"fileDataID": 305589,
+	"fileName": "world/expansion03/doodads/worgen/items/worgen_candle.m2",
+	"internalName": "Worgen_Candle",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion03/doodads/worgen/walls/worgen_glass_01.blp",
+			"fileNameExternal": "..\\walls\\worgen_glass_01.png",
+			"mtlName": "mat_worgen_glass_01",
+			"flags": 0,
+			"fileDataID": 303675
+		},
+		{
+			"fileNameInternal": "world/expansion02/doodads/dalaran/glowball.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion02\\doodads\\dalaran\\glowball.png",
+			"mtlName": "mat_glowball",
+			"flags": 0,
+			"fileDataID": 243229
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/candelabras/glowwhite32.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\candelabras\\glowwhite32.png",
+			"mtlName": "mat_glowwhite32",
+			"flags": 0,
+			"fileDataID": 198077
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 17,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0,
+		2
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.9058824181556702,
+							0.5372549295425415,
+							0.007843137718737125
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		},
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					24575
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0,
+		1
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.2633543610572815,
+			-0.26889729499816895,
+			-0.03305159509181976
+		],
+		"max": [
+			0.26718419790267944,
+			0.261641263961792,
+			0.614654541015625
+		]
+	},
+	"boundingSphereRadius": 0.3958878517150879,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 23,
+				"triangleStart": 0,
+				"triangleCount": 69,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.003794705029577017,
+					-0.006536045577377081,
+					0.14413879811763763
+				],
+				"sortCenterPosition": [
+					-0.010664410889148712,
+					-0.0012647025287151337,
+					0.12493114173412323
+				],
+				"sortRadius": 0.1484490931034088
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 23,
+				"vertexCount": 4,
+				"triangleStart": 69,
+				"triangleCount": 6,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					0.0019149212166666985,
+					-0.0036280062049627304,
+					0.29598191380500793
+				],
+				"sortCenterPosition": [
+					0.001914922147989273,
+					-0.0036280080676078796,
+					0.29598191380500793
+				],
+				"sortRadius": 0.21013562381267548
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 0,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 1,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion03/doodads/worgen/items/worgen_candle00.skin",
+		"fileDataID": 502806
+	}
+}

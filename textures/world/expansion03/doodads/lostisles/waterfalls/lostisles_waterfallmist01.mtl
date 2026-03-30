@@ -1,0 +1,3 @@
+newmtl mat_snow1
+illum 1
+map_Kd ..\..\..\..\..\particles\snow1.png

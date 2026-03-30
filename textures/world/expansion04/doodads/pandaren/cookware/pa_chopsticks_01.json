@@ -1,0 +1,169 @@
+{
+	"fileType": "m2",
+	"fileDataID": 527964,
+	"fileName": "world/expansion04/doodads/pandaren/cookware/pa_chopsticks_01.m2",
+	"internalName": "PA_Chopsticks_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/cookware/pa_pans.blp",
+			"fileNameExternal": "pa_pans.png",
+			"mtlName": "mat_pa_pans",
+			"flags": 0,
+			"fileDataID": 527963
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/orbreflectbright.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\orbreflectbright.png",
+			"mtlName": "mat_orbreflectbright",
+			"flags": 3,
+			"fileDataID": 147183
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.6784313917160034,
+							0.7450980544090271,
+							0.7843137979507446
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.3317178189754486,
+			-0.7078660130500793,
+			-0.006811618339270353
+		],
+		"max": [
+			0.39087167382240295,
+			0.5220183730125427,
+			0.20744295418262482
+		]
+	},
+	"boundingSphereRadius": 0.6828190684318542,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 88,
+				"triangleStart": 0,
+				"triangleCount": 432,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.010325058363378048,
+					-0.05641864612698555,
+					0.06740269064903259
+				],
+				"sortCenterPosition": [
+					0.010325058363378048,
+					-0.05641864612698555,
+					0.06740269064903259
+				],
+				"sortRadius": 0.655788004398346
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 9,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/cookware/pa_chopsticks_0100.skin",
+		"fileDataID": 527965
+	}
+}

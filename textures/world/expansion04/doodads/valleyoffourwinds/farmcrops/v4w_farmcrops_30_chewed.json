@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 576516,
+	"fileName": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_farmcrops_30_chewed.m2",
+	"internalName": "V4W_FarmCrops_30_Chewed",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_turnip02.blp",
+			"fileNameExternal": "v4w_turnip02.png",
+			"mtlName": "mat_v4w_turnip02",
+			"flags": 0,
+			"fileDataID": 576515
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.9799275398254395,
+			-0.7323858737945557,
+			-0.1962321549654007
+		],
+		"max": [
+			1.8773250579833984,
+			1.1006641387939453,
+			1.2504581212997437
+		]
+	},
+	"boundingSphereRadius": 1.9637881517410278,
+	"collisionBox": {
+		"min": [
+			-1.9799275398254395,
+			-0.5885782837867737,
+			-0.07853571325540543
+		],
+		"max": [
+			-0.16897964477539062,
+			0.6733114123344421,
+			1.2504581212997437
+		]
+	},
+	"collisionSphereRadius": 0.9785710573196411,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 132,
+				"triangleStart": 0,
+				"triangleCount": 549,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.6050754189491272,
+					0.06998888403177261,
+					0.5237308740615845
+				],
+				"sortCenterPosition": [
+					-0.05130124092102051,
+					0.18413913249969482,
+					0.5271129608154297
+				],
+				"sortRadius": 1.9637881517410278
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_farmcrops_30_chewed00.skin",
+		"fileDataID": 576517
+	}
+}

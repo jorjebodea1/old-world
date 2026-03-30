@@ -1,0 +1,3 @@
+newmtl mat_herbs
+illum 1
+map_Kd herbs.png

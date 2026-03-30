@@ -1,0 +1,3 @@
+ModelFile;PositionX;PositionY;PositionZ;RotationW;RotationX;RotationY;RotationZ;ScaleFactor;DoodadSet;FileDataID
+..\..\..\..\expansion04\doodads\pandaren\lamppost\pa_water_lamppost_01.obj;-5.5133466720581055;-34.78994369506836;-0.7230184674263;1;0;0;0;1;Set_$DefaultGlobal;524778
+..\..\..\..\expansion04\doodads\pandaren\lamppost\pa_water_lamppost_01.obj;-5.5133466720581055;31.58419418334961;-0.7230184674263;1;0;0;0;1;Set_$DefaultGlobal;524778

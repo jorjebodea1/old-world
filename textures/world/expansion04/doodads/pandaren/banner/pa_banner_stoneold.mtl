@@ -1,0 +1,6 @@
+newmtl mat_pa_standard_blockstone_01old
+illum 1
+map_Kd pa_standard_blockstone_01old.png
+newmtl mat_armorreflect4
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\shield\armorreflect4.png

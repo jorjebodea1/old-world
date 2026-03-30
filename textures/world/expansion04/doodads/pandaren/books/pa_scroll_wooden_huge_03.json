@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 534984,
+	"fileName": "world/expansion04/doodads/pandaren/books/pa_scroll_wooden_huge_03.m2",
+	"internalName": "PA_Scroll_Wooden_Huge_03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/books/pa_book_slats_tall_01.blp",
+			"fileNameExternal": "pa_book_slats_tall_01.png",
+			"mtlName": "mat_pa_book_slats_tall_01",
+			"flags": 0,
+			"fileDataID": 534979
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/shield/armorreflect4.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\shield\\armorreflect4.png",
+			"mtlName": "mat_armorreflect4",
+			"flags": 0,
+			"fileDataID": 249237
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.5396982431411743,
+			-0.5937402844429016,
+			-0.02871895581483841
+		],
+		"max": [
+			0.5725763440132141,
+			0.5085747838020325,
+			2.6770360469818115
+		]
+	},
+	"boundingSphereRadius": 1.3591722249984741,
+	"collisionBox": {
+		"min": [
+			-0.34319233894348145,
+			-0.4231780171394348,
+			0
+		],
+		"max": [
+			0.34083306789398193,
+			0.3666664659976959,
+			2.6503713130950928
+		]
+	},
+	"collisionSphereRadius": 1.3827799558639526,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 779,
+				"triangleStart": 0,
+				"triangleCount": 2319,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.1637093424797058,
+					-0.022174254059791565,
+					1.233083724975586
+				],
+				"sortCenterPosition": [
+					0.016439050436019897,
+					-0.04258275032043457,
+					1.3241585493087769
+				],
+				"sortRadius": 1.3591722249984741
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/books/pa_scroll_wooden_huge_0300.skin",
+		"fileDataID": 534985
+	}
+}

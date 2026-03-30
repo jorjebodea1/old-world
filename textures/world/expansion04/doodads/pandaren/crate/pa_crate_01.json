@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 520092,
+	"fileName": "world/expansion04/doodads/pandaren/crate/pa_crate_01.m2",
+	"internalName": "PA_crate_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/crate/pa_crate.blp",
+			"fileNameExternal": "pa_crate.png",
+			"mtlName": "mat_pa_crate",
+			"flags": 3,
+			"fileDataID": 520091
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7027023434638977,
+			-0.6049863696098328,
+			0
+		],
+		"max": [
+			0.46959030628204346,
+			0.6079339981079102,
+			1.1125707626342773
+		]
+	},
+	"boundingSphereRadius": 0.9833412170410156,
+	"collisionBox": {
+		"min": [
+			-0.721097469329834,
+			-0.614544689655304,
+			-0.0141432024538517
+		],
+		"max": [
+			0.4884524941444397,
+			0.6121541261672974,
+			1.1354048252105713
+		]
+	},
+	"collisionSphereRadius": 1.0355266332626343,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 394,
+				"triangleStart": 0,
+				"triangleCount": 942,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.09722574055194855,
+					0.0019667018204927444,
+					0.6292808055877686
+				],
+				"sortCenterPosition": [
+					-0.11655601859092712,
+					0.0014738142490386963,
+					0.5562853813171387
+				],
+				"sortRadius": 0.9833412170410156
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/crate/pa_crate_0100.skin",
+		"fileDataID": 520093
+	}
+}

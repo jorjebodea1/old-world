@@ -1,0 +1,187 @@
+{
+	"fileType": "m2",
+	"fileDataID": 338531,
+	"fileName": "world/generic/passivedoodads/fish/fish_redfloater_02.m2",
+	"internalName": "Fish_RedFloater_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/generic/passivedoodads/fish/fish_goldcarp.blp",
+			"fileNameExternal": "fish_goldcarp.png",
+			"mtlName": "mat_fish_goldcarp",
+			"flags": 0,
+			"fileDataID": 338528
+		},
+		{
+			"fileNameInternal": "world/generic/passivedoodads/fish/fish_ref_orange.blp",
+			"fileNameExternal": "fish_ref_orange.png",
+			"mtlName": "mat_fish_ref_orange",
+			"flags": 0,
+			"fileDataID": 338526
+		},
+		{
+			"fileNameInternal": "world/generic/passivedoodads/fish/fish_greencarp.blp",
+			"fileNameExternal": "fish_greencarp.png",
+			"mtlName": "mat_fish_greencarp",
+			"flags": 0,
+			"fileDataID": 338530
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		},
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1,
+		2,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.1004011631011963,
+			-1.2909163236618042,
+			0.3149324059486389
+		],
+		"max": [
+			1.0368053913116455,
+			2.174473524093628,
+			1.7494196891784668
+		]
+	},
+	"boundingSphereRadius": 1.823918342590332,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 82,
+				"triangleStart": 0,
+				"triangleCount": 444,
+				"boneCount": 14,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-1.3260152339935303,
+					1.149070143699646,
+					1.3052728176116943
+				],
+				"sortCenterPosition": [
+					-1.3697822093963623,
+					1.191598653793335,
+					1.3163347244262695
+				],
+				"sortRadius": 0.37470152974128723
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 82,
+				"vertexCount": 82,
+				"triangleStart": 444,
+				"triangleCount": 444,
+				"boneCount": 14,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 1,
+				"centerPosition": [
+					-1.0422935485839844,
+					1.8846492767333984,
+					1.2725181579589844
+				],
+				"sortCenterPosition": [
+					-1.0136290788650513,
+					1.8906538486480713,
+					1.2993690967559814
+				],
+				"sortRadius": 0.27992790937423706
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 30,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 30,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 2,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/generic/passivedoodads/fish/fish_redfloater_0200.skin",
+		"fileDataID": 505618
+	}
+}

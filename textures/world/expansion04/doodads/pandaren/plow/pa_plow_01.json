@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521677,
+	"fileName": "world/expansion04/doodads/pandaren/plow/pa_plow_01.m2",
+	"internalName": "PA_Plow_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/plow/pa_plow.blp",
+			"fileNameExternal": "pa_plow.png",
+			"mtlName": "mat_pa_plow",
+			"flags": 3,
+			"fileDataID": 521676
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.8618463277816772,
+			-1.9205496311187744,
+			-0.022674985229969025
+		],
+		"max": [
+			0.9365480542182922,
+			1.3472371101379395,
+			1.3138667345046997
+		]
+	},
+	"boundingSphereRadius": 1.925803542137146,
+	"collisionBox": {
+		"min": [
+			-0.8649507761001587,
+			-1.9160408973693848,
+			-0.07869259268045425
+		],
+		"max": [
+			0.9636500477790833,
+			1.3970829248428345,
+			1.3162261247634888
+		]
+	},
+	"collisionSphereRadius": 1.9823133945465088,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 394,
+				"triangleStart": 0,
+				"triangleCount": 1050,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.013918057084083557,
+					-0.5439579486846924,
+					0.7458189129829407
+				],
+				"sortCenterPosition": [
+					0.037350863218307495,
+					-0.2866562604904175,
+					0.6455958485603333
+				],
+				"sortRadius": 1.925803542137146
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/plow/pa_plow_0100.skin",
+		"fileDataID": 521678
+	}
+}

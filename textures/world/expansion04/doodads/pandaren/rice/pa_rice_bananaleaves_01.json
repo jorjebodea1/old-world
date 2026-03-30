@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 580631,
+	"fileName": "world/expansion04/doodads/pandaren/rice/pa_rice_bananaleaves_01.m2",
+	"internalName": "PA_Rice_BananaLeaves_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/rice/pa_rice_bananleaves_01.blp",
+			"fileNameExternal": "pa_rice_bananleaves_01.png",
+			"mtlName": "mat_pa_rice_bananleaves_01",
+			"flags": 0,
+			"fileDataID": 580630
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.13701142370700836,
+			-0.21792176365852356,
+			-0.013308404013514519
+		],
+		"max": [
+			0.13701142370700836,
+			0.21792176365852356,
+			0.17114722728729248
+		]
+	},
+	"boundingSphereRadius": 0.22688928246498108,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 45,
+				"triangleStart": 0,
+				"triangleCount": 144,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					1.3245476937484568e-9,
+					-2.9802322831784522e-9,
+					0.05576936900615692
+				],
+				"sortCenterPosition": [
+					1.3245476937484568e-9,
+					-2.9802322831784522e-9,
+					0.05576936900615692
+				],
+				"sortRadius": 0.22425413131713867
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/rice/pa_rice_bananaleaves_0100.skin",
+		"fileDataID": 580632
+	}
+}

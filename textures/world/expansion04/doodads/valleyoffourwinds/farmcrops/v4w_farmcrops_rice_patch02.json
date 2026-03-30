@@ -1,0 +1,126 @@
+{
+	"fileType": "m2",
+	"fileDataID": 615917,
+	"fileName": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_farmcrops_rice_patch02.m2",
+	"internalName": "V4W_FarmCrops_Rice_patch02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_rice01.blp",
+			"fileNameExternal": "v4w_rice01.png",
+			"mtlName": "mat_v4w_rice01",
+			"flags": 0,
+			"fileDataID": 615841
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.589017629623413,
+			-9.782757759094238,
+			-1.0698405504226685
+		],
+		"max": [
+			3.2408902645111084,
+			9.337762832641602,
+			4.380487442016602
+		]
+	},
+	"boundingSphereRadius": 9.603199005126953,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 132,
+				"triangleStart": 0,
+				"triangleCount": 321,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.3660659193992615,
+					-0.1431758999824524,
+					1.7463937997817993
+				],
+				"sortCenterPosition": [
+					0.32593631744384766,
+					-0.22249746322631836,
+					1.6553235054016113
+				],
+				"sortRadius": 9.603199005126953
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 16400,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/valleyoffourwinds/farmcrops/v4w_farmcrops_rice_patch0200.skin",
+		"fileDataID": 615918
+	}
+}

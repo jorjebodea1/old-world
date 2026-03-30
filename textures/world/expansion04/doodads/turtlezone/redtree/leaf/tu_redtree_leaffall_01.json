@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521873,
+	"fileName": "world/expansion04/doodads/turtlezone/redtree/leaf/tu_redtree_leaffall_01.m2",
+	"internalName": "TU_RedTree_LeafFall_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/redtree/tu_redtree_canopy.blp",
+			"fileNameExternal": "..\\tu_redtree_canopy.png",
+			"mtlName": "mat_tu_redtree_canopy",
+			"flags": 0,
+			"fileDataID": 515643
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.36480873823165894,
+			-0.35743948817253113,
+			0
+		],
+		"max": [
+			0.3691146671772003,
+			0.3764839470386505,
+			0
+		]
+	},
+	"boundingSphereRadius": 0.5189622044563293,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 4,
+				"triangleStart": 0,
+				"triangleCount": 6,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.002152964472770691,
+					0.009522229433059692,
+					0
+				],
+				"sortCenterPosition": [
+					0.002152964472770691,
+					0.009522229433059692,
+					0
+				],
+				"sortRadius": 0.5189622044563293
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/redtree/leaf/tu_redtree_leaffall_0100.skin",
+		"fileDataID": 521874
+	}
+}

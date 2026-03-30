@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521905,
+	"fileName": "world/expansion04/doodads/pandaren/woodcarving/pa_woodcarving_02.m2",
+	"internalName": "PA_WoodCarving_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/woodcarving/pa_woodcarving_02.blp",
+			"fileNameExternal": "pa_woodcarving_02.png",
+			"mtlName": "mat_pa_woodcarving_02",
+			"flags": 0,
+			"fileDataID": 521904
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.5001772046089172,
+			-2.6802818775177,
+			-0.42047253251075745
+		],
+		"max": [
+			0.14783303439617157,
+			2.7520039081573486,
+			2.7831764221191406
+		]
+	},
+	"boundingSphereRadius": 2.85302472114563,
+	"collisionBox": {
+		"min": [
+			-0.4806808829307556,
+			-2.6876447200775146,
+			-0.3055984675884247
+		],
+		"max": [
+			0.14343510568141937,
+			2.679753065109253,
+			2.692631959915161
+		]
+	},
+	"collisionSphereRadius": 3.0898165702819824,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 599,
+				"triangleStart": 0,
+				"triangleCount": 1332,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.18772488832473755,
+					0.03482744097709656,
+					1.173431634902954
+				],
+				"sortCenterPosition": [
+					-0.17617207765579224,
+					0.03586101531982422,
+					1.181351900100708
+				],
+				"sortRadius": 2.85302472114563
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/woodcarving/pa_woodcarving_0200.skin",
+		"fileDataID": 521906
+	}
+}

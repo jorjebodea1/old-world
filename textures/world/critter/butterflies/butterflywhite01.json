@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 190727,
+	"fileName": "world/critter/butterflies/butterflywhite01.m2",
+	"internalName": "ButterflyWhite01",
+	"textures": [
+		{
+			"fileNameInternal": "world/critter/butterflies/butterflywingwhite01.blp",
+			"fileNameExternal": "butterflywingwhite01.png",
+			"mtlName": "mat_butterflywingwhite01",
+			"flags": 0,
+			"fileDataID": 190730
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.7382655143737793,
+			-1.9384737014770508,
+			1.4390195608139038
+		],
+		"max": [
+			1.615868330001831,
+			2.051408052444458,
+			2.497002124786377
+		]
+	},
+	"boundingSphereRadius": 2.3988163471221924,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 6,
+				"triangleStart": 0,
+				"triangleCount": 12,
+				"boneCount": 2,
+				"boneStart": 0,
+				"boneInfluences": 2,
+				"centerBoneIndex": 3,
+				"centerPosition": [
+					0.04425875470042229,
+					1.9065102338790894,
+					1.6444703340530396
+				],
+				"sortCenterPosition": [
+					0.04425875097513199,
+					1.9065124988555908,
+					1.6444694995880127
+				],
+				"sortRadius": 0.14489780366420746
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/critter/butterflies/butterflywhite0100.skin",
+		"fileDataID": 495122
+	}
+}

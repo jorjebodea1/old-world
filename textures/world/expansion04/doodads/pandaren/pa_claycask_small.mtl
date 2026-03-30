@@ -1,0 +1,3 @@
+newmtl mat_pa_claycask_small
+illum 1
+map_Kd pa_claycask_small.png

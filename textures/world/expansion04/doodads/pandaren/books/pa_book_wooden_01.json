@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 534950,
+	"fileName": "world/expansion04/doodads/pandaren/books/pa_book_wooden_01.m2",
+	"internalName": "PA_Book_Wooden_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/books/pa_book_slats_flat_01.blp",
+			"fileNameExternal": "pa_book_slats_flat_01.png",
+			"mtlName": "mat_pa_book_slats_flat_01",
+			"flags": 0,
+			"fileDataID": 534949
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.6293128728866577,
+			-0.536562442779541,
+			-0.035947833210229874
+		],
+		"max": [
+			0.6231608390808105,
+			0.5572168827056885,
+			0.4896664023399353
+		]
+	},
+	"boundingSphereRadius": 0.8293172717094421,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 443,
+				"triangleStart": 0,
+				"triangleCount": 1023,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.006965494714677334,
+					0.008118043653666973,
+					0.23587512969970703
+				],
+				"sortCenterPosition": [
+					-0.003076016902923584,
+					0.01032721996307373,
+					0.22685928642749786
+				],
+				"sortRadius": 0.8293172717094421
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/books/pa_book_wooden_0100.skin",
+		"fileDataID": 534951
+	}
+}

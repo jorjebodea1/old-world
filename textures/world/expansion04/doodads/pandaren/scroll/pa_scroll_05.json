@@ -1,0 +1,138 @@
+{
+	"fileType": "m2",
+	"fileDataID": 521203,
+	"fileName": "world/expansion04/doodads/pandaren/scroll/pa_scroll_05.m2",
+	"internalName": "PA_Scroll_05",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/scroll/pa_scroll_01.blp",
+			"fileNameExternal": "pa_scroll_01.png",
+			"mtlName": "mat_pa_scroll_01",
+			"flags": 0,
+			"fileDataID": 521193
+		},
+		{
+			"fileNameInternal": "world/generic/human/passive doodads/stormwind/armorreflectgold.blp",
+			"fileNameExternal": "..\\..\\..\\..\\generic\\human\\passivedoodads\\stormwind\\armorreflectgold.png",
+			"mtlName": "mat_armorreflectgold",
+			"flags": 0,
+			"fileDataID": 368821
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.2291688621044159,
+			-0.5273199677467346,
+			-0.14901705086231232
+		],
+		"max": [
+			0.22916889190673828,
+			0.4497731626033783,
+			0.14901702105998993
+		]
+	},
+	"boundingSphereRadius": 0.5183570981025696,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 456,
+				"triangleStart": 0,
+				"triangleCount": 1524,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.022414278239011765,
+					-0.07405009865760803,
+					-0.012641754001379013
+				],
+				"sortCenterPosition": [
+					1.4901161193847656e-8,
+					-0.03877340257167816,
+					-1.4901161193847656e-8
+				],
+				"sortRadius": 0.5183570981025696
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32770,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/scroll/pa_scroll_0500.skin",
+		"fileDataID": 521204
+	}
+}

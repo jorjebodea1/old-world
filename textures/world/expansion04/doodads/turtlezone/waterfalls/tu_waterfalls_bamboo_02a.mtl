@@ -1,0 +1,6 @@
+newmtl mat_pandawater_13
+illum 1
+map_Kd ..\..\kunlaisummit\waterfalls\pandawater_13.png
+newmtl mat_pandawater_falls_top_04static_brown3
+illum 1
+map_Kd ..\..\valleyoffourwinds\waterfalls\pandawater_falls_top_04static_brown3.png

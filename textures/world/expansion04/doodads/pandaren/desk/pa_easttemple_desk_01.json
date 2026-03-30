@@ -1,0 +1,250 @@
+{
+	"fileType": "m2",
+	"fileDataID": 535966,
+	"fileName": "world/expansion04/doodads/pandaren/desk/pa_easttemple_desk_01.m2",
+	"internalName": "PA_EastTemple_Desk_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_props/shrine_props.blp",
+			"fileNameExternal": "..\\shrine_props\\shrine_props.png",
+			"mtlName": "mat_shrine_props",
+			"flags": 0,
+			"fileDataID": 528697
+		},
+		{
+			"fileNameInternal": "world/expansion02/doodads/dalaran/glowball.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion02\\doodads\\dalaran\\glowball.png",
+			"mtlName": "mat_glowball",
+			"flags": 0,
+			"fileDataID": 243229
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/desk/pa_easttemple_desk_tex.blp",
+			"fileNameExternal": "pa_easttemple_desk_tex.png",
+			"mtlName": "mat_pa_easttemple_desk_tex",
+			"flags": 0,
+			"fileDataID": 535965
+		},
+		{
+			"fileNameInternal": "item/objectcomponents/weapon/chromereflect.blp",
+			"fileNameExternal": "..\\..\\..\\..\\..\\item\\objectcomponents\\weapon\\chromereflect.png",
+			"mtlName": "mat_chromereflect",
+			"flags": 0,
+			"fileDataID": 145297
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/scroll/pa_scroll_huge_01.blp",
+			"fileNameExternal": "..\\scroll\\pa_scroll_huge_01.png",
+			"mtlName": "mat_pa_scroll_huge_01",
+			"flags": 0,
+			"fileDataID": 535160
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0,
+		2,
+		3,
+		4
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.7966180443763733,
+			-0.8034447431564331,
+			-0.025893429294228554
+		],
+		"max": [
+			0.8943983912467957,
+			0.8657841086387634,
+			2.300830364227295
+		]
+	},
+	"boundingSphereRadius": 1.5056588649749756,
+	"collisionBox": {
+		"min": [
+			-0.7344378232955933,
+			-0.6880397200584412,
+			-0.02589348331093788
+		],
+		"max": [
+			0.8943983912467957,
+			0.6967652440071106,
+			1.6404978036880493
+		]
+	},
+	"collisionSphereRadius": 1.3553276062011719,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 61,
+				"triangleStart": 0,
+				"triangleCount": 225,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.45640841126441956,
+					0.4271290898323059,
+					1.7552613019943237
+				],
+				"sortCenterPosition": [
+					-0.4410669207572937,
+					0.43323391675949097,
+					1.8672919273376465
+				],
+				"sortRadius": 0.2995147407054901
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 61,
+				"vertexCount": 856,
+				"triangleStart": 225,
+				"triangleCount": 2508,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.24852080643177032,
+					-0.010470754466950893,
+					0.9347295761108398
+				],
+				"sortCenterPosition": [
+					0.04889017343521118,
+					0.0034832358360290527,
+					0.9454942941665649
+				],
+				"sortRadius": 1.4229397773742676
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 917,
+				"vertexCount": 1516,
+				"triangleStart": 2733,
+				"triangleCount": 4764,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.18075864017009735,
+					0.040042221546173096,
+					0.5370955467224121
+				],
+				"sortCenterPosition": [
+					0.0998820960521698,
+					0.03116968274116516,
+					0.9538008570671082
+				],
+				"sortRadius": 1.155676245689392
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 32768,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 2,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 2,
+				"flags2": 2,
+				"colorIndex": 65535,
+				"materialIndex": 3,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 3,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/desk/pa_easttemple_desk_0100.skin",
+		"fileDataID": 535967
+	}
+}

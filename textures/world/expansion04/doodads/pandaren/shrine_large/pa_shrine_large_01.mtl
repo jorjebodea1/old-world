@@ -1,0 +1,6 @@
+newmtl mat_pa_shrine_large_01b
+illum 1
+map_Kd pa_shrine_large_01b.png
+newmtl mat_pa_shrine_large_01
+illum 1
+map_Kd pa_shrine_large_01.png

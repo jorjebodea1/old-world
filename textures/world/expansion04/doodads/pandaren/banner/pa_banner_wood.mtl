@@ -1,0 +1,6 @@
+newmtl mat_pa_standard_blockwood_01
+illum 1
+map_Kd pa_standard_blockwood_01.png
+newmtl mat_armorreflect4
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\shield\armorreflect4.png

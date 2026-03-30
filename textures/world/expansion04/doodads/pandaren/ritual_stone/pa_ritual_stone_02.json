@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 530994,
+	"fileName": "world/expansion04/doodads/pandaren/ritual_stone/pa_ritual_stone_02.m2",
+	"internalName": "PA_Ritual_Stone_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/ritual_stone/pa_ritual_stone_02_tex.blp",
+			"fileNameExternal": "pa_ritual_stone_02_tex.png",
+			"mtlName": "mat_pa_ritual_stone_02_tex",
+			"flags": 3,
+			"fileDataID": 530993
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.041784405708313,
+			-1.7007386684417725,
+			-0.5839483737945557
+		],
+		"max": [
+			1.0635067224502563,
+			1.6905211210250854,
+			6.038035869598389
+		]
+	},
+	"boundingSphereRadius": 3.5901448726654053,
+	"collisionBox": {
+		"min": [
+			-0.8497827649116516,
+			-1.429766058921814,
+			-0.5839483737945557
+		],
+		"max": [
+			0.990413248538971,
+			1.4168064594268799,
+			6.038035869598389
+		]
+	},
+	"collisionSphereRadius": 3.591322898864746,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 758,
+				"triangleStart": 0,
+				"triangleCount": 2640,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.020687539130449295,
+					-0.00036184690543450415,
+					2.4584295749664307
+				],
+				"sortCenterPosition": [
+					0.020687539130449295,
+					-0.00036184690543450415,
+					2.4584295749664307
+				],
+				"sortRadius": 3.5796713829040527
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/ritual_stone/pa_ritual_stone_0200.skin",
+		"fileDataID": 530995
+	}
+}

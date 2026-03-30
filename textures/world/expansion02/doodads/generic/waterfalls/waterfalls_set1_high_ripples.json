@@ -1,0 +1,173 @@
+{
+	"fileType": "m2",
+	"fileDataID": 195676,
+	"fileName": "world/expansion02/doodads/generic/waterfalls/waterfalls_set1_high_ripples.m2",
+	"internalName": "WaterFalls_Set1_High_Ripples",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/generic/waterfalls/watercascade_soft_universal.blp",
+			"fileNameExternal": "watercascade_soft_universal.png",
+			"mtlName": "mat_watercascade_soft_universal",
+			"flags": 3,
+			"fileDataID": 195673
+		},
+		{
+			"fileNameInternal": "world/expansion02/doodads/generic/waterfalls/t_vfx_border3.blp",
+			"fileNameExternal": "t_vfx_border3.png",
+			"mtlName": "mat_t_vfx_border3",
+			"flags": 0,
+			"fileDataID": 195669
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 20,
+			"blendingMode": 2
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [
+		{
+			"translation": {
+				"globalSeq": 0,
+				"interpolation": 1,
+				"timestamps": [
+					[
+						0,
+						6667
+					]
+				],
+				"values": [
+					[
+						[
+							-1.9961235523223877,
+							0,
+							0
+						],
+						[
+							0.010030761361122131,
+							0,
+							0
+						]
+					]
+				]
+			},
+			"rotation": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			},
+			"scaling": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [],
+				"values": []
+			}
+		}
+	],
+	"textureTransformsLookup": [
+		0,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-18.503034591674805,
+			-64.96150970458984,
+			0.8345154523849487
+		],
+		"max": [
+			79.59903717041016,
+			63.68798065185547,
+			0.8345430493354797
+		]
+	},
+	"boundingSphereRadius": 75.90727233886719,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 96,
+				"triangleStart": 0,
+				"triangleCount": 450,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					20.06049919128418,
+					0.9291271567344666,
+					0.8345286846160889
+				],
+				"sortCenterPosition": [
+					20.06049919128418,
+					0.9291271567344666,
+					0.8345286846160889
+				],
+				"sortRadius": 68.95458984375
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 138,
+				"priority": 0,
+				"shaderID": 16401,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion02/doodads/generic/waterfalls/waterfalls_set1_high_ripples00.skin",
+		"fileDataID": 498947
+	}
+}

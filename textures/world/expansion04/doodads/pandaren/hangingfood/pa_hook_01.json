@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 532101,
+	"fileName": "world/expansion04/doodads/pandaren/hangingfood/pa_hook_01.m2",
+	"internalName": "PA_Hook_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/hangingfood/herbs.blp",
+			"fileNameExternal": "herbs.png",
+			"mtlName": "mat_herbs",
+			"flags": 1,
+			"fileDataID": 529164
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.029686816036701202,
+			-0.03686492145061493,
+			-1.0945429801940918
+		],
+		"max": [
+			0.3234216272830963,
+			0.09154310822486877,
+			0.036680709570646286
+		]
+	},
+	"boundingSphereRadius": 0.5942635536193848,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 21,
+				"triangleStart": 0,
+				"triangleCount": 108,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.12061123549938202,
+					0.019261494278907776,
+					-0.7798861265182495
+				],
+				"sortCenterPosition": [
+					0.14686740934848785,
+					0.027339093387126923,
+					-0.5289311408996582
+				],
+				"sortRadius": 0.5942635536193848
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/hangingfood/pa_hook_0100.skin",
+		"fileDataID": 532102
+	}
+}

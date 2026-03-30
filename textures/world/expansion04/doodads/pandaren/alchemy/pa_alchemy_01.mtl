@@ -1,0 +1,9 @@
+newmtl mat_pa_alchemygear
+illum 1
+map_Kd pa_alchemygear.png
+newmtl mat_rainbowenviro_bright
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\generic\elementiumore\rainbowenviro_bright.png
+newmtl mat_armorreflect_hard
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\weapon\armorreflect_hard.png

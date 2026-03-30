@@ -1,0 +1,3 @@
+newmtl mat_hz_foodcontainers
+illum 1
+map_Kd hz_foodcontainers.png

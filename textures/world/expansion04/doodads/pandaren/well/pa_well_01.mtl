@@ -1,0 +1,15 @@
+newmtl mat_pa_well_tex_01
+illum 1
+map_Kd pa_well_tex_01.png
+newmtl mat_pa_well_tex_02
+illum 1
+map_Kd pa_well_tex_02.png
+newmtl mat_armorreflectgold
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\armorreflectgold.png
+newmtl mat_stormwind_fountainwater_01
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\stormwind_fountainwater_01.png
+newmtl mat_lostisles_waterfallalpha02
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\lostisles\waterfalls\lostisles_waterfallalpha02.png

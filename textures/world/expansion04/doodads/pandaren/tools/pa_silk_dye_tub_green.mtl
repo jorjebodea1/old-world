@@ -1,0 +1,9 @@
+newmtl mat_pa_silk_dye_green_tex
+illum 1
+map_Kd pa_silk_dye_green_tex.png
+newmtl mat_lostisles_waterfallalpha02
+illum 1
+map_Kd ..\..\..\..\expansion03\doodads\lostisles\waterfalls\lostisles_waterfallalpha02.png
+newmtl mat_pa_spool_silk_tex
+illum 1
+map_Kd pa_spool_silk_tex.png

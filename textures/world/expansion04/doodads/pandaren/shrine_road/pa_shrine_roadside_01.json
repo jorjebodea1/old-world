@@ -1,0 +1,186 @@
+{
+	"fileType": "m2",
+	"fileDataID": 529275,
+	"fileName": "world/expansion04/doodads/pandaren/shrine_road/pa_shrine_roadside_01.m2",
+	"internalName": "PA_Shrine_RoadSide_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_road/pa_smokestrip_01.blp",
+			"fileNameExternal": "pa_smokestrip_01.png",
+			"mtlName": "mat_pa_smokestrip_01",
+			"flags": 3,
+			"fileDataID": 1043608
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_road/pa_incensesmoke_01g.blp",
+			"fileNameExternal": "pa_incensesmoke_01g.png",
+			"mtlName": "mat_pa_incensesmoke_01g",
+			"flags": 0,
+			"fileDataID": 1043609
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/shrine_road/pa_shrine_roadside_01.blp",
+			"fileNameExternal": "pa_shrine_roadside_01.png",
+			"mtlName": "mat_pa_shrine_roadside_01",
+			"flags": 0,
+			"fileDataID": 529274
+		}
+	],
+	"textureTypes": [
+		0,
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 16,
+			"blendingMode": 2
+		},
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		2,
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535,
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.5593388080596924,
+			-1.8564444780349731,
+			-0.41712686419487
+		],
+		"max": [
+			2.2538444995880127,
+			1.8564444780349731,
+			4.19534158706665
+		]
+	},
+	"boundingSphereRadius": 3.3618366718292236,
+	"collisionBox": {
+		"min": [
+			-2.5593392848968506,
+			-1.856445074081421,
+			-0.4171268045902252
+		],
+		"max": [
+			2.2538444995880127,
+			1.856445074081421,
+			3.499183177947998
+		]
+	},
+	"collisionSphereRadius": 3.133305311203003,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 611,
+				"triangleStart": 0,
+				"triangleCount": 2358,
+				"boneCount": 4,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 2,
+				"centerPosition": [
+					0.3967743515968323,
+					0.06656952947378159,
+					1.9637846946716309
+				],
+				"sortCenterPosition": [
+					-0.15274715423583984,
+					0,
+					1.47885262966156
+				],
+				"sortRadius": 3.0948290824890137
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 611,
+				"vertexCount": 42,
+				"triangleStart": 2358,
+				"triangleCount": 108,
+				"boneCount": 4,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					1.0579187870025635,
+					0.1714368760585785,
+					3.3828318119049072
+				],
+				"sortCenterPosition": [
+					1.0774028301239014,
+					0.16863049566745758,
+					3.480412006378174
+				],
+				"sortRadius": 0.7486145496368408
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 144,
+				"priority": 0,
+				"shaderID": 16401,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 2,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/shrine_road/pa_shrine_roadside_0100.skin",
+		"fileDataID": 529276
+	}
+}

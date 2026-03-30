@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 516322,
+	"fileName": "world/nodxt/detail/tu_flo03.m2",
+	"internalName": "TU_Flo03",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/leafybush/tu_leafybush01.blp",
+			"fileNameExternal": "..\\..\\expansion04\\doodads\\turtlezone\\leafybush\\tu_leafybush01.png",
+			"mtlName": "mat_tu_leafybush01",
+			"flags": 3,
+			"fileDataID": 515062
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.6174420118331909,
+			-0.5863623023033142,
+			-0.2026287168264389
+		],
+		"max": [
+			0.3705711364746094,
+			0.3906141221523285,
+			0.8703330159187317
+		]
+	},
+	"boundingSphereRadius": 0.6288520097732544,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 51,
+				"triangleStart": 0,
+				"triangleCount": 147,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.07715284824371338,
+					-0.1013178750872612,
+					0.6012638807296753
+				],
+				"sortCenterPosition": [
+					-0.12343543767929077,
+					-0.09787409007549286,
+					0.3338521420955658
+				],
+				"sortRadius": 0.6288520097732544
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/nodxt/detail/tu_flo0300.skin",
+		"fileDataID": 516323
+	}
+}

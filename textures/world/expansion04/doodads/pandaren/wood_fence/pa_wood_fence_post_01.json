@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 520073,
+	"fileName": "world/expansion04/doodads/pandaren/wood_fence/pa_wood_fence_post_01.m2",
+	"internalName": "PA_Wood_Fence_Post_01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/wood_fence/pa_wood_fence_tex_01.blp",
+			"fileNameExternal": "pa_wood_fence_tex_01.png",
+			"mtlName": "mat_pa_wood_fence_tex_01",
+			"flags": 3,
+			"fileDataID": 528706
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.36740508675575256,
+			-0.36459359526634216,
+			-0.2766946852207184
+		],
+		"max": [
+			0.36140069365501404,
+			0.36421212553977966,
+			1.481041669845581
+		]
+	},
+	"boundingSphereRadius": 0.951419472694397,
+	"collisionBox": {
+		"min": [
+			-0.31964313983917236,
+			-0.36468061804771423,
+			-0.2746433913707733
+		],
+		"max": [
+			0.3157588243484497,
+			0.3690183460712433,
+			1.4737097024917603
+		]
+	},
+	"collisionSphereRadius": 0.9480311274528503,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 217,
+				"triangleStart": 0,
+				"triangleCount": 924,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.003977321088314056,
+					-0.003593540983274579,
+					0.8064004778862
+				],
+				"sortCenterPosition": [
+					-0.0030021965503692627,
+					-0.00019073486328125,
+					0.6021735072135925
+				],
+				"sortRadius": 0.951419472694397
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/wood_fence/pa_wood_fence_post_0100.skin",
+		"fileDataID": 520074
+	}
+}

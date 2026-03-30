@@ -1,0 +1,15 @@
+newmtl mat_abyssal_purplefish_tex
+illum 1
+map_Kd abyssal_purplefish_tex.png
+newmtl mat_abyssal_blueyellowfish_tex
+illum 1
+map_Kd abyssal_blueyellowfish_tex.png
+newmtl mat_abyssal_yellowfish_tex
+illum 1
+map_Kd abyssal_yellowfish_tex.png
+newmtl mat_abyssal_redfish_tex
+illum 1
+map_Kd abyssal_redfish_tex.png
+newmtl mat_abyssal_lightgreen_tex
+illum 1
+map_Kd abyssal_lightgreen_tex.png

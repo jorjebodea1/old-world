@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 534747,
+	"fileName": "world/nodxt/detail/tu_bus01_blue.m2",
+	"internalName": "TU_Bus01_blue",
+	"textures": [
+		{
+			"fileNameInternal": "world/nodxt/detail/tu_detaildoodads_02.blp",
+			"fileNameExternal": "..\\..\\..\\world\\nodxt\\detail\\tu_detaildoodads_02.png",
+			"mtlName": "mat_tu_detaildoodads_02",
+			"flags": 0,
+			"fileDataID": 534746
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-0.6498288512229919,
+			-1.087129831314087,
+			-0.10720061510801315
+		],
+		"max": [
+			0.2846272885799408,
+			1.0042942762374878,
+			0.5010699033737183
+		]
+	},
+	"boundingSphereRadius": 1.0978754758834839,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 14,
+				"triangleStart": 0,
+				"triangleCount": 18,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.2561030387878418,
+					-0.025292333215475082,
+					0.12543070316314697
+				],
+				"sortCenterPosition": [
+					-0.18260078132152557,
+					-0.04141777753829956,
+					0.19693464040756226
+				],
+				"sortRadius": 1.0978754758834839
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/nodxt/detail/tu_bus01_blue00.skin",
+		"fileDataID": 534748
+	}
+}

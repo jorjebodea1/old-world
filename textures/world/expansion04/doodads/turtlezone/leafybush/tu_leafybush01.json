@@ -1,0 +1,176 @@
+{
+	"fileType": "m2",
+	"fileDataID": 515063,
+	"fileName": "world/expansion04/doodads/turtlezone/leafybush/tu_leafybush01.m2",
+	"internalName": "TU_LeafyBush01",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/leafybush/tu_leafybush01.blp",
+			"fileNameExternal": "tu_leafybush01.png",
+			"mtlName": "mat_tu_leafybush01",
+			"flags": 3,
+			"fileDataID": 515062
+		},
+		{
+			"fileNameInternal": "world/expansion04/doodads/turtlezone/leafybush/tu_leafybush01_blue.blp",
+			"fileNameExternal": "tu_leafybush01_blue.png",
+			"mtlName": "mat_tu_leafybush01_blue",
+			"flags": 3,
+			"fileDataID": 535022
+		}
+	],
+	"textureTypes": [
+		0,
+		0
+	],
+	"materials": [
+		{
+			"flags": 4,
+			"blendingMode": 1
+		},
+		{
+			"flags": 4,
+			"blendingMode": 1
+		}
+	],
+	"textureCombos": [
+		0,
+		1
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-2.9460813999176025,
+			-2.723759412765503,
+			-2.7233083248138428
+		],
+		"max": [
+			2.7371010780334473,
+			2.595717430114746,
+			4.51388692855835
+		]
+	},
+	"boundingSphereRadius": 3.8297624588012695,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 195,
+				"triangleStart": 0,
+				"triangleCount": 468,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.03924728184938431,
+					0.08235708624124527,
+					2.530169725418091
+				],
+				"sortCenterPosition": [
+					-0.03924728184938431,
+					0.08235708624124527,
+					2.530169725418091
+				],
+				"sortRadius": 3.3125460147857666
+			},
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 195,
+				"vertexCount": 72,
+				"triangleStart": 468,
+				"triangleCount": 120,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-0.13766789436340332,
+					-0.019023500382900238,
+					1.4316052198410034
+				],
+				"sortCenterPosition": [
+					-0.08633482456207275,
+					-0.18621855974197388,
+					0.6181046962738037
+				],
+				"sortRadius": 3.505465269088745
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			},
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 1,
+				"flags2": 1,
+				"colorIndex": 65535,
+				"materialIndex": 1,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 1,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/turtlezone/leafybush/tu_leafybush0100.skin",
+		"fileDataID": 515064
+	}
+}

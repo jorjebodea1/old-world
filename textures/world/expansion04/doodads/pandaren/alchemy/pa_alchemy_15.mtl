@@ -1,0 +1,9 @@
+newmtl mat_pa_alchemygear
+illum 1
+map_Kd pa_alchemygear.png
+newmtl mat_smoothreflect
+illum 1
+map_Kd ..\..\..\..\..\item\objectcomponents\head\smoothreflect.png
+newmtl mat_t_vfx_smoke_creepy
+illum 1
+map_Kd ..\..\..\..\..\spells\t_vfx_smoke_creepy.png

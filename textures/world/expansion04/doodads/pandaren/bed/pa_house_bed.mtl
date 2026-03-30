@@ -1,0 +1,15 @@
+newmtl mat_pa_trim_01
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\pandaren\base_houses\pa_trim_01.png
+newmtl mat_pa_house_bed_02
+illum 1
+map_Kd pa_house_bed_02.png
+newmtl mat_armorreflectgold
+illum 1
+map_Kd ..\..\..\..\generic\human\passivedoodads\stormwind\armorreflectgold.png
+newmtl mat_pa_pillardeco
+illum 1
+map_Kd ..\..\..\..\..\dungeons\textures\pandaren\base_houses\pa_pillardeco.png
+newmtl mat_pa_house_bed_01
+illum 1
+map_Kd pa_house_bed_01.png

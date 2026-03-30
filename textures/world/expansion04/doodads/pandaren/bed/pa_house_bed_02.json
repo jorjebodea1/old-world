@@ -1,0 +1,124 @@
+{
+	"fileType": "m2",
+	"fileDataID": 579248,
+	"fileName": "world/expansion04/doodads/pandaren/bed/pa_house_bed_02.m2",
+	"internalName": "PA_House_Bed_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion04/doodads/pandaren/bed/pa_house_bed_03.blp",
+			"fileNameExternal": "pa_house_bed_03.png",
+			"mtlName": "mat_pa_house_bed_03",
+			"flags": 3,
+			"fileDataID": 579247
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 0,
+			"blendingMode": 0
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					32767
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-1.6187583208084106,
+			-2.051348924636841,
+			-0.007266468368470669
+		],
+		"max": [
+			1.648456335067749,
+			2.123601198196411,
+			1.4477909803390503
+		]
+	},
+	"boundingSphereRadius": 2.3431692123413086,
+	"collisionBox": {
+		"min": [
+			-1.6413204669952393,
+			-2.051100969314575,
+			-0.002710289554670453
+		],
+		"max": [
+			1.6723356246948242,
+			2.283261299133301,
+			1.4783989191055298
+		]
+	},
+	"collisionSphereRadius": 2.4225194454193115,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 530,
+				"triangleStart": 0,
+				"triangleCount": 1962,
+				"boneCount": 1,
+				"boneStart": 0,
+				"boneInfluences": 0,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					0.004188415128737688,
+					0.05696237087249756,
+					0.7261452078819275
+				],
+				"sortCenterPosition": [
+					0.01484900712966919,
+					0.036126136779785156,
+					0.7202622294425964
+				],
+				"sortRadius": 2.3431692123413086
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 0,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 65535,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion04/doodads/pandaren/bed/pa_house_bed_0200.skin",
+		"fileDataID": 579249
+	}
+}

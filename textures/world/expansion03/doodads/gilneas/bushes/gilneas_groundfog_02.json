@@ -1,0 +1,159 @@
+{
+	"fileType": "m2",
+	"fileDataID": 306211,
+	"fileName": "world/expansion03/doodads/gilneas/bushes/gilneas_groundfog_02.m2",
+	"internalName": "Gilneas_GroundFog_02",
+	"textures": [
+		{
+			"fileNameInternal": "world/expansion02/doodads/howlingfjord/fog/hfjord_fog_01.blp",
+			"fileNameExternal": "..\\..\\..\\..\\expansion02\\doodads\\howlingfjord\\fog\\hfjord_fog_01.png",
+			"mtlName": "mat_hfjord_fog_01",
+			"flags": 0,
+			"fileDataID": 195955
+		}
+	],
+	"textureTypes": [
+		0
+	],
+	"materials": [
+		{
+			"flags": 340,
+			"blendingMode": 4
+		}
+	],
+	"textureCombos": [
+		0
+	],
+	"colors": [
+		{
+			"color": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						[
+							0.35686275362968445,
+							0.41568630933761597,
+							0.4431372880935669
+						]
+					]
+				]
+			},
+			"alpha": {
+				"globalSeq": 65535,
+				"interpolation": 0,
+				"timestamps": [
+					[
+						0
+					]
+				],
+				"values": [
+					[
+						32767
+					]
+				]
+			}
+		}
+	],
+	"textureWeights": [
+		{
+			"globalSeq": 65535,
+			"interpolation": 0,
+			"timestamps": [
+				[
+					0
+				]
+			],
+			"values": [
+				[
+					16384
+				]
+			]
+		}
+	],
+	"transparencyLookup": [
+		0
+	],
+	"textureTransforms": [],
+	"textureTransformsLookup": [
+		65535
+	],
+	"boundingBox": {
+		"min": [
+			-63.214107513427734,
+			-66.09198760986328,
+			-12.090019226074219
+		],
+		"max": [
+			64.4306411743164,
+			58.022918701171875,
+			65.31879425048828
+		]
+	},
+	"boundingSphereRadius": 66.68885040283203,
+	"collisionBox": {
+		"min": [
+			0,
+			0,
+			0
+		],
+		"max": [
+			0,
+			0,
+			0
+		]
+	},
+	"collisionSphereRadius": 0,
+	"skin": {
+		"subMeshes": [
+			{
+				"enabled": true,
+				"submeshID": 0,
+				"level": 0,
+				"vertexStart": 0,
+				"vertexCount": 56,
+				"triangleStart": 0,
+				"triangleCount": 84,
+				"boneCount": 14,
+				"boneStart": 0,
+				"boneInfluences": 1,
+				"centerBoneIndex": 0,
+				"centerPosition": [
+					-6.718756675720215,
+					-2.7950711250305176,
+					25.80580711364746
+				],
+				"sortCenterPosition": [
+					-0.1619281768798828,
+					-2.611459732055664,
+					26.61438751220703
+				],
+				"sortRadius": 62.73120880126953
+			}
+		],
+		"textureUnits": [
+			{
+				"flags": 16,
+				"priority": 0,
+				"shaderID": 16,
+				"skinSectionIndex": 0,
+				"flags2": 0,
+				"colorIndex": 0,
+				"materialIndex": 0,
+				"materialLayer": 0,
+				"textureCount": 1,
+				"textureComboIndex": 0,
+				"textureCoordComboIndex": 0,
+				"textureWeightComboIndex": 0,
+				"textureTransformComboIndex": 0
+			}
+		],
+		"fileName": "world/expansion03/doodads/gilneas/bushes/gilneas_groundfog_0200.skin",
+		"fileDataID": 500976
+	}
+}

@@ -1,0 +1,9 @@
+newmtl mat_pa_smokestrip_01
+illum 1
+map_Kd pa_smokestrip_01.png
+newmtl mat_pa_incensesmoke_01g
+illum 1
+map_Kd pa_incensesmoke_01g.png
+newmtl mat_pa_shrine_roadside_01
+illum 1
+map_Kd pa_shrine_roadside_01.png
